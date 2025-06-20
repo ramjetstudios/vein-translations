@@ -9277,36 +9277,36 @@ Source/Vein/World/GlassComponent.cpp(71),,Glass,Glass,
 Source/Vein/World/GravestoneActor.cpp(32),,Gravestone_Name,Gravestone,
 Source/Vein/World/GravestoneActor.cpp(42),,Gravestone_Examine,Examine,
 Source/Vein/World/GravestoneActor.cpp(69),,Gravestone_Engraving,"{PersonName}, {BornYear} - {DeathYear}",
-Source/Vein/World/IceCreamMakerActor.cpp(112),,IceCream_Dispense_Empty,There is no ice cream left.,
-Source/Vein/World/IceCreamMakerActor.cpp(90),,IceCream_Dispense_NoPower,The dispenser is unpowered.,
-Source/Vein/World/IceCreamMakerActor.cpp(95),,IceCream_Dispense,You get some ice cream.,
-Source/Vein/World/Keypad.cpp(169),,Keypad_Use,Enter Code,
-Source/Vein/World/Keypad.cpp(173),,Keypad_NoPower,The keypad has no power.,
-Source/Vein/World/Keypad.cpp(177),,Keypad_NoTarget,The keypad reads 'NO CONN'.,
-Source/Vein/World/Keypad.cpp(38),,Keypad_Name,Keypad,
-Source/Vein/World/LargeBatteryBuiltActor.cpp(26),,LargeBattery_Name,Battery,
-Source/Vein/World/MicrowaveComponent.cpp(215),,Microwave_NoPower,The microwave is unpowered.,
-Source/Vein/World/PersistentCorpsesManager.cpp(37),,Corpse,Corpse,
-Source/Vein/World/ResourceHunk.cpp(31),,MineResource,You got {Count}x {Resource}.,
-Source/Vein/World/ResourceHunk.cpp(32),,MineResource_Failed,You can't get anything more from this.,
-Source/Vein/World/SolarPanelBuiltActor.cpp(41),,SolarPanel_Name,Solar Panel,
-Source/Vein/World/TeleporterComponent.cpp(25),,Teleporter_Blocked,Blocked.,
-Source/Vein/World/TeleporterComponent.cpp(26),,Teleporter_Locked,Locked.,
-Source/Vein/World/TemperatureManipulatorActor.cpp(107),,Radiator_NoPower,It's turned off.,
-Source/Vein/World/TemperatureManipulatorActor.cpp(119),,Radiator_NoFuel,"It's not running, but the switch is turned on.",
-Source/Vein/World/TemperatureManipulatorActor.cpp(127),,Radiator_Working,Seems to be working.,
-Source/Vein/World/TemperatureManipulatorActor.cpp(41),,Radiator_Name,Radiator,
-Source/Vein/World/TemperatureManipulatorActor.cpp(90),,Radiator_Check,Check,
-Source/Vein/World/TireAirPumpStation.cpp(30),,TirePump_Name,Air Pump,
-Source/Vein/World/TireAirPumpStation.cpp(43),,RefillTire,Refill Tire,
-Source/Vein/World/TireAirPumpStation.cpp(48),,RefillTire_NoTire,You don't have a tire in your inventory to refill.,
-Source/Vein/World/TireAirPumpStation.cpp(52),,RefillTire_NoPower,The power doesn't seem to be on.,
-Source/Vein/World/TireAirPumpStation.cpp(90),,TirePump_Notification,You fill the tire.,
-Source/Vein/World/TransformTransitionUseComponent.cpp(13),,TransformTransition_DefaultName,Door,
-Source/Vein/World/TransformTransitionUseComponent.cpp(14),,TransformTransition_DefaultOption,Toggle,
-Source/Vein/World/VendingMachineButton.cpp(114),,VendingMachine_NoPower,The vending machine has no power.,
-Source/Vein/World/VendingMachineButton.cpp(124),,VendingMachine_OutOfStock,The vending machine reads 'OUT OF STOCK'.,
-Source/Vein/World/VendingMachineButton.cpp(138),,VendingMachine_NoMoney,You don't have the money for this. It requires ${MoneyInDollars}.,
-Source/Vein/World/VendingMachineButton.cpp(147),,VendingMachine_Success,You insert the money.,
-Source/Vein/World/VendingMachineButton.cpp(30),,VendingMachineButton_Subtitle,Insert some money to purchase this.,
-Source/Vein/World/VendingMachineButton.cpp(68),,VendingMachine,Vending Machine,
+Source/Vein/World/IceCreamMakerActor.cpp(112),,IceCream_Dispense_Empty,There is no ice cream left.,已经没有冰淇淋了
+Source/Vein/World/IceCreamMakerActor.cpp(90),,IceCream_Dispense_NoPower,The dispenser is unpowered.,冰淇淋机没有电
+Source/Vein/World/IceCreamMakerActor.cpp(95),,IceCream_Dispense,You get some ice cream.,你得到了一些冰淇淋
+Source/Vein/World/Keypad.cpp(169),,Keypad_Use,Enter Code,输入代码
+Source/Vein/World/Keypad.cpp(173),,Keypad_NoPower,The keypad has no power.,键盘没有电源
+Source/Vein/World/Keypad.cpp(177),,Keypad_NoTarget,The keypad reads 'NO CONN'.,"键盘显示'NO CONN'"
+Source/Vein/World/Keypad.cpp(38),,Keypad_Name,Keypad,键盘
+Source/Vein/World/LargeBatteryBuiltActor.cpp(26),,LargeBattery_Name,Battery,电池
+Source/Vein/World/MicrowaveComponent.cpp(215),,Microwave_NoPower,The microwave is unpowered.,微波炉没有电
+Source/Vein/World/PersistentCorpsesManager.cpp(37),,Corpse,Corpse,尸体
+Source/Vein/World/ResourceHunk.cpp(31),,MineResource,You got {Count}x {Resource}.,你获得了 {Count}x {Resource}
+Source/Vein/World/ResourceHunk.cpp(32),,MineResource_Failed,You can't get anything more from this.,你无法从中获得更多
+Source/Vein/World/SolarPanelBuiltActor.cpp(41),,SolarPanel_Name,Solar Panel,太阳能板
+Source/Vein/World/TeleporterComponent.cpp(25),,Teleporter_Blocked,Blocked.,阻塞
+Source/Vein/World/TeleporterComponent.cpp(26),,Teleporter_Locked,Locked.,卡住
+Source/Vein/World/TemperatureManipulatorActor.cpp(107),,Radiator_NoPower,It's turned off.,它已关闭
+Source/Vein/World/TemperatureManipulatorActor.cpp(119),,Radiator_NoFuel,"It's not running, but the switch is turned on.","它没有运行，但开关已打开"
+Source/Vein/World/TemperatureManipulatorActor.cpp(127),,Radiator_Working,Seems to be working.,似乎在工作
+Source/Vein/World/TemperatureManipulatorActor.cpp(41),,Radiator_Name,Radiator,散热器
+Source/Vein/World/TemperatureManipulatorActor.cpp(90),,Radiator_Check,Check,检查
+Source/Vein/World/TireAirPumpStation.cpp(30),,TirePump_Name,Air Pump,充气泵
+Source/Vein/World/TireAirPumpStation.cpp(43),,RefillTire,Refill Tire,重新充气轮胎
+Source/Vein/World/TireAirPumpStation.cpp(48),,RefillTire_NoTire,You don't have a tire in your inventory to refill.,你的库存中没有轮胎需要补充
+Source/Vein/World/TireAirPumpStation.cpp(52),,RefillTire_NoPower,The power doesn't seem to be on.,电源似乎没有打开
+Source/Vein/World/TireAirPumpStation.cpp(90),,TirePump_Notification,You fill the tire.,你给轮胎充气
+Source/Vein/World/TransformTransitionUseComponent.cpp(13),,TransformTransition_DefaultName,Door,门
+Source/Vein/World/TransformTransitionUseComponent.cpp(14),,TransformTransition_DefaultOption,Toggle,切换
+Source/Vein/World/VendingMachineButton.cpp(114),,VendingMachine_NoPower,The vending machine has no power.,自动售货机没电了
+Source/Vein/World/VendingMachineButton.cpp(124),,VendingMachine_OutOfStock,The vending machine reads 'OUT OF STOCK'.,"自动售货机显示'缺货'"
+Source/Vein/World/VendingMachineButton.cpp(138),,VendingMachine_NoMoney,You don't have the money for this. It requires ${MoneyInDollars}.,"你没有钱做这个，它需要${MoneyInDollars}"
+Source/Vein/World/VendingMachineButton.cpp(147),,VendingMachine_Success,You insert the money.,你放入了钱
+Source/Vein/World/VendingMachineButton.cpp(30),,VendingMachineButton_Subtitle,Insert some money to purchase this.,放入一些钱来购买这个
+Source/Vein/World/VendingMachineButton.cpp(68),,VendingMachine,Vending Machine,自动售货机
