@@ -6809,14 +6809,14 @@ Gebruikt om diepe wonden te bedekken, het bloeden te stoppen en infectie te voor
 /Game/Vein/Settings/GS_PowerShutoffTime.GS_PowerShutoffTime.Description,,75CA800A4D9D5B740B3527ADB406720F,When the power shuts off.,Wanneer de stroom wordt uitgeschakeld.
 /Game/Vein/Settings/GS_PowerShutoffTime.GS_PowerShutoffTime.Label,,C42CDC684736D0468CE2F5A04352FEE7,Power Failure Time,Tijd tot stroomuitval
 /Game/Vein/Settings/GS_PowerShutoffTime.GS_PowerShutoffTime.Labels(0).Labels,,199000CD41F2ADE4AF05F9A193E4571F,Immediately,Onmiddellijk
-/Game/Vein/Settings/GS_PowerShutoffTime.GS_PowerShutoffTime.Labels(1).Labels,,A84FF45C452A7B3749CD96B5EAC1CF57,1 Week,1 week
+/Game/Vein/Settings/GS_PowerShutoffTime.GS_PowerShutoffTime.Labels(1).Labels,,A84FF45C452A7B3749CD96B5EAC1CF57,1 Week,1 Week
 /Game/Vein/Settings/GS_PowerShutoffTime.GS_PowerShutoffTime.Labels(2).Labels,,0BE5974641BF4F3550C49FAF336A103B,1.5 Months,"1,5 maand"
-/Game/Vein/Settings/GS_PowerShutoffTime.GS_PowerShutoffTime.Labels(3).Labels,,9FBC1CA04AE02094353431BEBD43395C,3 Months,3 maanden
-/Game/Vein/Settings/GS_PowerShutoffTime.GS_PowerShutoffTime.Labels(4).Labels,,34DB129A4777C0A70EFAF5B2912AAF09,9 Months,9 maanden
+/Game/Vein/Settings/GS_PowerShutoffTime.GS_PowerShutoffTime.Labels(3).Labels,,9FBC1CA04AE02094353431BEBD43395C,3 Months,3 Maanden
+/Game/Vein/Settings/GS_PowerShutoffTime.GS_PowerShutoffTime.Labels(4).Labels,,34DB129A4777C0A70EFAF5B2912AAF09,9 Months,9 Maanden
 /Game/Vein/Settings/GS_PowerShutoffTime.GS_PowerShutoffTime.Labels(5).Labels,,77A222E941C6D9991A94EDB88B5706E6,1.5 Years,"1,5 jaar"
 /Game/Vein/Settings/GS_PowerShutoffTime.GS_PowerShutoffTime.Labels(6).Labels,,AB138F544833D4BEEA65CAA190AB47FC,Never,Nooit
-/Game/Vein/Settings/GS_PVP.GS_PVP.Description,,66E5F9A54AD5B1789FDC0DB0EC8C620E,Enable or disable player-versus-player damage.,Schakel speler-tegen-speler-schade in of uit.
-/Game/Vein/Settings/GS_PVP.GS_PVP.Label,,672E47AD4A17ACF68838A583C9A62DBA,PvP,Pvp
+/Game/Vein/Settings/GS_PVP.GS_PVP.Description,,66E5F9A54AD5B1789FDC0DB0EC8C620E,Enable or disable player-versus-player damage.,Schakel speler-tegen-speler schade in of uit.
+/Game/Vein/Settings/GS_PVP.GS_PVP.Label,,672E47AD4A17ACF68838A583C9A62DBA,PvP,PvP
 /Game/Vein/Settings/GS_ScarcityDifficulty.GS_ScarcityDifficulty.Description,,D0E52D254DFD0649F925B59A5F7C3FBD,Less loot means a more difficult - and fast-approaching - endgame.,Minder buit betekent een moeilijker - en sneller naderend - eindspel.
 /Game/Vein/Settings/GS_ScarcityDifficulty.GS_ScarcityDifficulty.Label,,77D2D15545C37D72F332FC8F5C7BD80D,Loot Scarcity,Schaarste aan buit
 /Game/Vein/Settings/GS_ScarcityDifficulty.GS_ScarcityDifficulty.Labels(0).Labels,,EE3E954C4EC6B910AE2266AFEF3BD29E,Infinite Loot,Oneindige buit
@@ -6829,9 +6829,9 @@ Gebruikt om diepe wonden te bedekken, het bloeden te stoppen en infectie te voor
 /Game/Vein/Settings/GS_StartTime.GS_StartTime.Description,,D688690047D0412C94A0A287DEDF951A,You can choose to start the game later than default.,Je kunt ervoor kiezen om het spel later te starten dan standaard.
 /Game/Vein/Settings/GS_StartTime.GS_StartTime.Label,,C60793094892B3D47A799AB467FE300C,Start Time,Starttijd
 /Game/Vein/Settings/GS_StartTime.GS_StartTime.Labels(0).Labels,,2FD924C1432393C975A7D38D217D9386,Normal,Normaal
-/Game/Vein/Settings/GS_StartTime.GS_StartTime.Labels(1).Labels,,426E6A984BA619769FFE2798323A03CE,+3 Months,#ERROR!
-/Game/Vein/Settings/GS_StartTime.GS_StartTime.Labels(2).Labels,,A84F027240D88F206739D69DADBFFBE7,+6 Months,#ERROR!
-/Game/Vein/Settings/GS_StartTime.GS_StartTime.Labels(3).Labels,,183EBBD0413DC4BBE530AE805BCBBCAA,+1 Year,#ERROR!
+/Game/Vein/Settings/GS_StartTime.GS_StartTime.Labels(1).Labels,,426E6A984BA619769FFE2798323A03CE,+3 Months,+3 Maanden
+/Game/Vein/Settings/GS_StartTime.GS_StartTime.Labels(2).Labels,,A84F027240D88F206739D69DADBFFBE7,+6 Months,+6 Maanden
+/Game/Vein/Settings/GS_StartTime.GS_StartTime.Labels(3).Labels,,183EBBD0413DC4BBE530AE805BCBBCAA,+1 Year,+1 Jaar
 /Game/Vein/Settings/GS_TimeMultiplier.GS_TimeMultiplier.Description,,ACC30CE94F7B8FB77F5A4E9CB179E6C5,How much faster time runs in-game compared to real life.,Hoeveel sneller de tijd in het spel verloopt in vergelijking met het echte leven.
 /Game/Vein/Settings/GS_TimeMultiplier.GS_TimeMultiplier.Label,,156E3F1748110205D51732B65E1ED854,Time Multiplier,Vermenigvuldiger van de tijd
 /Game/Vein/Settings/GS_TimeWithNoPlayers.GS_TimeWithNoPlayers.Description,,ED5DF56844D9D6DA4C61D4B8E1F6B54A,"Time continues moving forward, even when there are no players on the server.","De tijd gaat door, zelfs als er geen spelers op de server zijn."
@@ -6841,11 +6841,11 @@ Gebruikt om diepe wonden te bedekken, het bloeden te stoppen en infectie te voor
 /Game/Vein/Settings/GS_WaterShutoffTime.GS_WaterShutoffTime.Description,,B97BAB1C43BCB5D88A4642951EAD5DE7,When the water shuts off.,Wanneer het water afsluit.
 /Game/Vein/Settings/GS_WaterShutoffTime.GS_WaterShutoffTime.Label,,112BEA2A472EFA674F649CAC33D20B4F,Water Failure Time,Tijd tot wateruitval
 /Game/Vein/Settings/GS_WaterShutoffTime.GS_WaterShutoffTime.Labels(0).Labels,,12E325984C6064ACADCC37892C0F9297,Immediately,Onmiddellijk
-/Game/Vein/Settings/GS_WaterShutoffTime.GS_WaterShutoffTime.Labels(1).Labels,,AFFFB2974C8B094FBE9AE19614908727,5 Days,5 dagen
-/Game/Vein/Settings/GS_WaterShutoffTime.GS_WaterShutoffTime.Labels(2).Labels,,5108184E4254CD248481E49EA287C5FE,1 Month,1 maand
-/Game/Vein/Settings/GS_WaterShutoffTime.GS_WaterShutoffTime.Labels(3).Labels,,C010775B41EBC68A24A900A5A4F3349E,2 Months,2 maanden
-/Game/Vein/Settings/GS_WaterShutoffTime.GS_WaterShutoffTime.Labels(4).Labels,,45B5A316401B8CB342DE0C999648E355,6 Months,6 maanden
-/Game/Vein/Settings/GS_WaterShutoffTime.GS_WaterShutoffTime.Labels(5).Labels,,17090BA24A8F1AC7EDCCDB8B724E87DD,1 Year,1 jaar
+/Game/Vein/Settings/GS_WaterShutoffTime.GS_WaterShutoffTime.Labels(1).Labels,,AFFFB2974C8B094FBE9AE19614908727,5 Days,5 Dagen
+/Game/Vein/Settings/GS_WaterShutoffTime.GS_WaterShutoffTime.Labels(2).Labels,,5108184E4254CD248481E49EA287C5FE,1 Month,1 Maand
+/Game/Vein/Settings/GS_WaterShutoffTime.GS_WaterShutoffTime.Labels(3).Labels,,C010775B41EBC68A24A900A5A4F3349E,2 Months,2 Maanden
+/Game/Vein/Settings/GS_WaterShutoffTime.GS_WaterShutoffTime.Labels(4).Labels,,45B5A316401B8CB342DE0C999648E355,6 Months,6 Maanden
+/Game/Vein/Settings/GS_WaterShutoffTime.GS_WaterShutoffTime.Labels(5).Labels,,17090BA24A8F1AC7EDCCDB8B724E87DD,1 Year,1 Jaar
 /Game/Vein/Settings/GS_WaterShutoffTime.GS_WaterShutoffTime.Labels(6).Labels,,14F578DB495EB02034B886BE79140B26,Never,Nooit
 /Game/Vein/Settings/GS_ZombieDamageMultiplier.GS_ZombieDamageMultiplier.Description,,363A68C5483EAAAFD5E7F0BF3C6513C2,How much more deadly zombie hits are.,Hoeveel dodelijker zijn zombietreffers.
 /Game/Vein/Settings/GS_ZombieDamageMultiplier.GS_ZombieDamageMultiplier.Label,,EC0BE03840C0D331185AC4865A7304C9,Damage Multiplier,Schade vermenigvuldiger
@@ -6962,61 +6962,61 @@ Gebruikt om diepe wonden te bedekken, het bloeden te stoppen en infectie te voor
 /Game/Vein/Stats/Perks/Farming/STP_Farming_50_ImmortalPlants.STP_Farming_50_ImmortalPlants.Description,,519FF77943BC59CA82AF62A430BA071C,Dead plants continue to grow very slowly.,Dode planten blijven heel langzaam groeien.
 /Game/Vein/Stats/Perks/Farming/STP_Farming_50_ImmortalPlants.STP_Farming_50_ImmortalPlants.Name,,E773036C41E2B99E7D09BA99D0E5C971,Lifebringer,Levensbrenger
 /Game/Vein/Stats/Perks/Farming/STP_Farming_50_SkillMag.STP_Farming_50_SkillMag.Description,,3002CBC848161C1F5B917F868EA43F4E,Skill books give one extra stat level.,Vaardigheidsboeken geven een extra stat-niveau.
-/Game/Vein/Stats/Perks/Farming/STP_Farming_50_SkillMag.STP_Farming_50_SkillMag.Name,,D8B63D094E7FE29991466BA66320B285,Well Read,Goed gelezen
+/Game/Vein/Stats/Perks/Farming/STP_Farming_50_SkillMag.STP_Farming_50_SkillMag.Name,,D8B63D094E7FE29991466BA66320B285,Well Read,Goed Belezen
 /Game/Vein/Stats/Perks/Lockpicking/STP_Lockpicking_25_Alarmist.STP_Lockpicking_25_Alarmist.Description,,847AA7C3410CAD71208FEAA45746C5B7,Lockpicking a door connected to a door alarm has a high chance to not trigger the alarm.,Het lockpicken van een deur die is aangesloten op een deuralarm heeft een grote kans om het alarm niet te activeren.
 /Game/Vein/Stats/Perks/Lockpicking/STP_Lockpicking_25_Alarmist.STP_Lockpicking_25_Alarmist.Name,,1180175E4C67602209CFC28E12119DEA,Alarmist,Paniekzaaier
 /Game/Vein/Stats/Perks/Lockpicking/STP_Lockpicking_50_CarefulPicker.STP_Lockpicking_50_CarefulPicker.Description,,F23E58FA47DEE00E8F8C5D9E2FDF6E82,Lockpicks are twice as durable.,Lockpicks zijn twee keer zo duurzaam.
-/Game/Vein/Stats/Perks/Lockpicking/STP_Lockpicking_50_CarefulPicker.STP_Lockpicking_50_CarefulPicker.Name,,EF86B916464FEA55A7FAD7BD39407127,Careful Picker,Zorgvuldige kiezer
+/Game/Vein/Stats/Perks/Lockpicking/STP_Lockpicking_50_CarefulPicker.STP_Lockpicking_50_CarefulPicker.Name,,EF86B916464FEA55A7FAD7BD39407127,Careful Picker,Zorgvuldige Kiezer
 /Game/Vein/Stats/Perks/Medical/STP_Medical_25_MementoMori.STP_Medical_25_MementoMori.Description,,EEBD13E1498611E1B797DF9F0B319B38,You can inspect a corpse and see how it died.,Je kunt een lijk inspecteren en zien hoe het stierf.
 /Game/Vein/Stats/Perks/Medical/STP_Medical_25_MementoMori.STP_Medical_25_MementoMori.Name,,6A63D5A84985D78B35250389E1CAD057,Memento Mori,Memento Mori
 /Game/Vein/Stats/Perks/Medical/STP_Medical_25_VisibleInjuries.STP_Medical_25_VisibleInjuries.Description,,D9523EBA4F1CE26994CB2BBBBE735869,Get the ability to see other players' approximate health.,Krijg de mogelijkheid om de geschatte gezondheid van andere spelers te zien.
-/Game/Vein/Stats/Perks/Medical/STP_Medical_25_VisibleInjuries.STP_Medical_25_VisibleInjuries.Name,,D3E614D04A19D0F36973789F56F47D8D,Visible Injuries,Zichtbare verwondingen
+/Game/Vein/Stats/Perks/Medical/STP_Medical_25_VisibleInjuries.STP_Medical_25_VisibleInjuries.Name,,D3E614D04A19D0F36973789F56F47D8D,Visible Injuries,Zichtbare Verwondingen
 /Game/Vein/Stats/Perks/Medical/STP_Medical_50_Palpator.STP_Medical_50_Palpator.Description,,68ACB90341FEFFA8EB5C89A166E27053,Get the ability to see other players' exact health.,Krijg de mogelijkheid om de exacte gezondheid van andere spelers te zien.
 /Game/Vein/Stats/Perks/Medical/STP_Medical_50_Palpator.STP_Medical_50_Palpator.Name,,741D6C6A441F71C93DE626812E83E8DC,Palpator,Palpator
 /Game/Vein/Stats/Perks/Repair/STP_Repair_25_CarefulGrip.STP_Repair_25_CarefulGrip.Description,,8B9E9DD14467C05F36557A941663F3A1,Weapons you're using degrade 25% slower.,"Wapens die je gebruikt, degraderen 25% langzamer."
-/Game/Vein/Stats/Perks/Repair/STP_Repair_25_CarefulGrip.STP_Repair_25_CarefulGrip.Name,,92EC26D04F2C4C86DD82FDB0B331528B,Careful Grip,Zorgvuldige grip
+/Game/Vein/Stats/Perks/Repair/STP_Repair_25_CarefulGrip.STP_Repair_25_CarefulGrip.Name,,92EC26D04F2C4C86DD82FDB0B331528B,Careful Grip,Zorgvuldige Grip
 /Game/Vein/Stats/Perks/Repair/STP_Repair_25_StrongThreads.STP_Repair_25_StrongThreads.Description,,F0FE529740ED849E793459A29A07E207,Clothing you're wearing degrades 25% slower.,Kleding die je draagt degradeert 25% langzamer.
-/Game/Vein/Stats/Perks/Repair/STP_Repair_25_StrongThreads.STP_Repair_25_StrongThreads.Name,,4B2DAB0B42091FB024FA76BD46191108,Strong Threads,Sterke draden
+/Game/Vein/Stats/Perks/Repair/STP_Repair_25_StrongThreads.STP_Repair_25_StrongThreads.Name,,4B2DAB0B42091FB024FA76BD46191108,Strong Threads,Sterke Draden
 /Game/Vein/Stats/Perks/Scavenging/STP_Scavenging_25_NimbleFingers.STP_Scavenging_25_NimbleFingers.Description,,54AD945E4DB370940D5A959528E7BB31,Search containers instantly.,Zoek direct in containers.
-/Game/Vein/Stats/Perks/Scavenging/STP_Scavenging_25_NimbleFingers.STP_Scavenging_25_NimbleFingers.Name,,4A94CEE64463195CEBBE89B495A0B234,Nimble Fingers,Behendige vingers
+/Game/Vein/Stats/Perks/Scavenging/STP_Scavenging_25_NimbleFingers.STP_Scavenging_25_NimbleFingers.Name,,4A94CEE64463195CEBBE89B495A0B234,Nimble Fingers,Behendige Vingers
 /Game/Vein/Stats/Perks/Scavenging/STP_Scavenging_50_LuckyDraw.STP_Scavenging_50_LuckyDraw.Description,,B1AB3E9242231E5D317E8BB0EF186450,10% likelier to find rare items while scavenging.,10% meer kans om zeldzame voorwerpen te vinden tijdens het opruimen.
-/Game/Vein/Stats/Perks/Scavenging/STP_Scavenging_50_LuckyDraw.STP_Scavenging_50_LuckyDraw.Name,,CB7814AF48551806BA8C23B23F44D4C0,Lucky Draw,Gelukkige loting
+/Game/Vein/Stats/Perks/Scavenging/STP_Scavenging_50_LuckyDraw.STP_Scavenging_50_LuckyDraw.Name,,CB7814AF48551806BA8C23B23F44D4C0,Lucky Draw,Gelukkige Loting
 /Game/Vein/Stats/Perks/Sneaking/STP_Sneaking_25_DeadApproach.STP_Sneaking_25_DeadApproach.Description,,ABDB9FBA49229FDC6C2BEFB76278A216,Zombie alert distance decreased by 50%.,De afstand van het zombiealarm is met 50% afgenomen.
-/Game/Vein/Stats/Perks/Sneaking/STP_Sneaking_25_DeadApproach.STP_Sneaking_25_DeadApproach.Name,,018C09514B227C165CE287A234931DFE,Dead Approach,Dode benadering
+/Game/Vein/Stats/Perks/Sneaking/STP_Sneaking_25_DeadApproach.STP_Sneaking_25_DeadApproach.Name,,018C09514B227C165CE287A234931DFE,Dead Approach,Dode Benadering
 /Game/Vein/Stats/Perks/Sneaking/STP_Sneaking_25_Tiptoes.STP_Sneaking_25_Tiptoes.Description,,04DA2C694CCF0FA02C3D1BAB8F76D7E0,The chances of causing floor creaks are reduced by 50%.,De kans op het veroorzaken van krakende vloer wordt met 50% verkleind.
 /Game/Vein/Stats/Perks/Sneaking/STP_Sneaking_25_Tiptoes.STP_Sneaking_25_Tiptoes.Name,,0724516047D94949047DDB951D149A32,Tiptoes,Op de tenen
 /Game/Vein/Stats/Perks/Sneaking/STP_Sneaking_50_LightStep.STP_Sneaking_50_LightStep.Description,,3BCD4E234A4647C9FFE6FEADB23C7F28,The noise you make is generally reduced by 25%.,Het geluid dat je maakt wordt over het algemeen met 25% verminderd.
-/Game/Vein/Stats/Perks/Sneaking/STP_Sneaking_50_LightStep.STP_Sneaking_50_LightStep.Name,,BDDB176145A13FAA1585F8A91B7C774A,Light Step,Lichte stap
-/Game/Vein/Stats/Perks/Strength/STP_Strength_25_BigBack.STP_Strength_25_BigBack.Description,,6BA9D53F47F249CB515B1A9A89B22926,Gain 50 lbs/22.7 kg of carry weight.,"Win 50 lbs/22,7 kg draaggewicht."
-/Game/Vein/Stats/Perks/Strength/STP_Strength_25_BigBack.STP_Strength_25_BigBack.Name,,92DB277A4866938B5F4F04B10A578B54,Big Back,Grote rug
+/Game/Vein/Stats/Perks/Sneaking/STP_Sneaking_50_LightStep.STP_Sneaking_50_LightStep.Name,,BDDB176145A13FAA1585F8A91B7C774A,Light Step,Lichte Voeten
+/Game/Vein/Stats/Perks/Strength/STP_Strength_25_BigBack.STP_Strength_25_BigBack.Description,,6BA9D53F47F249CB515B1A9A89B22926,Gain 50 lbs/22.7 kg of carry weight.,"50 lbs/22,7 kg draaggewicht extra."
+/Game/Vein/Stats/Perks/Strength/STP_Strength_25_BigBack.STP_Strength_25_BigBack.Name,,92DB277A4866938B5F4F04B10A578B54,Big Back,Stevige Rug
 /Game/Vein/Stats/Perks/Strength/STP_Strength_50_Overdriver.STP_Strength_50_Overdriver.Description,,D8A77E814D134D84EAFDC892C2B94786,You can dismantle furniture and items that normally require a powered cutting tool with a heavy cutting tool.,"U kunt meubels en voorwerpen waarvoor normaal gesproken een elektrisch snijgereedschap nodig is, demonteren met een zwaar snijgereedschap."
-/Game/Vein/Stats/Perks/Strength/STP_Strength_50_Overdriver.STP_Strength_50_Overdriver.Name,,8A191D8C472B991E3C6DE7896F8E8600,Overdriver,Overdrijven
+/Game/Vein/Stats/Perks/Strength/STP_Strength_50_Overdriver.STP_Strength_50_Overdriver.Name,,8A191D8C472B991E3C6DE7896F8E8600,Overdriver,Doldraaier
 /Game/Vein/Stats/Perks/Throwing/STP_Throwing_25_Catcher.STP_Throwing_25_Catcher.Description,,15AF5F894607E81C4CF131A735612C2C,"There is a rare chance that if you get hit by an item, it goes in your inventory.","Er is een zeldzame kans dat als je door een item wordt geraakt, het in je inventaris terechtkomt."
 /Game/Vein/Stats/Perks/Throwing/STP_Throwing_25_Catcher.STP_Throwing_25_Catcher.Name,,228A1FA244BD6343EB99378D944D1E7C,Catcher,Vanger
 /Game/Vein/Stats/Perks/Throwing/STP_Throwing_25_SpecialDelivery.STP_Throwing_25_SpecialDelivery.Description,,3DDBAE7C416EDFFBF0448E9224B8438C,Throwing large items (like printers) at someone's head deals 150% consciousness damage.,Het gooien van grote voorwerpen (zoals printers) naar iemands hoofd veroorzaakt 150% bewustzijnsschade.
-/Game/Vein/Stats/Perks/Throwing/STP_Throwing_25_SpecialDelivery.STP_Throwing_25_SpecialDelivery.Name,,4C746C7A497C6732F42FAC8394E957B0,Special Delivery,Speciale levering
+/Game/Vein/Stats/Perks/Throwing/STP_Throwing_25_SpecialDelivery.STP_Throwing_25_SpecialDelivery.Name,,4C746C7A497C6732F42FAC8394E957B0,Special Delivery,Speciale Levering
 /Game/Vein/Stats/Perks/Throwing/STP_Throwing_25_Windup.STP_Throwing_25_Windup.Description,,716FBBDF47A34F5234CD5EB0D2D48F9B,You can charge your throws.,Je kunt je worpen opladen.
-/Game/Vein/Stats/Perks/Throwing/STP_Throwing_25_Windup.STP_Throwing_25_Windup.Name,,A661062442653D9DFE9290AFF9CF1B8D,Windup,Opwinding
+/Game/Vein/Stats/Perks/Throwing/STP_Throwing_25_Windup.STP_Throwing_25_Windup.Name,,A661062442653D9DFE9290AFF9CF1B8D,Windup,Opwinder
 /Game/Vein/Stats/Perks/Throwing/STP_Throwing_50_Fastball.STP_Throwing_50_Fastball.Description,,CD20D33A47DF75576EE7E58740657B7D,Items are thrown 25% faster.,Items worden 25% sneller gegooid.
-/Game/Vein/Stats/Perks/Throwing/STP_Throwing_50_Fastball.STP_Throwing_50_Fastball.Name,,2D3B8E7D42B26B6B0288D099FFA12103,Fastball,Voetbal
+/Game/Vein/Stats/Perks/Throwing/STP_Throwing_50_Fastball.STP_Throwing_50_Fastball.Name,,2D3B8E7D42B26B6B0288D099FFA12103,Fastball,Snelle Bal
 /Game/Vein/Stats/Perks/Vitality/STP_Vitality_100_IronLimbs.STP_Vitality_100_IronLimbs.Description,,18761A5D451E98816DB0F5A5951925D1,50% reduction to all incoming damage.,50% vermindering van alle inkomende schade.
-/Game/Vein/Stats/Perks/Vitality/STP_Vitality_100_IronLimbs.STP_Vitality_100_IronLimbs.Name,,82C08F864EB778C45BF4A6BCEF7183A0,Iron Limbs,IJzeren ledematen
+/Game/Vein/Stats/Perks/Vitality/STP_Vitality_100_IronLimbs.STP_Vitality_100_IronLimbs.Name,,82C08F864EB778C45BF4A6BCEF7183A0,Iron Limbs,IJzeren Ledematen
 /Game/Vein/Stats/Perks/Vitality/STP_Vitality_25_CleanSkin.STP_Vitality_25_CleanSkin.Description,,9C5041674A4B686E48BF0480B01696E4,The chance of dirty bandages becoming infected is reduced 25%.,"De kans dat vies verband geïnfecteerd raakt, wordt met 25% verkleind."
-/Game/Vein/Stats/Perks/Vitality/STP_Vitality_25_CleanSkin.STP_Vitality_25_CleanSkin.Name,,9A1DB00C49AA1CD1B1C0D8BD1242BECD,Clean Skin,Schone huid
+/Game/Vein/Stats/Perks/Vitality/STP_Vitality_25_CleanSkin.STP_Vitality_25_CleanSkin.Name,,9A1DB00C49AA1CD1B1C0D8BD1242BECD,Clean Skin,Schone Huid
 /Game/Vein/Stats/Perks/Vitality/STP_Vitality_25_Enduring.STP_Vitality_25_Enduring.Description,,E46C936D4B47C68788007EBDCD15E59C,Your max health is increased by 25%.,Je maximale gezondheid wordt met 25% verhoogd.
-/Game/Vein/Stats/Perks/Vitality/STP_Vitality_25_Enduring.STP_Vitality_25_Enduring.Name,,67460A4D49E03EFE2A2C98BC61A0F27E,Enduring,Duurzaam
+/Game/Vein/Stats/Perks/Vitality/STP_Vitality_25_Enduring.STP_Vitality_25_Enduring.Name,,67460A4D49E03EFE2A2C98BC61A0F27E,Enduring,Verdrager
 /Game/Vein/Stats/Perks/Vitality/STP_Vitality_25_GlassCannon.STP_Vitality_25_GlassCannon.Description,,002CF1804A5C246878BFAAB15583C16C,"Your chances of getting sick are tripled, and the effects are stronger, but you get a 5% XP bonus in every skill.","Je kans om ziek te worden is verdrievoudigd en de effecten zijn sterker, maar je krijgt een XP-bonus van 5% voor elke vaardigheid."
-/Game/Vein/Stats/Perks/Vitality/STP_Vitality_25_GlassCannon.STP_Vitality_25_GlassCannon.Name,,1D316AF24BB19A62D70D4DA7A58F94C7,Glass Cannon,Glazen kanon
+/Game/Vein/Stats/Perks/Vitality/STP_Vitality_25_GlassCannon.STP_Vitality_25_GlassCannon.Name,,1D316AF24BB19A62D70D4DA7A58F94C7,Glass Cannon,Glazen Kanon
 /Game/Vein/Stats/Perks/Vitality/STP_Vitality_25_Iron.STP_Vitality_25_Iron.Description,,B9816492436B190E761A55841A51D2F7,50% incidence of broken arms and legs.,50% incidentie van gebroken armen en benen.
 /Game/Vein/Stats/Perks/Vitality/STP_Vitality_25_Iron.STP_Vitality_25_Iron.Name,,C539CB774F0ED2B26908F386EBE3D6AF,Iron,Ijzer
 /Game/Vein/Stats/Perks/Vitality/STP_Vitality_50_Lightweight.STP_Vitality_50_Lightweight.Description,,7D6AE4B34737E8F96086139AD4DB7406,50% fall damage.,50% valschade.
 /Game/Vein/Stats/Perks/Vitality/STP_Vitality_50_Lightweight.STP_Vitality_50_Lightweight.Name,,3F4BDA8E478F779A4C6D0D9C63BFB3C3,Lightweight,Lichtgewicht
 /Game/Vein/Stats/Perks/WeaponHandling/STP_WeaponHandling_25_FastEject.STP_WeaponHandling_25_FastEject.Description,,5183CB0B4F2D7E6DC5E9D6921ADF71AB,You can reload magazines 1.3x as fast.,"Je kunt magazijnen 1,3x zo snel herladen."
-/Game/Vein/Stats/Perks/WeaponHandling/STP_WeaponHandling_25_FastEject.STP_WeaponHandling_25_FastEject.Name,,38163D294296D5751AA013A9D3A86E32,Fast Eject,Snel uitwerpen
+/Game/Vein/Stats/Perks/WeaponHandling/STP_WeaponHandling_25_FastEject.STP_WeaponHandling_25_FastEject.Name,,38163D294296D5751AA013A9D3A86E32,Fast Eject,Snelle Jelle
 /Game/Vein/Stats/Perks/WeaponHandling/STP_WeaponHandling_25_QuickLoad.STP_WeaponHandling_25_QuickLoad.Description,,1B70DC18438BA14E45F458863CF308D0,You can load 3 bullets at a time into a firearm magazine.,U kunt 3 kogels tegelijk in een vuurwapenmagazijn laden.
-/Game/Vein/Stats/Perks/WeaponHandling/STP_WeaponHandling_25_QuickLoad.STP_WeaponHandling_25_QuickLoad.Name,,A3D2FA884F6E86B11C193A96B70A91A9,Quick Load,Snel laden
+/Game/Vein/Stats/Perks/WeaponHandling/STP_WeaponHandling_25_QuickLoad.STP_WeaponHandling_25_QuickLoad.Name,,A3D2FA884F6E86B11C193A96B70A91A9,Quick Load,Snel Laden
 /Game/Vein/Stats/Perks/WeaponHandling/STP_WeaponHandling_50_LightTrigger.STP_WeaponHandling_50_LightTrigger.Description,,D80A795C4C4A5AE9961A6686D6220782,The fire rate of ranged weapons is reduced by 15% but is more accurate.,"De vuursnelheid van afstandswapens wordt met 15% verminderd, maar is nauwkeuriger."
-/Game/Vein/Stats/Perks/WeaponHandling/STP_WeaponHandling_50_LightTrigger.STP_WeaponHandling_50_LightTrigger.Name,,917E1CAB41D0E8885B6622B08DACD7F7,Light Trigger,Lichte trigger
+/Game/Vein/Stats/Perks/WeaponHandling/STP_WeaponHandling_50_LightTrigger.STP_WeaponHandling_50_LightTrigger.Name,,917E1CAB41D0E8885B6622B08DACD7F7,Light Trigger,Lichte Trigger
 /Game/Vein/Stats/Perks/WeaponHandling/STP_WeaponHandling_50_OneHanded.STP_WeaponHandling_50_OneHanded.Description,,E1A54C034ECB2CC3C634D69B9C0A4A9C,Pistols do 25% more damage.,Pistolen richten 25% meer schade aan.
 /Game/Vein/Stats/Perks/WeaponHandling/STP_WeaponHandling_50_OneHanded.STP_WeaponHandling_50_OneHanded.Name,,35F3D1654F5DB0F955657D90554AE018,One Handed,Met één hand
 /Game/Vein/Stats/ST_Agility.Default__ST_Agility_C.Description,,D1CCFE1C4AEF5570D73442AC3CAAE012,Your stamina and aerobic fitness.,Je uithoudingsvermogen en aerobe conditie.
@@ -7038,13 +7038,13 @@ Gebruikt om diepe wonden te bedekken, het bloeden te stoppen en infectie te voor
 /Game/Vein/Stats/ST_Lockpicking.Default__ST_Lockpicking_C.Description,,837877584CA999566B9130882B1F9C5A,Your ability to break into locked doors or containers.,Uw vermogen om in te breken in gesloten deuren of containers.
 /Game/Vein/Stats/ST_Lockpicking.Default__ST_Lockpicking_C.Name,,708A06E645D10D44A8362080F0402083,Lockpicking,Lockpicking
 /Game/Vein/Stats/ST_Mechanical.Default__ST_Mechanical_C.Description,,FBEC3577407499E7A48C73B58889C074,Your knowledge about moving parts.,Jouw kennis over bewegende delen.
-/Game/Vein/Stats/ST_Mechanical.Default__ST_Mechanical_C.Name,,C5EC5F744331EA22658B9CAE3669A484,Mechanical,Werktuiglijk
+/Game/Vein/Stats/ST_Mechanical.Default__ST_Mechanical_C.Name,,C5EC5F744331EA22658B9CAE3669A484,Mechanical,Mechanisch
 /Game/Vein/Stats/ST_Medical.Default__ST_Medical_C.Description,,4701B0214137A6F9E8F9B78C861E33D4,Your capacity to treat injury and illness.,Uw vermogen om letsel en ziekte te behandelen.
-/Game/Vein/Stats/ST_Medical.Default__ST_Medical_C.Name,,6C3ECC5B46A17B6CCDF216A7EF210F93,Medical,Geneeskundig
+/Game/Vein/Stats/ST_Medical.Default__ST_Medical_C.Name,,6C3ECC5B46A17B6CCDF216A7EF210F93,Medical,Medisch
 /Game/Vein/Stats/ST_Repair.Default__ST_Repair_C.Description,,2EE69CEB4B5472C4983A779835226A15,Your ability to fix mechanical issues.,Uw vermogen om mechanische problemen op te lossen.
 /Game/Vein/Stats/ST_Repair.Default__ST_Repair_C.Name,,7642FD8F4B3D968D0F819C89C3CB1AEE,Repair,Repareren
 /Game/Vein/Stats/ST_Scavenging.Default__ST_Scavenging_C.Description,,50A2A9D74682629658806F8BA69FAC5B,Your eye for valuable resources.,Uw oog voor waardevolle grondstoffen.
-/Game/Vein/Stats/ST_Scavenging.Default__ST_Scavenging_C.Name,,458CCC7E419F7B68252348B8BA4602A0,Scavenging,Opruiming
+/Game/Vein/Stats/ST_Scavenging.Default__ST_Scavenging_C.Name,,458CCC7E419F7B68252348B8BA4602A0,Scavenging,Zoeken
 /Game/Vein/Stats/ST_Sneaking.Default__ST_Sneaking_C.Description,,307245E34DC6DDF92E9AA6B294BDE9FC,Your ability to be silent.,Je vermogen om te zwijgen.
 /Game/Vein/Stats/ST_Sneaking.Default__ST_Sneaking_C.Name,,1EF344144F920B762E23CF8DC01CDF80,Sneaking,Sluipen
 /Game/Vein/Stats/ST_Sociability.Default__ST_Sociability_C.Description,,451D32CF411B2541322AA1A4B84BB693,How well you master communication.,Hoe goed je communicatie beheerst.
@@ -7054,7 +7054,7 @@ Gebruikt om diepe wonden te bedekken, het bloeden te stoppen en infectie te voor
 /Game/Vein/Stats/ST_Throwing.Default__ST_Throwing_C.Description,,B8674B144E5B008CBBAA23837BDE0EB1,Your performance hitting targets with objects.,Je prestaties raken doelen met objecten.
 /Game/Vein/Stats/ST_Throwing.Default__ST_Throwing_C.Name,,DA1F567C464EC334E92846B0916B8BC6,Throwing,Gooien
 /Game/Vein/Stats/ST_Trading.Default__ST_Trading_C.Description,,BC29257E4F56B10E8F2E998364922700,Your persuasion towards getting good deals.,Uw overtuiging om goede deals te krijgen.
-/Game/Vein/Stats/ST_Trading.Default__ST_Trading_C.Name,,2756118646C3832E1D890E904B6C4FAD,Trading,Handel
+/Game/Vein/Stats/ST_Trading.Default__ST_Trading_C.Name,,2756118646C3832E1D890E904B6C4FAD,Trading,Handelen
 /Game/Vein/Stats/ST_Vitality.Default__ST_Vitality_C.Description,,CA7E1A414207CCB44B3F3DA79DCB893E,Your resistance to injury.,Je weerstand tegen blessures.
 /Game/Vein/Stats/ST_Vitality.Default__ST_Vitality_C.Name,,6E7FEF2145EBB8F9ED027FA1747A581B,Vitality,Vitaliteit
 /Game/Vein/Stats/ST_WeaponHandling.Default__ST_WeaponHandling_C.Description,,E91BA99A40223D3046748C85D05B0B2D,Your ability to operate firearms.,Uw vermogen om vuurwapens te bedienen.
@@ -7067,46 +7067,46 @@ Gebruikt om diepe wonden te bedekken, het bloeden te stoppen en infectie te voor
 /Game/Vein/StreetSigns/BP_StreetSign4.Default__BP_StreetSign4_C.Labels(1 - Value).Labels,,B53BE22043C91EF33417F58F7988429C,Church St,Kerk St
 /Game/Vein/TagAssets/TAG_CannedSoup.TAG_CannedSoup.Name,,8181B38C4AD25FBD9C047CB1E0797F6D,Canned Soup,Ingeblikte soep
 /Game/Vein/TagAssets/TAG_Fish.TAG_Fish.Name,,941DC0B04BA20E2904028EA2CD84C9F1,Fish,Vis
-/Game/Vein/TagAssets/TAG_FreshMeat.TAG_FreshMeat.Name,,73DABF2F44C80722F5158C85AA19947C,Fresh Meats,Vers vlees
-/Game/Vein/TagAssets/TAG_Fruits.TAG_Fruits.Name,,4D9AE789460609D0360BD89E79D15779,Fresh Fruits,Vers fruit
-/Game/Vein/TagAssets/TAG_FryableMeat.TAG_FryableMeat.Name,,FEB7F4B7487A1FA20C88FA8ACF354665,Fryable Meat,Frituurbaar vlees
+/Game/Vein/TagAssets/TAG_FreshMeat.TAG_FreshMeat.Name,,73DABF2F44C80722F5158C85AA19947C,Fresh Meats,Vers Vlees
+/Game/Vein/TagAssets/TAG_Fruits.TAG_Fruits.Name,,4D9AE789460609D0360BD89E79D15779,Fresh Fruits,Vers Fruit
+/Game/Vein/TagAssets/TAG_FryableMeat.TAG_FryableMeat.Name,,FEB7F4B7487A1FA20C88FA8ACF354665,Fryable Meat,Frituurbaar Vlees
 /Game/Vein/TagAssets/TAG_MetalPowerSocketInsertable.TAG_MetalPowerSocketInsertable.Name,,8052558740A29F92908ACF8D491CD3B5,Metal Power Socket Insertable,Metalen stopcontact insteekbaar
 /Game/Vein/TagAssets/TAG_Pasta.TAG_Pasta.Name,,D56CF74C4045993956F7C580F6D2BD3C,Pasta,Pasta
-/Game/Vein/TagAssets/TAG_SearableMeat.TAG_SearableMeat.Name,,67CF089544308205642FB1832CAD0433,Searable Meat,Dichtschroeibaar vlees
-/Game/Vein/TagAssets/TAG_Veggies.TAG_Veggies.Name,,0BFDF7A8412894F43B368B9E5A62B999,Fresh Vegetables,Verse groenten
+/Game/Vein/TagAssets/TAG_SearableMeat.TAG_SearableMeat.Name,,67CF089544308205642FB1832CAD0433,Searable Meat,Bakbaar Vlees
+/Game/Vein/TagAssets/TAG_Veggies.TAG_Veggies.Name,,0BFDF7A8412894F43B368B9E5A62B999,Fresh Vegetables,Verse Groenten
 /Game/Vein/Tools/T_BasicCutting.T_BasicCutting.ImproperName,,26A1EF9345F369EEACF3D394A2BA5002,a basic cutting tool,Een eenvoudig snijgereedschap
-/Game/Vein/Tools/T_BasicCutting.T_BasicCutting.Name,,47F090B74D643CB89173738D3BAB9284,Basic Cutting,Basis snijden
-/Game/Vein/Tools/T_BasicPliers.T_BasicPliers.ImproperName,,F5EDF37D47F856721D0816ABA9B2EDA4,a pair of basic pliers,een basistang
-/Game/Vein/Tools/T_BasicPliers.T_BasicPliers.Name,,6903E848468A4869E2C372AA5CF778E6,Basic Pliers,Basis tang
+/Game/Vein/Tools/T_BasicCutting.T_BasicCutting.Name,,47F090B74D643CB89173738D3BAB9284,Basic Cutting,Eenvoudig Snijden
+/Game/Vein/Tools/T_BasicPliers.T_BasicPliers.ImproperName,,F5EDF37D47F856721D0816ABA9B2EDA4,a pair of basic pliers,een eenvoudige tang
+/Game/Vein/Tools/T_BasicPliers.T_BasicPliers.Name,,6903E848468A4869E2C372AA5CF778E6,Basic Pliers,Eenvoudige Tang
 /Game/Vein/Tools/T_BasicStapler.T_BasicStapler.ImproperName,,C2BA27AC4CDC46FBAC1369A84619C2E3,a basic stapler,Een eenvoudige nietmachine
-/Game/Vein/Tools/T_BasicStapler.T_BasicStapler.Name,,E0B2634F4EEDBF028732B1AC4E5E3F00,Basic Stapler,Basis nietmachine
-/Game/Vein/Tools/T_BasicWelder.T_BasicWelder.ImproperName,,EEC9F07047BFFD03531ED8A3C89642F3,a basic welder,Een basis lasser
-/Game/Vein/Tools/T_BasicWelder.T_BasicWelder.Name,,05168E634255576A825F8A98B931657B,Basic Welder,Basis lasser
+/Game/Vein/Tools/T_BasicStapler.T_BasicStapler.Name,,E0B2634F4EEDBF028732B1AC4E5E3F00,Basic Stapler,Eenvoudige nietmachine
+/Game/Vein/Tools/T_BasicWelder.T_BasicWelder.ImproperName,,EEC9F07047BFFD03531ED8A3C89642F3,a basic welder,Een Eenvoudig Lasapparaat
+/Game/Vein/Tools/T_BasicWelder.T_BasicWelder.Name,,05168E634255576A825F8A98B931657B,Basic Welder,Eenvoudig Lasapparaat
 /Game/Vein/Tools/T_CanOpener.T_CanOpener.ImproperName,,0224F58E435865AD21F5538F24F2A3D7,a can opener,een blikopener
 /Game/Vein/Tools/T_CanOpener.T_CanOpener.Name,,EFE1178E43D29FF3C85BEBA2E5439762,Can Opener,Blikopener
-/Game/Vein/Tools/T_Digging.T_Digging.ImproperName,,A0C94B7B4884FACDBA87F990C700D5B9,a digging tool,een graafgereedschap
+/Game/Vein/Tools/T_Digging.T_Digging.ImproperName,,A0C94B7B4884FACDBA87F990C700D5B9,a digging tool,graafgereedschap
 /Game/Vein/Tools/T_Digging.T_Digging.Name,,7779EFB9440CA5D8DE0610ADAFC49D11,Digging,Graven
 /Game/Vein/Tools/T_Hammer.T_Hammer.ImproperName,,9981494249EAA523AE1EF58F121DA097,a hammer,een hamer
 /Game/Vein/Tools/T_Hammer.T_Hammer.Name,,4C4D63B640913F9587A1CEB671EACAE7,Hammer,Hamer
-/Game/Vein/Tools/T_HeavyCutting.T_HeavyCutting.ImproperName,,E1D650154F35F9648AA06EA184F946F6,a heavy cutting tool,een zwaar snijgereedschap
-/Game/Vein/Tools/T_HeavyCutting.T_HeavyCutting.Name,,E26CECB04931EA2513D407B18B8AEC75,Heavy Cutting,Zwaar snijden
+/Game/Vein/Tools/T_HeavyCutting.T_HeavyCutting.ImproperName,,E1D650154F35F9648AA06EA184F946F6,a heavy cutting tool,stevig snijgereedschap
+/Game/Vein/Tools/T_HeavyCutting.T_HeavyCutting.Name,,E26CECB04931EA2513D407B18B8AEC75,Heavy Cutting,Stevig snijden
 /Game/Vein/Tools/T_HeavyHammer.T_HeavyHammer.ImproperName,,98861EB64077E623FA5F09B5740C4064,a heavy hammer,een zware hamer
-/Game/Vein/Tools/T_HeavyHammer.T_HeavyHammer.Name,,84D9D8514922BD6D62DC1CB1F678C37A,Heavy Hammer,Zware hamer
-/Game/Vein/Tools/T_HeavyPliers.T_HeavyPliers.ImproperName,,E254761A4768B7830C4742B7D34C134D,a pair of heavy pliers,een zware tang
-/Game/Vein/Tools/T_HeavyPliers.T_HeavyPliers.Name,,321309D44A569B578AFD67827E8695F7,Heavy Pliers,Zware tang
-/Game/Vein/Tools/T_HeavyStapler.T_HeavyStapler.ImproperName,,FF5B3A6344F022F5DAA6168D96427F02,a heavy stapler,Een zware nietmachine
-/Game/Vein/Tools/T_HeavyStapler.T_HeavyStapler.Name,,8F9AF4E8462615FF488F418103551FC9,Heavy Stapler,Zware nietmachine
+/Game/Vein/Tools/T_HeavyHammer.T_HeavyHammer.Name,,84D9D8514922BD6D62DC1CB1F678C37A,Heavy Hammer,Zware Hamer
+/Game/Vein/Tools/T_HeavyPliers.T_HeavyPliers.ImproperName,,E254761A4768B7830C4742B7D34C134D,a pair of heavy pliers,een stevige tang
+/Game/Vein/Tools/T_HeavyPliers.T_HeavyPliers.Name,,321309D44A569B578AFD67827E8695F7,Heavy Pliers,Stevige Tang
+/Game/Vein/Tools/T_HeavyStapler.T_HeavyStapler.ImproperName,,FF5B3A6344F022F5DAA6168D96427F02,a heavy stapler,Een stevige nietmachine
+/Game/Vein/Tools/T_HeavyStapler.T_HeavyStapler.Name,,8F9AF4E8462615FF488F418103551FC9,Heavy Stapler,Stevige nietmachine
 /Game/Vein/Tools/T_IndustrialCutting.T_IndustrialCutting.ImproperName,,5208C1504AF0B7710692E1AC7D55DD4D,an industrial cutting tool,Een industrieel snijgereedschap
 /Game/Vein/Tools/T_IndustrialCutting.T_IndustrialCutting.Name,,3E94F9AB4976C022CD6BEBAB696D24A9,Industrial Cutting,Industrieel snijden
 /Game/Vein/Tools/T_IndustrialDriver.T_IndustrialDriver.ImproperName,,77E1FBF84C1DB43E62300494E732014F,an industrial driver,Een industriële drijfveer
-/Game/Vein/Tools/T_IndustrialDriver.T_IndustrialDriver.Name,,B1326E3048A71D8CF9A6D4AD610A2369,Industrial Driver,Industriële driver
+/Game/Vein/Tools/T_IndustrialDriver.T_IndustrialDriver.Name,,B1326E3048A71D8CF9A6D4AD610A2369,Industrial Driver,Industriële drijfveer
 /Game/Vein/Tools/T_IndustrialStapler.T_IndustrialStapler.ImproperName,,9AD721484B7AEC1CD4C0CCB2CC4E78DD,an industrial stapler,Een industriële nietmachine
 /Game/Vein/Tools/T_IndustrialStapler.T_IndustrialStapler.Name,,A1053FD04A802CD59586E9818B185D82,Industrial Stapler,Industriële nietmachine
-/Game/Vein/Tools/T_IndustrialWelder.T_IndustrialWelder.ImproperName,,6B74F4714E9C9A73F9954F831673EB8A,an industrial welder,een industriële lasser
-/Game/Vein/Tools/T_IndustrialWelder.T_IndustrialWelder.Name,,BA6BD0D74EF71950E5924F96C477967B,Industrial Welder,Industriële lasser
+/Game/Vein/Tools/T_IndustrialWelder.T_IndustrialWelder.ImproperName,,6B74F4714E9C9A73F9954F831673EB8A,an industrial welder,een industriëel lasapparaat
+/Game/Vein/Tools/T_IndustrialWelder.T_IndustrialWelder.Name,,BA6BD0D74EF71950E5924F96C477967B,Industrial Welder,Industriëel lasapparaat
 /Game/Vein/Tools/T_Kettle.T_Kettle.ImproperName,,DD89CB0B4113DBBD1EA8D6956090052E,a kettle,een waterkoker
 /Game/Vein/Tools/T_Kettle.T_Kettle.Name,,06E2B19846D2684C84816DA5D8C909CF,Kettle,Ketel
-/Game/Vein/Tools/T_Mining.T_Mining.ImproperName,,D60C60CF4970C290D0ACC6B0894FF61F,a mining tool,Een mijnbouwinstrument
+/Game/Vein/Tools/T_Mining.T_Mining.ImproperName,,D60C60CF4970C290D0ACC6B0894FF61F,a mining tool,mijnbouwgereedschap
 /Game/Vein/Tools/T_Mining.T_Mining.Name,,400400294DEF19E80F5AFE9655BCC65F,Mining,Mijnbouw
 /Game/Vein/Tools/T_OvenDish.T_OvenDish.ImproperName,,E7647EC34C25C6A5612E8C9B50F25E2E,an oven dish,een ovenschotel
 /Game/Vein/Tools/T_OvenDish.T_OvenDish.Name,,1F5BBD0241556A3F8429259BB1346E40,Oven Dish,Ovenschotel
@@ -7117,15 +7117,15 @@ Gebruikt om diepe wonden te bedekken, het bloeden te stoppen en infectie te voor
 /Game/Vein/Tools/T_PoweredCutting.T_PoweredCutting.ImproperName,,3146B8A54A764F040152E29D9456D1E4,a powered cutting tool,een aangedreven snijgereedschap
 /Game/Vein/Tools/T_PoweredCutting.T_PoweredCutting.Name,,CA4883EA4825A5E1569760AB71A443AD,Powered Cutting,Gemotoriseerd snijden
 /Game/Vein/Tools/T_PoweredDrill.T_PoweredDrill.ImproperName,,07D3898F423FF5FE31211DA234324CD4,a powered drill,een elektrische boormachine
-/Game/Vein/Tools/T_PoweredDrill.T_PoweredDrill.Name,,2E9B84804D21EB3D121E34B77557444C,Powered Drill,Aangedreven boormachine
-/Game/Vein/Tools/T_PoweredDriver.T_PoweredDriver.ImproperName,,059EB156410D45DEBA9F96BBED7B55D5,a powered driver,een aangedreven driver
-/Game/Vein/Tools/T_PoweredDriver.T_PoweredDriver.Name,,EABE1ABF488F4A24ED2FF0BE75B4EDEC,Powered Driver,Aangedreven stuurprogramma
+/Game/Vein/Tools/T_PoweredDrill.T_PoweredDrill.Name,,2E9B84804D21EB3D121E34B77557444C,Powered Drill,Elektrische Boormachine
+/Game/Vein/Tools/T_PoweredDriver.T_PoweredDriver.ImproperName,,059EB156410D45DEBA9F96BBED7B55D5,a powered driver,een elektrische drijfveer
+/Game/Vein/Tools/T_PoweredDriver.T_PoweredDriver.Name,,EABE1ABF488F4A24ED2FF0BE75B4EDEC,Powered Driver,Elektrische Drijfveer
 /Game/Vein/Tools/T_Screwdriver.T_Screwdriver.ImproperName,,2AE9E98447413F290414168A04FB66A5,a screwdriver,een schroevendraaier
 /Game/Vein/Tools/T_Screwdriver.T_Screwdriver.Name,,A870F47F43BF29B37ED845ACB8E1C1A2,Screwdriver,Schroevendraaier
-/Game/Vein/Tools/T_Soldering.T_Soldering.ImproperName,,CF448E044963277ED03CBF94E3B0DB99,a soldering tool,een soldeergereedschap
+/Game/Vein/Tools/T_Soldering.T_Soldering.ImproperName,,CF448E044963277ED03CBF94E3B0DB99,a soldering tool,soldeergereedschap
 /Game/Vein/Tools/T_Soldering.T_Soldering.Name,,1DBBE94842DC0C98D6D869A8D57B4E57,Soldering,Solderen
 /Game/Vein/Tools/T_Wrench.T_Wrench.ImproperName,,E4A1177B4310010E3CB4639EA1067B3E,a wrench,een moersleutel
-/Game/Vein/Tools/T_Wrench.T_Wrench.Name,,2D4062B1413A8D0615B8BDAFA31B94F7,Wrench,Sleutel
+/Game/Vein/Tools/T_Wrench.T_Wrench.Name,,2D4062B1413A8D0615B8BDAFA31B94F7,Wrench,moersleutel
 /Game/Vein/Tutorial/BP_TutorialManager.Default__BP_TutorialManager_C.DroppedItemText,,3CF3B79B438D71C45188679BE3E45B96,You lost your {Item}. We've given you a new one just in case.,U bent uw {item} kwijtgeraakt. We hebben je een nieuwe gegeven voor het geval dat.
 /Game/Vein/Tutorial/BP_TutorialManager.Default__BP_TutorialManager_C.DroppedItemTextExcess,,3F9221CD4027B0834988068A2639F054,It seems like you know what you're doing. Good luck!,Het lijkt alsof je weet wat je doet. Succes!
 /Game/Vein/Tutorial/BP_TutorialManager.Default__BP_TutorialManager_C.LeavePromptDesc,,F31A83304F94ED1C41A208A438694057,Would you like to exit to the main menu?,Wil je naar het hoofdmenu gaan?
@@ -7389,13 +7389,13 @@ Je kunt dit doen door het item naar een kledingvak te slepen, door te dubbelklik
 /Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.ServerBroadcastEntry.Placeholder,,BE407D5F4AB703A077D991A360E8BD14,Enter text to send to everyone...,Voer tekst in om naar iedereen te sturen...
 /Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.ServerButton.Label,,31BBEF4048902AD9EBE266AB22727B4F,Server,Server
 /Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.SettingsButton.Label,,BC93D7B243019E0B1380A4B4709084C6,Config,Configuratie
-/Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.SpawnBoarButton.Label,,1D79FD2940904EA03926BD9F26B52C7A,Spawn Boar,Paaien Zwijn
-/Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.SpawnCowButton.Label,,386CA72A4B2E4A99CB1DD7A4806A09C4,Spawn Cow,Paaien Koe
-/Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.SpawnDeerButton.Label,,EC07A7C9495FB46E31EBD7AC707E192F,Spawn Deer,Paaien Herten
-/Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.SpawnFoxButton.Label,,582F45C343783426C7F7C8A428645551,Spawn Fox,Paaien Vos
+/Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.SpawnBoarButton.Label,,1D79FD2940904EA03926BD9F26B52C7A,Spawn Boar,Spawn Zwijn
+/Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.SpawnCowButton.Label,,386CA72A4B2E4A99CB1DD7A4806A09C4,Spawn Cow,Spawn Koe
+/Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.SpawnDeerButton.Label,,EC07A7C9495FB46E31EBD7AC707E192F,Spawn Deer,Spawn Herten
+/Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.SpawnFoxButton.Label,,582F45C343783426C7F7C8A428645551,Spawn Fox,Spawn Vos
 /Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.SpawnPigButton.Label,,0312D77544FD30D81170B38EF02C34CD,Spawn Pig,Spawn Varken
-/Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.SpawnRabbitButton.Label,,E5D8AC18443A76C69F086E8A5C6DD89B,Spawn Rabbit,Paaien Konijn
-/Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.SpawnWolfButton.Label,,83A3BD1648E83F2316C99689F512A772,Spawn Wolf,Paaien Wolf
+/Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.SpawnRabbitButton.Label,,E5D8AC18443A76C69F086E8A5C6DD89B,Spawn Rabbit,Spawn Konijn
+/Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.SpawnWolfButton.Label,,83A3BD1648E83F2316C99689F512A772,Spawn Wolf,Spawn Wolf
 /Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.SpawnZombieButton.Label,,1629583242874A716619C39430FD190B,Spawn Zombie,Spawn Zombie
 /Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.TargetButton.Label,,A4392F8E4D5AC0E7E07537B9B329F7D4,Target,Doel
 /Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.TargetName_1.Text,,64806BAA497DD9D7861236813FE1CBC0,Location,Plaats
@@ -7448,10 +7448,10 @@ Je kunt dit doen door het item naar een kledingvak te slepen, door te dubbelklik
 /Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.WBP_Button_1.Label,,5504E26C43FD466E54D3DBB66AB71CA0,Go to,Ga naar
 /Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.WBP_Button_10.Label,,595D5F8C4E0DB3D760E75192B078CC1E,Windy,Winderig
 /Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.WBP_Button_102.Label,,51A4E5324B91D59CCD1B7BBD14BF2351,Remove All Corpses,Verwijder alle lijken
-/Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.WBP_Button_11.Label,,8B2D6F9646968758073D6BB3B5228040,+1 hour,#ERROR!
-/Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.WBP_Button_12.Label,,B8BCA7BB4D7F3AC12F9B9B8BA9D9AE3D,+1 day,#ERROR!
-/Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.WBP_Button_13.Label,,D066EF1741868A90AAC07E8F6AC5D279,+1 month,#ERROR!
-/Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.WBP_Button_14.Label,,933AF96E45192EBC3F1FC282283AC239,+1 year,#ERROR!
+/Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.WBP_Button_11.Label,,8B2D6F9646968758073D6BB3B5228040,+1 hour,+1 uur
+/Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.WBP_Button_12.Label,,B8BCA7BB4D7F3AC12F9B9B8BA9D9AE3D,+1 day,+1 dag
+/Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.WBP_Button_13.Label,,D066EF1741868A90AAC07E8F6AC5D279,+1 month,+1 maand
+/Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.WBP_Button_14.Label,,933AF96E45192EBC3F1FC282283AC239,+1 year,+1 jaar
 /Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.WBP_Button_15.Label,,4CF78DF745EF724ED5CCCD97AF405032,-1 hour,-1 uur
 /Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.WBP_Button_16.Label,,1F3BC0D2437B4F3C5DF12DBC8A5F4C2B,-1 day,-1 dag
 /Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.WBP_Button_17.Label,,69DCF22942B8ACE67D04A2BE047C93E9,-1 year,-1 jaar
@@ -9560,7 +9560,7 @@ Source/Vein/UI/Widgets/Crafting/WorkbenchInventoryHeaderWidget.cpp(86),,Workbenc
 Source/Vein/UI/Widgets/Crafting/WorkbenchInventoryHeaderWidget.cpp(86),,Workbench_TakeFluid_PromptTitle,Take Fluid,Neem vloeistof in
 Source/Vein/UI/Widgets/Crafting/WorkbenchInventoryHeaderWidget.cpp(92),,Workbench_PutFluid_Prompt,How much would you like to add?,Hoeveel zou je willen toevoegen?
 Source/Vein/UI/Widgets/Crafting/WorkbenchInventoryHeaderWidget.cpp(92),,Workbench_PutFluid_PromptTitle,Add Fluid,Vloeistof toevoegen
-Source/Vein/UI/Widgets/Exercises/ExerciseUserWidget.cpp(33),,XPGainPerSecond,+{XP} {Stat}/second,#ERROR!
+Source/Vein/UI/Widgets/Exercises/ExerciseUserWidget.cpp(33),,XPGainPerSecond,+{XP} {Stat}/second,+{XP} {Stat}/seconden
 Source/Vein/UI/Widgets/Groups/PlayerGroupUserWidget.cpp(320),,ChangeGroupName_Desc,Enter the new group name.,Voer de nieuwe groepsnaam in.
 Source/Vein/UI/Widgets/Groups/PlayerGroupUserWidget.cpp(320),,ChangeGroupName_Title,Change Name,Naam wijzigen
 Source/Vein/UI/Widgets/Groups/PlayerGroupUserWidget.cpp(349),,ChangeGroupTag_Desc,Enter the new group tag.,Voer de nieuwe groepstag in.
@@ -9602,17 +9602,17 @@ Source/Vein/UI/Widgets/SaveLoadUserWidget.cpp(150),,OverwriteSave_Title,Overwrit
 Source/Vein/UI/Widgets/SaveLoadUserWidget.cpp(180),,GameSaved,Saved.,Opgeslagen.
 Source/Vein/UI/Widgets/ScoreboardUserWidget.cpp(165),,Scoreboard_Dev,VEIN Developer,VEIN-ontwikkelaar
 Source/Vein/UI/Widgets/ScoreboardUserWidget.cpp(170),,Scoreboard_SuperAdmin,Super Admin,Hoofdbeheerder
-Source/Vein/UI/Widgets/ScoreboardUserWidget.cpp(175),,Scoreboard_Admin,Admin,Admin
-Source/Vein/UI/Widgets/ScoreboardUserWidget.cpp(188),,Scoreboard_Demo,Demo Player,Demo-speler
+Source/Vein/UI/Widgets/ScoreboardUserWidget.cpp(175),,Scoreboard_Admin,Admin,Beheerder
+Source/Vein/UI/Widgets/ScoreboardUserWidget.cpp(188),,Scoreboard_Demo,Demo Player,Demo Speler
 Source/Vein/UI/Widgets/ServerBrowser/ServerBrowserUserWidget.cpp(441),,ServerBrowser_ShowServer,Unhide Server,Server zichtbaar maken
 Source/Vein/UI/Widgets/ServerBrowser/ServerBrowserUserWidget.cpp(445),,ServerBrowser_HideServer,Hide Server,Server verbergen
 Source/Vein/UI/Widgets/ServerBrowser/ServerBrowserUserWidget.cpp(455),,ServerBrowser_Unfavorite,Unfavorite Server,Favoriete server verwijderen
-Source/Vein/UI/Widgets/ServerBrowser/ServerBrowserUserWidget.cpp(459),,ServerBrowser_Favorite,Favorite Server,Favoriete server
+Source/Vein/UI/Widgets/ServerBrowser/ServerBrowserUserWidget.cpp(459),,ServerBrowser_Favorite,Favorite Server,Favoriete server maken
 Source/Vein/UI/Widgets/SettingsUserWidget.cpp(206),,Setting_Low,Low,Laag
 Source/Vein/UI/Widgets/SettingsUserWidget.cpp(207),,Setting_Medium,Medium,Gemiddeld
 Source/Vein/UI/Widgets/SettingsUserWidget.cpp(208),,Setting_High,High,Hoog
 Source/Vein/UI/Widgets/SettingsUserWidget.cpp(209),,Setting_Ultra,Ultra,Ultra
-Source/Vein/UI/Widgets/SettingsUserWidget.cpp(220),,Setting_Custom,Custom,Gewoonte
+Source/Vein/UI/Widgets/SettingsUserWidget.cpp(220),,Setting_Custom,Custom,Aangepast
 Source/Vein/UI/Widgets/TemperatureIndicatorWidget.cpp(103),,Temperature_Cold,Cold,Koud
 Source/Vein/UI/Widgets/TemperatureIndicatorWidget.cpp(108),,Temperature_Chilly,Chilly,Kil
 Source/Vein/UI/Widgets/TemperatureIndicatorWidget.cpp(113),,Temperature_Cool,Cool,Koel
