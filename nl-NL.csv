@@ -445,15 +445,15 @@ Source Location,Namespace,Key,Original,Translated
 /Game/Vein/BuildObjectCategories/BOC_Furniture.BOC_Furniture.Label,,DBBBE3A24F152B0DA15F33A6598653CB,Furniture,Meubilair
 /Game/Vein/BuildObjectCategories/BOC_Stations.BOC_Stations.Label,,B5049E384855D5353E2B0AA5A13CA795,Stations,Stations
 /Game/Vein/BuildObjectCategories/BOC_Storage.BOC_Storage.Label,,D196ABAB4A5A248F96CD119AD420D16A,Storage,Opslag
-/Game/Vein/BuildObjectCategories/BOC_Utilities.BOC_Utilities.Label,,3E03E29D44104E72C2201F80C8B3B14B,Utilities,Utilities
-/Game/Vein/BuildObjectCategories/BOC_UtilityCabinets.BOC_UtilityCabinets.Label,,754AEE754C580FA7EF30339DA2DC55ED,Utility Cabinets,Utility kasten
+/Game/Vein/BuildObjectCategories/BOC_Utilities.BOC_Utilities.Label,,3E03E29D44104E72C2201F80C8B3B14B,Utilities,Hulpmiddelen
+/Game/Vein/BuildObjectCategories/BOC_UtilityCabinets.BOC_UtilityCabinets.Label,,754AEE754C580FA7EF30339DA2DC55ED,Utility Cabinets,Meterkasten
 /Game/Vein/BuildObjects/BO_UtilityCabinet.BO_UtilityCabinet.Description,,08E6ABA34A7EA4FD58BF2FA5A807AD87,"The center of your base.
 
 Be sure to build this in a well-guarded location - if anyone gets to it, they can claim everything in your base for themselves.","Het centrum van je basis.
  
 Zorg ervoor dat je dit op een goed bewaakte locatie bouwt - als iemand er komt, kunnen ze alles in je basis voor zichzelf claimen."
-/Game/Vein/BuildObjects/BO_UtilityCabinet.BO_UtilityCabinet.Name,,93CA32A14FFEEA60F98F5FA4201CD34E,Utility Cabinet,Hulpmiddelen Kast
-/Game/Vein/BuildObjects/BP_UtilityCabinet.Default__BP_UtilityCabinet_C.UsableName,,4C9ACFB248ECBC2875CD3DAC38B8A371,Utility Cabinet,Hulpmiddelen Kast
+/Game/Vein/BuildObjects/BO_UtilityCabinet.BO_UtilityCabinet.Name,,93CA32A14FFEEA60F98F5FA4201CD34E,Utility Cabinet,Meterkast
+/Game/Vein/BuildObjects/BP_UtilityCabinet.Default__BP_UtilityCabinet_C.UsableName,,4C9ACFB248ECBC2875CD3DAC38B8A371,Utility Cabinet,Meterkast
 /Game/Vein/BuildObjects/Containers/BO_Crate_Large.BO_Crate_Large.Description,,70C700F64AD9E5D9D9D65AB40600B325,Suitable for storing a lot of stuff.,Geschikt om veel spullen in op te bergen.
 /Game/Vein/BuildObjects/Containers/BO_Crate_Large.BO_Crate_Large.Name,,EF3E773B494B385AEC944DB202A4EEDF,Large Crate,Grote krat
 /Game/Vein/BuildObjects/Containers/BO_Crate_Small.BO_Crate_Small.Description,,0B3384AB49823CC47DA0719A39AC79CE,Suitable for storing stuff.,Geschikt voor het opbergen van spullen.
@@ -8605,7 +8605,7 @@ Koop het volledige spel als het erop uit is om deze limiet te verwijderen."
 /Game/Vein/UI/UMG/UC/WBP_UC.WBP_UC_C:WidgetTree.TextBlock_178.Text,,B51BBE36447B1473FBE8A5BF53F52C19,Uptime,Uptime
 /Game/Vein/UI/UMG/UC/WBP_UC.WBP_UC_C:WidgetTree.TextBlock_181.Text,,21099578485DE8240C948399AAA6B47C,"The UC doesn't have enough resources. Unless you add some, your structures will decay and lose health.","De UC heeft niet genoeg middelen. Tenzij je wat toevoegt, zullen je structuren vervallen en gezondheid verliezen."
 /Game/Vein/UI/UMG/UC/WBP_UC.WBP_UC_C:WidgetTree.TextBlock_27.Text,,E8C9423540983669BAF76E9DBD726D5C,Group,Groep
-/Game/Vein/UI/UMG/UC/WBP_UC.WBP_UC_C:WidgetTree.TextBlock_36.Text,,F7F6A3804737E5B1C5F627A81BDE608A,Utility Cabinet,Hulpmiddelen Kast
+/Game/Vein/UI/UMG/UC/WBP_UC.WBP_UC_C:WidgetTree.TextBlock_36.Text,,F7F6A3804737E5B1C5F627A81BDE608A,Utility Cabinet,Meterkast
 /Game/Vein/UI/UMG/UC/WBP_UC.WBP_UC_C:WidgetTree.TextBlock_72.Text,,5786DE924FE97E898D2AFEB0F6E428CD,Warning,Waarschuwing
 /Game/Vein/UI/UMG/UC/WBP_UC.WBP_UC_C:WidgetTree.TextBlock_9.Text,,8F2070974D40F6CD7BF91BA5680FDE29,Weight Limit,Gewichtslimiet
 /Game/Vein/UI/UMG/UC/WBP_UC_Character.WBP_UC_Character_C:WidgetTree.WBP_Button.Label,,29AB58FC499A6ABA9963CB9525DBE375,Kick,Schoppen
@@ -8915,7 +8915,7 @@ Source/Vein/Construction/UtilityCabinet.cpp(314),,UtilityCabinet_Claim,Claim,Aan
 Source/Vein/Construction/UtilityCabinet.cpp(318),,UtilityCabinet_NoClaimReason,Base raiding is turned off. Join a group with the Utility Cabinet owner to join.,Het overvallen van bases is uitgeschakeld. Word lid van een groep met de eigenaar van de Utility Cabinet om lid te worden.
 Source/Vein/Construction/UtilityCabinet.cpp(352),,UtilityCabinet_AddNotif,You have been granted permissions to build here.,Je hebt toestemming gekregen om hier te bouwen.
 Source/Vein/Construction/UtilityCabinet.cpp(389),,UtilityCabinet_RemoveNotif,You have voluntarily left this UC.,Je hebt deze UC vrijwillig verlaten.
-Source/Vein/Construction/UtilityCabinet.cpp(49),,Utility Cabinet,Utility Cabinet,Hulpmiddelen Kast
+Source/Vein/Construction/UtilityCabinet.cpp(49),,Utility Cabinet,Utility Cabinet,Meterkast
 Source/Vein/Construction/WeatherGaugeBuiltActor.cpp(23),,WeatherGauge_Name,Weather Gauge,Weermeter
 Source/Vein/Construction/WeatherGaugeBuiltActor.cpp(31),,WeatherGauge_Check,Check,Check
 Source/Vein/Core/VeinCheatManager.cpp(1704),,Admin_SetAdmin,You gave {PlayerName} admin abilities.,Je hebt {PlayerName} beheerdersvaardigheden gegeven.
