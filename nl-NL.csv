@@ -7420,7 +7420,7 @@ Je kunt dit doen door het item naar een kledingvak te slepen, door te dubbelklik
 /Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.TextBlock_24.Text,,E813F0214631996C78FAA18D77F44F1C,Basics,Algemeen
 /Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.TextBlock_25.Text,,1CF8FE864DF39D4D98984D8BAFC3FE2E,Zombies,Zombie
 /Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.TextBlock_26.Text,,FEB202AD4C6C7B2BA50708860C2C72EE,Target,Doel
-/Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.TextBlock_27.Text,,03F6DC754BCF9870FBF23B9B62E4B62B,Bans,Verboden
+/Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.TextBlock_27.Text,,03F6DC754BCF9870FBF23B9B62E4B62B,Bans,Bans
 /Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.TextBlock_28.Text,,664D0125439582F6544391817673B13D,Super Speed,Super snelheid
 /Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.TextBlock_29.Text,,9DC819344EAA9C51D96EAE8A0062F3D9,Super Jump,Super sprong
 /Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.TextBlock_3.Text,,B861FE194698F58225AC6BA5549E9092,Movement,Beweging
@@ -7429,7 +7429,7 @@ Je kunt dit doen door het item naar een kledingvak te slepen, door te dubbelklik
 /Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.TextBlock_32.Text,,720F408F442B6775A28F6DA19297377D,Misc.,MISC.
 /Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.TextBlock_33.Text,,CFDEE84748CED185AAF3FFBB84B7B246,Reports,Rapporten
 /Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.TextBlock_34.Text,,87F53DDB4FD57DCB3839A1B119296AC1,No reports.,Geen rapporten.
-/Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.TextBlock_35.Text,,5383F42542C021079747D3A3D3CF6AC8,No bans.,Geen verboden.
+/Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.TextBlock_35.Text,,5383F42542C021079747D3A3D3CF6AC8,No bans.,Geen bans.
 /Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.TextBlock_36.Text,,31DBFFE943546E4BF5CD6091E9704D8E,Admin Menu,Admin Menu
 /Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.TextBlock_37.Text,,8191C63B4D48E3B93261D58FCFECD030,Multiplayer,Multiplayer
 /Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.TextBlock_38.Text,,9DA414554549D277879A318C6B30F8E5,See All Players/Items,Bekijk alle spelers/items
@@ -7437,7 +7437,7 @@ Je kunt dit doen door het item naar een kledingvak te slepen, door te dubbelklik
 /Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.TextBlock_5.Text,,C7F17EA44B94C7BF47F102AD4C5791DB,Select Vehicle,Selecteer voertuig
 /Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.TextBlock_54.Text,,CC98115E49389BE49462CCAD6C2721BC,Active,Actief
 /Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.TextBlock_6.Text,,67BBA1024994805DE214A2B18B9D59B0,Weather,Weer
-/Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.TextBlock_68.Text,,656D2AE2407E29552E595B91E7A0CEC4,Godmode,Godswijze
+/Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.TextBlock_68.Text,,656D2AE2407E29552E595B91E7A0CEC4,Godmode,Godmode
 /Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.TextBlock_7.Text,,E3792D0F4309BAC5C51F24AEA491A9C8,Precipitation,Neerslag
 /Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.TextBlock_8.Text,,A75D56F94184896110D0B0935FDAB01D,Cloudiness,Bewolking
 /Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.TextBlock_9.Text,,9A18912D4B2CFB6CF6E57B8BAAD27011,Temperature (deg C),Temperatuur (graden C)
@@ -7464,18 +7464,18 @@ Je kunt dit doen door het item naar een kledingvak te slepen, door te dubbelklik
 /Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.WBP_Button_3.Label,,8F0134DC48038908CDE4F1B902B4AA1F,Foggy,Mistig
 /Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.WBP_Button_38.Label,,51F5EC624E579D4FB1BA9FA6386F3A0E,Clear,Duidelijk
 /Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.WBP_Button_4.Label,,5BC072764C1E679386FD1AA3586AAB1D,Give Ammo for Held Weapon,Geef munitie voor vastgehouden wapen
-/Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.WBP_Button_5.Label,,A58F7F4941222071E5A42FBBEF0F3B07,Spawn,Kuit
+/Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.WBP_Button_5.Label,,A58F7F4941222071E5A42FBBEF0F3B07,Spawn,Spawn
 /Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.WBP_Button_6.Label,,72C3E3B740E029F1363450B1D7944CD8,Stormy,Stormachtig
 /Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.WBP_Button_65.Label,,7394B36E4F281036796ACEB261AF2435,Spawn in Inventory,Spawn in inventaris
 /Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.WBP_Button_7.Label,,B2E86EB04ED75F41E0B450AFFDFCE200,Drizzle,Motregen
 /Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.WBP_Button_8.Label,,9518D8014476FA9ED2997BAB0D906A73,Snowy,Besneeuwd
-/Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.WBP_Button_9.Label,,B6F18CC646B72888411E6795B36FAC15,Blizzard,Blizzard
-/Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.WBP_Dropdown.TextOptions(0).TextOptions,,07B9EA844FB17810233B37B36A7A3891,Off,Af
-/Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.WBP_Dropdown.TextOptions(1).TextOptions,,15E889A242C707C91572D4A7414B84BA,On,Op
+/Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.WBP_Button_9.Label,,B6F18CC646B72888411E6795B36FAC15,Blizzard,Sneeuwstorm
+/Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.WBP_Dropdown.TextOptions(0).TextOptions,,07B9EA844FB17810233B37B36A7A3891,Off,Uit
+/Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.WBP_Dropdown.TextOptions(1).TextOptions,,15E889A242C707C91572D4A7414B84BA,On,Aan
 /Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.WBP_Dropdown_3.TextOptions(0).TextOptions,,6721506E4D19C88C295D8FA40AA46D7F,Walk,Lopen
 /Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.WBP_Dropdown_3.TextOptions(1).TextOptions,,C65EDBDF45C3C56A44C277BF4A219923,Fly,Vliegen
-/Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.WBP_Dropdown_4.TextOptions(0).TextOptions,,6DB7FE314AE8D6F4E59153B73D4E0720,On,Op
-/Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.WBP_Dropdown_4.TextOptions(1).TextOptions,,FAAA8AAB49BF9A5B49978F944EE687CD,Off,Af
+/Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.WBP_Dropdown_4.TextOptions(0).TextOptions,,6DB7FE314AE8D6F4E59153B73D4E0720,On,Aan
+/Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.WBP_Dropdown_4.TextOptions(1).TextOptions,,FAAA8AAB49BF9A5B49978F944EE687CD,Off,Uit
 /Game/Vein/UI/UMG/Admin/WBP_AdminMenu.WBP_AdminMenu_C:WidgetTree.WorldButton.Label,,C245BF734913C5FA5DF2399E418DFD64,World,Wereld
 /Game/Vein/UI/UMG/Admin/WBP_AdminMenu_Ban.WBP_AdminMenu_Ban_C:WidgetTree.WBP_Button.Label,,5B25C632475DE37DBAA5609BDC6F19B3,Unban,Ban opheffen
 /Game/Vein/UI/UMG/Admin/WBP_AdminReport.WBP_AdminReport_C:WidgetTree.OpenReporterProfileButton.Label,,6F5B1C8E49CF53B4D06C41941055031C,Open Reporter Profile,Open het profiel van de verslaggever
@@ -7869,7 +7869,7 @@ Weet je zeker dat je zonder hen verder wilt?"
 /Game/Vein/UI/UMG/CharacterCreation/WBP_CharacterCreation.WBP_CharacterCreation_C:WidgetTree.Body_Older.FlexName,,218FEA034F0B7A92B7DAD6AC7897CB5B,Older,Ouder
 /Game/Vein/UI/UMG/CharacterCreation/WBP_CharacterCreation.WBP_CharacterCreation_C:WidgetTree.BodyButton.Label,,676606E440A7A1339F7403AB14701484,Body,Lichaam
 /Game/Vein/UI/UMG/CharacterCreation/WBP_CharacterCreation.WBP_CharacterCreation_C:WidgetTree.Cancel.Label,,45BFBF2446781FB28623D88274F0F034,Cancel,Annuleren
-/Game/Vein/UI/UMG/CharacterCreation/WBP_CharacterCreation.WBP_CharacterCreation_C:WidgetTree.CompleteButton.Label,,F23FCA0940586A8241CF34B581A5C5E3,Finish,Fins
+/Game/Vein/UI/UMG/CharacterCreation/WBP_CharacterCreation.WBP_CharacterCreation_C:WidgetTree.CompleteButton.Label,,F23FCA0940586A8241CF34B581A5C5E3,Finish,Klaar
 /Game/Vein/UI/UMG/CharacterCreation/WBP_CharacterCreation.WBP_CharacterCreation_C:WidgetTree.CopyAppearanceButton.Label,,CBDF12784B87136C993CD2B0469E6EB7,Copy to Clipboard,Naar klembord kopiëren
 /Game/Vein/UI/UMG/CharacterCreation/WBP_CharacterCreation.WBP_CharacterCreation_C:WidgetTree.CopyNPCAppearanceButton.Label,,77A094374394DB830119E8BCC01F251D,Copy Appearance to Clipboard for NPC,Kopieer uiterlijk naar klembord voor NPC
 /Game/Vein/UI/UMG/CharacterCreation/WBP_CharacterCreation.WBP_CharacterCreation_C:WidgetTree.FaceButton.Label,,80F368C0410A1C60193482AC8A996811,Face,Gezicht
@@ -7879,7 +7879,7 @@ Weet je zeker dat je zonder hen verder wilt?"
 /Game/Vein/UI/UMG/CharacterCreation/WBP_CharacterCreation.WBP_CharacterCreation_C:WidgetTree.NameEntry.Placeholder,,0EA2C4A14A5F4EB0C47F9A8C4AB6709E,First Last,Eerste Laatste
 /Game/Vein/UI/UMG/CharacterCreation/WBP_CharacterCreation.WBP_CharacterCreation_C:WidgetTree.NameErrorText.Text,,BEF1976F47C4BAE7CEE5EDA3CA134395,Name is too long (max. 40 characters.),Naam is te lang (max. 40 tekens.)
 /Game/Vein/UI/UMG/CharacterCreation/WBP_CharacterCreation.WBP_CharacterCreation_C:WidgetTree.NeutralButton.Label,,21F7AF504A364AA2779E23A6C1A03326,Neutral,Neutraal
-/Game/Vein/UI/UMG/CharacterCreation/WBP_CharacterCreation.WBP_CharacterCreation_C:WidgetTree.Next1.Label,,EC7E4BEC4236DD90F21D799874ABED80,Next,Volgend
+/Game/Vein/UI/UMG/CharacterCreation/WBP_CharacterCreation.WBP_CharacterCreation_C:WidgetTree.Next1.Label,,EC7E4BEC4236DD90F21D799874ABED80,Next,Volgende
 /Game/Vein/UI/UMG/CharacterCreation/WBP_CharacterCreation.WBP_CharacterCreation_C:WidgetTree.PasteAppearanmceButton.Label,,6526A0D642423880E386849B8BABA59C,Paste from Clipboard,Plakken vanaf het klembord
 /Game/Vein/UI/UMG/CharacterCreation/WBP_CharacterCreation.WBP_CharacterCreation_C:WidgetTree.Prev2.Label,,947408EB4192B4F7EE28B694E3173114,Back,Terug
 /Game/Vein/UI/UMG/CharacterCreation/WBP_CharacterCreation.WBP_CharacterCreation_C:WidgetTree.RandomizeButton.Label,,49A0CC4E4CB1FD84AFE9519A4AF4186F,Randomize Face,Gezicht willekeurig maken
@@ -8158,18 +8158,18 @@ Weet je zeker dat je ze wilt weggooien?"
 /Game/Vein/UI/UMG/Inventory/WBP_GroupMenu.WBP_GroupMenu_C:ExecuteUbergraph_WBP_GroupMenu [Script Bytecode],,B56C2CB14D9E6BAEDCD4BDB4FB0A33C1,Leave Group,Groep verlaten
 /Game/Vein/UI/UMG/Inventory/WBP_GroupMenu.WBP_GroupMenu_C:WidgetTree.ChangeName.Label,,F99E06A743CA468CEBBF78867E12A745,Change Name,Naam wijzigen
 /Game/Vein/UI/UMG/Inventory/WBP_GroupMenu.WBP_GroupMenu_C:WidgetTree.ChangeTag.Label,,53168FFE44D3950422C68399AA56E5B6,Change Tag,Tag wijzigen
-/Game/Vein/UI/UMG/Inventory/WBP_GroupMenu.WBP_GroupMenu_C:WidgetTree.CreateGroupButton.Label,,6118EBFB41A1B6C676B1E09D8FE4FE59,Create,Scheppen
+/Game/Vein/UI/UMG/Inventory/WBP_GroupMenu.WBP_GroupMenu_C:WidgetTree.CreateGroupButton.Label,,6118EBFB41A1B6C676B1E09D8FE4FE59,Create,Maak
 /Game/Vein/UI/UMG/Inventory/WBP_GroupMenu.WBP_GroupMenu_C:WidgetTree.CreateGroupNameEntry.Placeholder,,7FA09D3C4D0F605E053287BEE39C02C0,Group Name,Groepsnaam
 /Game/Vein/UI/UMG/Inventory/WBP_GroupMenu.WBP_GroupMenu_C:WidgetTree.DissolveButton.Label,,C3C8298B4653EF3675650E9C6817B245,Dissolve,Oplossen
 /Game/Vein/UI/UMG/Inventory/WBP_GroupMenu.WBP_GroupMenu_C:WidgetTree.LeaveButton.Label,,27AF9B81439325C6A679F592142AE892,Leave,Verlaten
 /Game/Vein/UI/UMG/Inventory/WBP_GroupMenu.WBP_GroupMenu_C:WidgetTree.Members.Text,,F609865847125C1F68643FB19A9C82B3,Members,Leden
 /Game/Vein/UI/UMG/Inventory/WBP_GroupMenu.WBP_GroupMenu_C:WidgetTree.TextBlock.Text,,ABFBF2614B76170DFE903BA762E04E2D,Create Group,Groep maken
-/Game/Vein/UI/UMG/Inventory/WBP_GroupMenu.WBP_GroupMenu_C:WidgetTree.TextBlock_1.Text,,AE523D1B4F495BB16572688358B563EB,Invites,Verzoekt
+/Game/Vein/UI/UMG/Inventory/WBP_GroupMenu.WBP_GroupMenu_C:WidgetTree.TextBlock_1.Text,,AE523D1B4F495BB16572688358B563EB,Invites,Uitnodigingen
 /Game/Vein/UI/UMG/Inventory/WBP_GroupMenu.WBP_GroupMenu_C:WidgetTree.TextBlock_197.Text,,B72A44D74E70818D82CF2AB4CE659A36,Group,Groep
 /Game/Vein/UI/UMG/Inventory/WBP_GroupMenu.WBP_GroupMenu_C:WidgetTree.TextBlock_2.Text,,42C34A91471B35807D2F6D950549754F,"You have no group invites. If someone invites you to a group, it will show up here.","Je hebt geen groepsuitnodigingen. Als iemand je uitnodigt voor een groep, wordt dit hier weergegeven."
 /Game/Vein/UI/UMG/Inventory/WBP_GroupMenu_Invite.WBP_GroupMenu_Invite_C:GetInvitedText [Script Bytecode],,5D93D62D4E7B3755DB84868EB6D26CC2,Invited by {Inviter Name},Uitgenodigd door {Inviter Name}
 /Game/Vein/UI/UMG/Inventory/WBP_GroupMenu_Invite.WBP_GroupMenu_Invite_C:WidgetTree.AcceptButton.Label,,AEBC67C744C07AFCD783D6950DDB56F5,Accept,Accepteren
-/Game/Vein/UI/UMG/Inventory/WBP_GroupMenu_Invite.WBP_GroupMenu_Invite_C:WidgetTree.RejectButton.Label,,97217478467FAC200E9724A2F75923FC,Reject,Verwerpen
+/Game/Vein/UI/UMG/Inventory/WBP_GroupMenu_Invite.WBP_GroupMenu_Invite_C:WidgetTree.RejectButton.Label,,97217478467FAC200E9724A2F75923FC,Reject,Weigeren
 /Game/Vein/UI/UMG/Inventory/WBP_GroupMenu_Player.WBP_GroupMenu_Player_C:ExecuteUbergraph_WBP_GroupMenu_Player [Script Bytecode],,B0D3A7384CDE8166C64694A7B9E5F0E0,Kick,Schoppen
 /Game/Vein/UI/UMG/Inventory/WBP_GroupMenu_Player.WBP_GroupMenu_Player_C:ExecuteUbergraph_WBP_GroupMenu_Player [Script Bytecode],,E0B5579F4B39B7B93B29FA9BCAEE9266,Are you sure you want to kick this person? They will need to be re-invited to rejoin.,Weet je zeker dat je deze persoon wilt schoppen? Ze moeten opnieuw worden uitgenodigd om opnieuw lid te worden.
 /Game/Vein/UI/UMG/Inventory/WBP_GroupMenu_Player.WBP_GroupMenu_Player_C:WidgetTree.KickButton.Label,,FE29F10D41D56F05097555945FB09246,Kick,Schoppen
@@ -8218,8 +8218,8 @@ Om meer geavanceerde items en wapens te maken, moet je een werkbank gebruiken, d
 /Game/Vein/UI/UMG/Inventory/WBP_RepairWindowSelectedItem.WBP_RepairWindowSelectedItem_C:WidgetTree.TextBlock_214.Text,,5F4D28A74D775CAFCBB53BAE02270B27,Requirements,Eisen
 /Game/Vein/UI/UMG/Inventory/WBP_RepairWindowSelectedItem.WBP_RepairWindowSelectedItem_C:WidgetTree.TextBlock_8.Text,,AA5BB59348B29750952E3985555EB7CA,Result,Resultaat
 /Game/Vein/UI/UMG/Inventory/WBP_SchematicBenchSelectedItem.WBP_SchematicBenchSelectedItem_C:WidgetTree.DecodeButton.Label,,C9D3C437404478912E46329440242E0D,Decode,Decoderen
-/Game/Vein/UI/UMG/Inventory/WBP_SchematicBenchSelectedItem.WBP_SchematicBenchSelectedItem_C:WidgetTree.TextBlock.Text,,E17D961749FBAF7AA39DA5BB99ADD602,Schematic Table Requirements,Schematische tabelvereisten
-/Game/Vein/UI/UMG/Inventory/WBP_SchematicBenchSelectedItem.WBP_SchematicBenchSelectedItem_C:WidgetTree.TextBlock_2.Text,,A7018E5D47B1E6DD4EE660967B326A82,Schematic Table,Schematische tabel
+/Game/Vein/UI/UMG/Inventory/WBP_SchematicBenchSelectedItem.WBP_SchematicBenchSelectedItem_C:WidgetTree.TextBlock.Text,,E17D961749FBAF7AA39DA5BB99ADD602,Schematic Table Requirements,Schematafel vereisten
+/Game/Vein/UI/UMG/Inventory/WBP_SchematicBenchSelectedItem.WBP_SchematicBenchSelectedItem_C:WidgetTree.TextBlock_2.Text,,A7018E5D47B1E6DD4EE660967B326A82,Schematic Table,Schematafel
 /Game/Vein/UI/UMG/Inventory/WBP_SchematicBenchSelectedItem.WBP_SchematicBenchSelectedItem_C:WidgetTree.TextBlock_94.Text,,3ADC6B9F45FECED33A82DF80F6C5001F,Basic Requirements,Basisvereisten
 /Game/Vein/UI/UMG/Inventory/WBP_SchematicWindow.WBP_SchematicWindow_C:WidgetTree.PlayerInventory.EmptyLabel,,10483A974F5D35F2483FE296F8910E5C,You have no schematics to use with this.,Je hebt geen schema's om hiermee te gebruiken.
 /Game/Vein/UI/UMG/Inventory/WBP_SelectedInventoryItem.WBP_SelectedInventoryItem_C:WidgetTree.DropButton.Label,,7350D3764DCDFB40F6E451BBCE998244,Drop,Druppel
@@ -8265,7 +8265,7 @@ Medewerkers met meer dan 100 vertalingen zijn hier te zien."
 /Game/Vein/UI/UMG/MainMenu/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.NewGameAdvancedButton.Label,,D01FCCD9437B49E03E1A7E9FB0A6ACB2,Advanced,Geavanceerd
 /Game/Vein/UI/UMG/MainMenu/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.RoadmapButton.Label,,0171223441EEE867E92F69B779A1396E,Roadmap,Routekaart
 /Game/Vein/UI/UMG/MainMenu/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.RoadmapButton.Tooltip,,509479B24328814D92DFA0B5A287E80A,Check what's coming in future updates.,Bekijk wat er in toekomstige updates komt.
-/Game/Vein/UI/UMG/MainMenu/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.SandboxButton.Label,Vein,Sandbox,Sandbox,Zandbak
+/Game/Vein/UI/UMG/MainMenu/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.SandboxButton.Label,Vein,Sandbox,Sandbox,Sandbox
 /Game/Vein/UI/UMG/MainMenu/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.SettingsButton.Label,Vein,Settings,Settings,Instellingen
 /Game/Vein/UI/UMG/MainMenu/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.SingleplayerButton.Label,Vein,NewGame,New Game,Nieuw spel
 /Game/Vein/UI/UMG/MainMenu/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.StartNewGameButton.Label,,AC91A13E4758403AEBCC3EB85CB403DF,Start,Beginnen
@@ -8308,7 +8308,7 @@ Bedankt voor uw begrip en geniet ervan!
 — Kyle & Azi"
 /Game/Vein/UI/UMG/MainMenu/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.TextBlock_82.Text,,3CCD344B479F064477494B8DF581EE88,Disconnected,Verbroken
 /Game/Vein/UI/UMG/MainMenu/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.TutorialButton.Label,Vein,CCCA13E64D9677415B5DC6B4429A1976,Tutorial,Tutorial
-/Game/Vein/UI/UMG/MainMenu/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.WishlistButton.Label,,47D0087748E2CA54CAFF2383AA24782C,Wishlist on Steam,Verlanglijstje op Steam
+/Game/Vein/UI/UMG/MainMenu/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.WishlistButton.Label,,47D0087748E2CA54CAFF2383AA24782C,Wishlist on Steam,Verlanglijst op Steam
 /Game/Vein/UI/UMG/MainMenu/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.WishlistButton.Tooltip,,2CC0646C48016CCD23DB5E8FFAC5C8AE,"This helps us a lot, thank you!","Dit helpt ons enorm, bedankt!"
 /Game/Vein/UI/UMG/MainMenu/WBP_MainMenu_NewGameOptions.WBP_MainMenu_NewGameOptions_C:WidgetTree.PasswordTextEntry.Placeholder,,4A6EFAB14BFAD87FD60A908D9A73DD04,Password...,Wachtwoord...
 /Game/Vein/UI/UMG/MainMenu/WBP_MainMenu_NewGameOptions.WBP_MainMenu_NewGameOptions_C:WidgetTree.Privacy.TextOptions(0).TextOptions,,F67DE3A34134152864281798E43425F2,Private,Privé
@@ -8326,8 +8326,8 @@ Bedankt voor uw begrip en geniet ervan!
 /Game/Vein/UI/UMG/MainMenu/WBP_MainMenu_NewGameOptions.WBP_MainMenu_NewGameOptions_C:WidgetTree.TextBlock_2.Text,,EEDD39CB4B1065FBED3B20B9D5D6DBC0,Other players will be able to connect to your game.,Andere spelers kunnen verbinding maken met je game.
 /Game/Vein/UI/UMG/MainMenu/WBP_MainMenu_NewGameOptions.WBP_MainMenu_NewGameOptions_C:WidgetTree.TextBlock_70.Text,,97B9E7FA4B40EE8383C98DA74FBEEED5,Multiplayer,Multiplayer
 /Game/Vein/UI/UMG/MainMenu/WBP_MainMenu_NewGameOptions.WBP_MainMenu_NewGameOptions_C:WidgetTree.TextBlock_9.Text,,61E79F84402C0E3BCE2C57B32778B5DD,Server Name,Naam van de server
-/Game/Vein/UI/UMG/MainMenu/WBP_MainMenuNewsArticle.WBP_MainMenuNewsArticle_C:GetDateString [Script Bytecode],,CFEECFBE49BEF0EC4467A69BA8A8E2BE,"{Month} {Day}, {Year}","{Month} {Day}, {Year}"
-/Game/Vein/UI/UMG/MainMenu/WBP_Mod.WBP_Mod_C:WidgetTree.TextBlock_147.Text,,39C26E044853ED8CD9002E8103FABEC9,Disabled,Invalide
+/Game/Vein/UI/UMG/MainMenu/WBP_MainMenuNewsArticle.WBP_MainMenuNewsArticle_C:GetDateString [Script Bytecode],,CFEECFBE49BEF0EC4467A69BA8A8E2BE,"{Month} {Day}, {Year}","{Day} {Month}, {Year}"
+/Game/Vein/UI/UMG/MainMenu/WBP_Mod.WBP_Mod_C:WidgetTree.TextBlock_147.Text,,39C26E044853ED8CD9002E8103FABEC9,Disabled,Uitgeschakeld
 /Game/Vein/UI/UMG/MainMenu/WBP_ModConfig.WBP_ModConfig_C:GetToggleLabel [Script Bytecode],,24C767B94D8C722B902864A7E9323664,Disable Mod,Mod uitschakelen
 /Game/Vein/UI/UMG/MainMenu/WBP_ModConfig.WBP_ModConfig_C:GetToggleLabel [Script Bytecode],,2D87D06F45AFB6063AAF0A97603E8283,Enable Mod,Mod inschakelen
 /Game/Vein/UI/UMG/MainMenu/WBP_ModConfig.WBP_ModConfig_C:WidgetTree.PrivacyButton.Label,,6C4558784B656AE5CDBD25A61BD7B8FC,Privacy Policy,Privacybeleid
@@ -8502,15 +8502,15 @@ Shift om twee octaven toe te voegen, control om twee octaven af te trekken."
 /Game/Vein/UI/UMG/Settings/WBP_Settings.WBP_Settings_C:WidgetTree.TextBlock_4.Text,,B899B34040233898019D069567E5C4BF,Global Illumination Quality,Wereldwijde verlichtingskwaliteit
 /Game/Vein/UI/UMG/Settings/WBP_Settings.WBP_Settings_C:WidgetTree.TextBlock_40.Text,,AB0969714567D02CCA9647AE87CF7FEB,Autosave,Automatisch opslaan
 /Game/Vein/UI/UMG/Settings/WBP_Settings.WBP_Settings_C:WidgetTree.TextBlock_41.Text,,5061C4824749E42B01A842BD10BE470E,Language,Taal
-/Game/Vein/UI/UMG/Settings/WBP_Settings.WBP_Settings_C:WidgetTree.TextBlock_42.Text,,E6B9E3064472C0D67819778C84C7E05D,Motion Blur,Bewegingsonscherpte
-/Game/Vein/UI/UMG/Settings/WBP_Settings.WBP_Settings_C:WidgetTree.TextBlock_43.Text,,E7578CF343C6144B1F35CEA13F05AA19,Scoped-In Mouse Sensitivity,Gevoeligheid van de muis
+/Game/Vein/UI/UMG/Settings/WBP_Settings.WBP_Settings_C:WidgetTree.TextBlock_42.Text,,E6B9E3064472C0D67819778C84C7E05D,Motion Blur,Motion Blur
+/Game/Vein/UI/UMG/Settings/WBP_Settings.WBP_Settings_C:WidgetTree.TextBlock_43.Text,,E7578CF343C6144B1F35CEA13F05AA19,Scoped-In Mouse Sensitivity,Ingezoomde Gevoeligheid van de muis
 /Game/Vein/UI/UMG/Settings/WBP_Settings.WBP_Settings_C:WidgetTree.TextBlock_44.Text,,7FCEE7394002353CCD52F69CD8FA1850,(Default is 0.06),"(Standaard is 0,06)"
 /Game/Vein/UI/UMG/Settings/WBP_Settings.WBP_Settings_C:WidgetTree.TextBlock_46.Text,,AE252D3047E2D38CDD92D6AF125558F6,Sprinting Camera Zoom,Sprinten Camera Zoom
-/Game/Vein/UI/UMG/Settings/WBP_Settings.WBP_Settings_C:WidgetTree.TextBlock_47.Text,,A17CD50945A8E6070C8328BA77750690,Head Bob,Hoofd Bob
+/Game/Vein/UI/UMG/Settings/WBP_Settings.WBP_Settings_C:WidgetTree.TextBlock_47.Text,,A17CD50945A8E6070C8328BA77750690,Head Bob,Hoofd beweging
 /Game/Vein/UI/UMG/Settings/WBP_Settings.WBP_Settings_C:WidgetTree.TextBlock_48.Text,,9C9C1E464FF74D357EBA048FFF4A1DE9,Fog Scattering,Verstrooiing van mist
 /Game/Vein/UI/UMG/Settings/WBP_Settings.WBP_Settings_C:WidgetTree.TextBlock_49.Text,,16546BAC47F4D567967B619AB93F5063,Volumetric Fog,Volumetrische mist
 /Game/Vein/UI/UMG/Settings/WBP_Settings.WBP_Settings_C:WidgetTree.TextBlock_5.Text,,996F93E1411406F1EB0041B78052A7EA,Reflection Quality,Reflectie kwaliteit
-/Game/Vein/UI/UMG/Settings/WBP_Settings.WBP_Settings_C:WidgetTree.TextBlock_50.Text,,09B3E80648F63CE3EA153FB3D698FD97,View Distance,Bekijk afstand
+/Game/Vein/UI/UMG/Settings/WBP_Settings.WBP_Settings_C:WidgetTree.TextBlock_50.Text,,09B3E80648F63CE3EA153FB3D698FD97,View Distance,Verkijk afstand
 /Game/Vein/UI/UMG/Settings/WBP_Settings.WBP_Settings_C:WidgetTree.TextBlock_51.Text,,5521A86745BC9C1EE56E70B503F113D0,Enable Developer Console With ~,Schakel de ontwikkelaarsconsole in met ~
 /Game/Vein/UI/UMG/Settings/WBP_Settings.WBP_Settings_C:WidgetTree.TextBlock_52.Text,,76D6F25143D75A6D092296A81E40FB5F,"When the window is not focused, continue playing audio.","Als het venster niet is scherpgesteld, gaat u door met het afspelen van audio."
 /Game/Vein/UI/UMG/Settings/WBP_Settings.WBP_Settings_C:WidgetTree.TextBlock_53.Text,,0BEC9038445580ADE1BE69BA01ACE970,Grass Distance Quality,Kwaliteit van de grasafstand
@@ -8569,7 +8569,7 @@ Shift om twee octaven toe te voegen, control om twee octaven af te trekken."
 /Game/Vein/UI/UMG/SprayPaint/WBP_SprayPaint.WBP_SprayPaint_C:WidgetTree.TextBlock_0.Text,,0CC1623645F68FA3D24803B26EE9019F,Spray Paint,Spuitverf
 /Game/Vein/UI/UMG/SprayPaint/WBP_SprayPaint.WBP_SprayPaint_C:WidgetTree.TextBlock_113.Text,,8F88D39549F5BF4893DA21BB0E067EC5,Scale,Schub
 /Game/Vein/UI/UMG/Stats/WBP_Stat.WBP_Stat_C:WidgetTree.PerkAvailableButton.Tooltip,,00BAB89147F37F1591B0079D491B5138,Perk available!,Extraatje beschikbaar!
-/Game/Vein/UI/UMG/Stats/WBP_StatPerk.WBP_StatPerk_C:WidgetTree.WBP_Button.Label,,4700FCF942359129DDD72F9B86EB0EC6,Unlock,Ontsluiten
+/Game/Vein/UI/UMG/Stats/WBP_StatPerk.WBP_StatPerk_C:WidgetTree.WBP_Button.Label,,4700FCF942359129DDD72F9B86EB0EC6,Unlock,Openen
 /Game/Vein/UI/UMG/Stats/WBP_Stats.WBP_Stats_C:WidgetTree.TextBlock_0.Text,,3A4EE95747C724A341F1D4BA6F9E0017,"You have no perks... yet.
 You get one every 25 levels.","Je hebt geen extraatjes... nog.
  Je krijgt er elke 25 levels een."
@@ -8762,7 +8762,7 @@ Met een wasmiddel worden ze sneller schoon."
 /Game/Vein/Vehicles/Wheeled/CamperVan/BP_CamperVan.BP_CamperVan_C:WorkbenchInventory_GEN_VARIABLE.Name,,C602BB274E928FD6C37B209742FF0AA9,Stove,Kachel
 /Game/Vein/Vehicles/Wheeled/CamperVan/BP_CamperVan.Default__BP_CamperVan_C.VehicleName,,69C0E78B4E9788A20BA341B73D1D5299,Jetcoze Outback,Jetcoze Outback
 /Game/Vein/Vehicles/Wheeled/CamperVan/BP_CamperVan.Default__BP_CamperVan_C:Trunk.Name,,69B13CA14599473C8699DF8D70092FC2,Cupboard,Kast
-/Game/Vein/Vehicles/Wheeled/GoKart/BP_GoKart.Default__BP_GoKart_C.VehicleName,,C5BCE15C4FEBE60D0A62A9941F20EBFA,Go Kart,Skelter
+/Game/Vein/Vehicles/Wheeled/GoKart/BP_GoKart.Default__BP_GoKart_C.VehicleName,,C5BCE15C4FEBE60D0A62A9941F20EBFA,Go Kart,Kart
 /Game/Vein/Vehicles/Wheeled/GoKart/BP_GoKart.Default__BP_GoKart_C:Hood.HoodText,,90C5D3674BF9BC902F9BA2BE78167492,Internals,Internals
 /Game/Vein/Vehicles/Wheeled/GolfCart/BP_GolfCart.Default__BP_GolfCart_C.VehicleName,,03676E8344058D0C14F70DAFC94148B9,Golf Cart,Golfkar
 /Game/Vein/Vehicles/Wheeled/GolfCart/BP_GolfCart.Default__BP_GolfCart_C:Hood.HoodText,,97BE901D4DD3070A0200DCA96C726EED,Internals,Internals
@@ -8791,7 +8791,7 @@ Met een wasmiddel worden ze sneller schoon."
 /Game/Vein/WorkbenchTypes/WT_Fabrication.WT_Fabrication.Name,,71CB76504A0AF9929D5E2CBA8FD93D91,Fabrication,Fabricage
 /Game/Vein/WorkbenchTypes/WT_Personal.WT_Personal.Name,,C279939C42D6CB6DD00C8A9F9E4C4B24,Personal,Persoonlijk
 /Game/Vein/WorkbenchTypes/WT_Repair.WT_Repair.Name,,0525BEB24B00F14EB50AA9B552425187,Repair,Repareren
-/Game/Vein/WorkbenchTypes/WT_Schematic.WT_Schematic.Name,,27481FD5410C3AF107453EBDF4697FB8,Schematic,Schematisch
+/Game/Vein/WorkbenchTypes/WT_Schematic.WT_Schematic.Name,,27481FD5410C3AF107453EBDF4697FB8,Schematic,Schema
 /Game/Vein/WorkbenchTypes/WT_Standard.WT_Standard.Name,,AAF72E4C4881B2ACFDCBA980BB57E74B,Standard,Standaard
 /Game/Vein/WorkbenchTypes/WT_Stove.WT_Stove.Name,,02FDC3E941F653F6B162AFA8CF705EBE,Stove,Kachel
 /Game/Vein/Zombies/BP_Zombie.Default__BP_Zombie_C:Inventory.Name,,7A3AD58C44D91240F2AA63BF5952934D,Zombie,Zombie
@@ -8806,12 +8806,12 @@ Source/Vein/AI/Spawner/SandboxZombieTotem.cpp(62),,Sandbox_ZombieTotem_DisableZo
 Source/Vein/AI/Zombies/VeinZombieCharacter.cpp(592),,Zombie,Zombie,Zombie
 Source/Vein/Animation/Notifies/AnimNotifyState_MeleeDamage.cpp(686),,MeleeDamage_GotDirt,You dig up a {ItemName}.,Je graaft een {ItemName} op.
 Source/Vein/Animation/Notifies/AnimNotifyState_MeleeDamage.cpp(716),,MeleeDamage_GotDirt_Extra,You also dig up some {ItemName}.,Je graaft ook wat {ItemName} op.
-Source/Vein/Appliances/ATM.cpp(102),,ATM,ATM,GELDAUTOMAAT
-Source/Vein/Appliances/ATM.cpp(110),,ATM_Examine,Examine ATM,Onderzoek geldautomaat
+Source/Vein/Appliances/ATM.cpp(102),,ATM,ATM,Pinautomaat
+Source/Vein/Appliances/ATM.cpp(110),,ATM_Examine,Examine ATM,Onderzoek Pinautomaat
 Source/Vein/Appliances/ATM.cpp(117),,ATM_Withdraw,Withdraw,Intrekken
-Source/Vein/Appliances/ATM.cpp(133),,ATM_Examine_Off,The ATM is unpowered.,De geldautomaat heeft geen stroom.
-Source/Vein/Appliances/ATM.cpp(139),,ATM_Examine_NoConnection,"The ATM is powered, but indicates there's a connection error.","De geldautomaat is ingeschakeld, maar geeft aan dat er een verbindingsfout is."
-Source/Vein/Appliances/ATM.cpp(142),,ATM_Examine_Offline,The ATM is powered.,De geldautomaat wordt aangedreven.
+Source/Vein/Appliances/ATM.cpp(133),,ATM_Examine_Off,The ATM is unpowered.,De Pinautomaat heeft geen stroom.
+Source/Vein/Appliances/ATM.cpp(139),,ATM_Examine_NoConnection,"The ATM is powered, but indicates there's a connection error.","De Pinautomaat is ingeschakeld, maar geeft aan dat er een verbindingsfout is."
+Source/Vein/Appliances/ATM.cpp(142),,ATM_Examine_Offline,The ATM is powered.,De Pinautomaat heeft stroom.
 Source/Vein/Appliances/ATM.cpp(161),,ATM_NoCardToWithdraw,"You have no card to use.
 
 Find them in the world and on corpses.","Je hebt geen kaart om te gebruiken.
@@ -8820,7 +8820,7 @@ Vind ze in de wereld en op lijken."
 Source/Vein/Appliances/HandDryerActor.cpp(25),,HandDryer_Name,Hand Dryer,Handdroger
 Source/Vein/Appliances/HandDryerActor.cpp(26),,HandDryer_Success,You dry yourself off a little.,Je droogt jezelf een beetje af.
 Source/Vein/Appliances/HandDryerActor.cpp(27),,HandDryer_Unpowered,The hand dryer isn't doing anything.,De handdroger doet niets.
-Source/Vein/Appliances/HandDryerActor.cpp(46),,HandDryer_Dry,Dry Self,Droog zelf
+Source/Vein/Appliances/HandDryerActor.cpp(46),,HandDryer_Dry,Dry Self,Droog jezelf
 Source/Vein/Appliances/TV.cpp(394),,TV,TV,TV
 Source/Vein/Appliances/TV.cpp(420),,TVIsDestroyed,Destroyed. Will not work.,Vernietigd. Zal niet werken.
 Source/Vein/Appliances/TV.cpp(427),,TV_NowPlaying,Now Playing: {VideoName},Nu aan het spelen: {VideoName}
@@ -8861,7 +8861,7 @@ Source/Vein/Conditions/Condition.cpp(201),,ConditionEffect_JumpForceMultiplier,J
 Source/Vein/Conditions/Condition.cpp(203),,ConditionEffect_MeleeSpeedMultiplier,Melee Speed,Melee-snelheid
 Source/Vein/Conditions/Condition.cpp(205),,ConditionEffect_PainPerSecond,Pain Per Second,Pijn per seconde
 Source/Vein/Conditions/Condition.cpp(207),,ConditionEffect_RunSpeedMultiplier,Run Speed,Loopsnelheid
-Source/Vein/Conditions/Condition.cpp(209),,ConditionEffect_ThirstRateMultiplier,Thirst Rate,Dorst
+Source/Vein/Conditions/Condition.cpp(209),,ConditionEffect_ThirstRateMultiplier,Thirst Rate,Dorst Snelheid
 Source/Vein/Conditions/Condition.cpp(211),,ConditionEffect_ThrowItemCapability,Throw Item Capability,Mogelijkheid om items te gooien
 Source/Vein/Conditions/Condition.cpp(213),,ConditionEffect_UseDurationMultiplier,Use Duration,Duur gebruik
 Source/Vein/Conditions/Condition.cpp(215),,ConditionEffect_WaterEffectMultiplier,Water Effect,Watereffect
@@ -8869,12 +8869,12 @@ Source/Vein/Conditions/Condition.cpp(217),,ConditionEffect_WeaponSpeedMultiplier
 Source/Vein/Conditions/Condition.cpp(219),,ConditionEffect_WetnessPerSecond,Wetness Per Second,nattigheid per seconde
 Source/Vein/Conditions/Condition.cpp(221),,ConditionEffect_ZombieDetectionDistance,Zombie Detection Distance,Zombie detectie afstand
 Source/Vein/Conditions/Condition.cpp(223),,ConditionEffect_HealthRemovalPerSecond,Damage Per Second,Schade per seconde
-Source/Vein/Conditions/Condition.cpp(225),,ConditionEffect_PainPerSecondWhileRunning,Pain Per Second While Running,Pijn per seconde tijdens het hardlopen
+Source/Vein/Conditions/Condition.cpp(225),,ConditionEffect_PainPerSecondWhileRunning,Pain Per Second While Running,Pijn per seconde tijdens het rennen
 Source/Vein/Conditions/Condition.cpp(227),,ConditionEffect_EyeRedness,Eye Redness,Roodheid van het oog
 Source/Vein/Conditions/Condition.cpp(229),,ConditionEffect_Lightheadedness,Lightheadedness,Duizeligheid
 Source/Vein/Conditions/Condition.cpp(231),,ConditionEffect_StressAdditionPerSecond,Stress Per Second,Stress per seconde
 Source/Vein/Conditions/Condition.cpp(233),,ConditionEffect_HeartRateChange,Heart Rate,Hartslag
-Source/Vein/Conditions/Condition.cpp(235),,ConditionEffect_BloodPressureChange,BP,BP
+Source/Vein/Conditions/Condition.cpp(235),,ConditionEffect_BloodPressureChange,BP,BD
 Source/Vein/Conditions/ConditionComponent.cpp(1045),,AddictionList_Two,{0} and {1},{0} en {1}
 Source/Vein/Conditions/ConditionComponent.cpp(1052),,AddictionList_Three,"{0}, {1}, and {2}","{0}, {1} en {2}"
 Source/Vein/Conditions/ConditionComponent.cpp(1057),,AddictionList_Many,many forms of withdrawal,Vele vormen van herroeping
@@ -8962,8 +8962,8 @@ Source/Vein/Core/VeinGameInstance.cpp(592),,Nov,Nov,Nov
 Source/Vein/Core/VeinGameInstance.cpp(594),,Dec,Dec,Dec
 Source/Vein/Core/VeinGameUserSettings.cpp(712),,BananaWeight,"{Quantity} {Quantity}|plural(one=banana,other=bananas)","{Quantity} {Quantity}|plural(one=banaan,other=bananen)"
 Source/Vein/Core/VeinGameUserSettings.cpp(725),,WashingMachinesWeight,{Quantity} w.m.,{Quantity} w.m.
-Source/Vein/Core/VeinGameUserSettings.cpp(783),,DegreesC,°C,Â°C
-Source/Vein/Core/VeinGameUserSettings.cpp(787),,DegreesF,°F,Â°F
+Source/Vein/Core/VeinGameUserSettings.cpp(783),,DegreesC,°C,°C
+Source/Vein/Core/VeinGameUserSettings.cpp(787),,DegreesF,°F,°F
 Source/Vein/Core/VeinGameUserSettings.cpp(802),,DefaultMicrophone,Default,Verstek
 Source/Vein/Crafting/CookingContainer.cpp(13),,Stove,Stove,Kachel
 Source/Vein/Crafting/CookingContainer.cpp(14),,Cook,Cook,Koken
@@ -8982,7 +8982,7 @@ Source/Vein/Farming/CompostBinActor.cpp(101),,Compost_Open,Open,Openen
 Source/Vein/Farming/CompostBinActor.cpp(105),,Compost_Open_Sealed,The bin is sealed.,De opvangbak is verzegeld.
 Source/Vein/Farming/CompostBinActor.cpp(126),,Compost_Unseal_Confirm_Desc,Are you sure you want to unseal the compost bin? Its contents are still composting. You will receive worse compost than normal.,Weet je zeker dat je de compostbak wilt openmaken? De inhoud wordt nog steeds gecomposteerd. U krijgt slechtere compost dan normaal.
 Source/Vein/Farming/CompostBinActor.cpp(126),,Compost_Unseal_Confirm_Title,Unseal Compost Bin,Compostbak ontzegelen
-Source/Vein/Farming/CompostBinActor.cpp(56),,Compost_Seal,Seal,Zeehond
+Source/Vein/Farming/CompostBinActor.cpp(56),,Compost_Seal,Seal,Verzegelen
 Source/Vein/Farming/CompostBinActor.cpp(56),,Compost_Unseal,Unseal,Ontzegelen
 Source/Vein/Farming/CompostBinActor.cpp(66),,Compost_Ready,Finished composting {Quality} compost.,Klaar met composteren {Quality} compost.
 Source/Vein/Farming/CompostBinActor.cpp(74),,Compost_NotStarted,Not decayed yet. Decays in one day. Expect {Quality} compost.,Nog niet vergaan. Vergaat in één dag. Verwacht {Quality} compost.
@@ -9133,7 +9133,7 @@ Source/Vein/GameFramework/VeinPlayerCharacter.cpp(5392),,OilChange_PouredIntoEng
 Source/Vein/GameFramework/VeinPlayerCharacter.cpp(5410),,OilChange_Emptied,You emptied the oil from the engine.,Je hebt de olie uit de motor geleegd.
 Source/Vein/GameFramework/VeinPlayerCharacter.cpp(560),,StatPointsAvailable,You have unused perk stat points available to spend. Open the Stats menu to unlock them.,Je hebt ongebruikte perk stat points beschikbaar om uit te geven. Open het menu Statistieken om ze te ontgrendelen.
 Source/Vein/GameFramework/VeinPlayerCharacter.cpp(5984),,CantSmellAnything,You can't smell anything.,Je ruikt niets.
-Source/Vein/GameFramework/VeinPlayerCharacter.cpp(852),,InviteToGroup,Invite to Group,Uitnodigen voor groep
+Source/Vein/GameFramework/VeinPlayerCharacter.cpp(852),,InviteToGroup,Invite to Group,Uitnodigen in groep
 Source/Vein/GameFramework/VeinPlayerCharacter.cpp(858),,InviteToGroup_AlreadyInGroup,They're already in a group.,Ze zitten al in een groep.
 Source/Vein/GameFramework/VeinPlayerCharacter.cpp(862),,InviteToGroup_AlreadyInvited,They're already been invited.,Ze zijn al uitgenodigd.
 Source/Vein/GameFramework/VeinPlayerCharacter.cpp(866),,InviteToGroup_GroupTooBig,Your group is full.,Je groep is vol.
@@ -9172,7 +9172,7 @@ Source/Vein/Inventory/EquippedItems/TowelEquippedItem.cpp(37),,Towel_CleanDebris
 Source/Vein/Inventory/Fluid.cpp(85),,Fluid_DecayName,Decay,Verval
 Source/Vein/Inventory/Fluid.cpp(87),,FluidDecay_Max,Putrid,Rot
 Source/Vein/Inventory/Fluid.cpp(88),,FluidDecay_75%,Filthy,Vuil
-Source/Vein/Inventory/Fluid.cpp(89),,FluidDecay_50%,Dirty,Vuil
+Source/Vein/Inventory/Fluid.cpp(89),,FluidDecay_50%,Dirty,Vies
 Source/Vein/Inventory/Fluid.cpp(90),,FluidDecay_25%,Impure,Onzuiver
 Source/Vein/Inventory/Fluid.cpp(91),,FluidDecay_0%,Pure,Zuiver
 Source/Vein/Inventory/Gas.cpp(38),,Contents,Contents,Inhoud
@@ -9335,7 +9335,7 @@ Source/Vein/Inventory/Items/FluidContainerItem.cpp(705),,Cold,Cold,Koud
 Source/Vein/Inventory/Items/FluidContainerItem.cpp(709),,Lukewarm,Lukewarm,Lauw
 Source/Vein/Inventory/Items/FluidContainerItem.cpp(713),,Warm,Warm,Warm
 Source/Vein/Inventory/Items/FluidContainerItem.cpp(717),,Hot,Hot,Heet
-Source/Vein/Inventory/Items/FoodItem.cpp(118),,FoodPrefix_Cooked,Cooked {FoodName},Gekookt {FoodName}
+Source/Vein/Inventory/Items/FoodItem.cpp(118),,FoodPrefix_Cooked,Cooked {FoodName},Gekookte {FoodName}
 Source/Vein/Inventory/Items/FoodItem.cpp(125),,FoodPrefix_Frozen,Frozen {FoodName},Bevroren {FoodName}
 Source/Vein/Inventory/Items/FoodItem.cpp(140),,FoodDescSuffix_NotCooked,"{FoodDescription}
 
@@ -9521,7 +9521,7 @@ Source/Vein/Systems/WireableTargetComponent.cpp(96),,InsertIntoOutlet,Insert {He
 Source/Vein/Systems/WirePlayerComponent.cpp(394),,Wire_WouldCreateLoop,You can't connect this - it would create a loop.,Je kunt dit niet verbinden - het zou een lus creëren.
 Source/Vein/UI/Widgets/Admin/AdminMenuWindowWidget.cpp(114),,Admin_Mute,Mute,Stom
 Source/Vein/UI/Widgets/Admin/AdminMenuWindowWidget.cpp(114),,Admin_Unmute,Unmute,Dempen opheffen
-Source/Vein/UI/Widgets/Admin/AdminMenuWindowWidget.cpp(119),,Admin_GrantAdmin,Grant Admin,Subsidie Admin
+Source/Vein/UI/Widgets/Admin/AdminMenuWindowWidget.cpp(119),,Admin_GrantAdmin,Grant Admin,Beheerder Toewijzen
 Source/Vein/UI/Widgets/Admin/AdminMenuWindowWidget.cpp(119),,Admin_RemoveAdmin,Remove Admin,Beheerder verwijderen
 Source/Vein/UI/Widgets/Admin/AdminMenuWindowWidget.cpp(761),,AdminMenu_Notification_Copied,Copied.,Gekopieerd.
 Source/Vein/UI/Widgets/CharacterCreation/CharacterCreationWidget.cpp(493),,Face_Chin,Chin,Kin
@@ -9531,15 +9531,15 @@ Source/Vein/UI/Widgets/CharacterCreation/CharacterCreationWidget.cpp(502),,Face_
 Source/Vein/UI/Widgets/CharacterCreation/CharacterCreationWidget.cpp(505),,Face_Jaw,Jaw,Kaak
 Source/Vein/UI/Widgets/CharacterCreation/CharacterCreationWidget.cpp(508),,Face_Mouth,Mouth,Mond
 Source/Vein/UI/Widgets/CharacterCreation/CharacterCreationWidget.cpp(511),,Face_Nose,Nose,Neus
-Source/Vein/UI/Widgets/ClockUserWidget.cpp(114),,DateFormat,{Month}/{Day}/{Year},{Month}/{Day}/{Year}
+Source/Vein/UI/Widgets/ClockUserWidget.cpp(114),,DateFormat,{Month}/{Day}/{Year},{Day}/{Month}/{Year}
 Source/Vein/UI/Widgets/ClockUserWidget.cpp(93),,TimeFormat,{Hours}:{Minutes} {AMPM},{Hours}:{Minutes} {AMPM}
 Source/Vein/UI/Widgets/Construction/BuildObjectIconUserWidget.cpp(59),,BuildObject_NotEnoughSkillTooltip,You don't have the required skills to build this.,Je hebt niet de vereiste vaardigheden om dit op te bouwen.
 Source/Vein/UI/Widgets/Construction/ConstructionUserWidget.cpp(353),,ConstructionMenu_PerSqM,per sq m.,per m².
 Source/Vein/UI/Widgets/Construction/ConstructionUserWidget.cpp(77),,ConstructionMenu_Warning_BuildObjectsNoDecay,"There is no utility cabinet covering where you are standing.
-Without a utility cabinet, zombies may be found here.","Er is geen afdekking van een bijkeuken waar je staat.
+Without a utility cabinet, zombies may be found here.","Er is geen meterkastdekking waar je staat.
 Zonder een meterkast kunnen hier zombies worden gevonden."
 Source/Vein/UI/Widgets/Construction/ConstructionUserWidget.cpp(82),,ConstructionMenu_Warning_BuildObjectsDecay,"There is no utility cabinet covering where you are standing. These are used to maintain structures.
-Without a utility cabinet, built structures will decay and zombies may be found here.","Er is geen afdekking van een bijkeuken waar je staat. Deze worden gebruikt om constructies te onderhouden.
+Without a utility cabinet, built structures will decay and zombies may be found here.","Er is geen meterkastdekking waar je staat. Deze wordt gebruikt om constructies te onderhouden.
 Zonder een meterkast zullen gebouwde structuren vervallen en kunnen hier zombies worden gevonden."
 Source/Vein/UI/Widgets/Crafting/HeatConverterWidget.cpp(25),,Furnace_On,On,Op
 Source/Vein/UI/Widgets/Crafting/HeatConverterWidget.cpp(26),,Furnace_Off,Off,Af
@@ -9567,7 +9567,7 @@ Source/Vein/UI/Widgets/Groups/PlayerGroupUserWidget.cpp(349),,ChangeGroupTag_Des
 Source/Vein/UI/Widgets/Groups/PlayerGroupUserWidget.cpp(349),,ChangeGroupTag_Title,Change Tag,Tag wijzigen
 Source/Vein/UI/Widgets/Inventory/BasePlayerInventoryWindowWidget.cpp(548),,InventoryWindow_NoItemsToFitInContainer,You have no items that will fit in this.,Je hebt geen items die hierin passen.
 Source/Vein/UI/Widgets/Inventory/FluidAcceptorUserWidget.cpp(19),,NoContents,No Contents,Geen inhoud
-Source/Vein/UI/Widgets/Inventory/InventoryItemUserWidget.cpp(91),,UtilityItemHint,"Equip into a ""Utility Slot"" to gain access to new HUD and/or gameplay elements.","Rust je uit in een ""Utility Slot"" om toegang te krijgen tot nieuwe HUD- en/of gameplay-elementen."
+Source/Vein/UI/Widgets/Inventory/InventoryItemUserWidget.cpp(91),,UtilityItemHint,"Equip into a ""Utility Slot"" to gain access to new HUD and/or gameplay elements.","Voeg toe aan een ""Hulpmiddel Vakje"" om toegang te krijgen tot nieuwe HUD- en/of gameplay-elementen."
 Source/Vein/UI/Widgets/Inventory/InventorySegmentsUserWidget.cpp(56),,Recent,Recent,Recent
 Source/Vein/UI/Widgets/Inventory/InventoryWindowWidget.cpp(1032),,Segment_RecentlySelected,Recently Selected,Recent geselecteerd
 Source/Vein/UI/Widgets/Inventory/InventoryWindowWidget.cpp(1042),,All,All,Alle
