@@ -47,7 +47,7 @@ Source Location,Namespace,Key,Original,Translated
 /Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(12).Flexes.FlexName,,6E3D67964FF1C18221C634A1243F3942,Sarcastic,Sarcastisch
 /Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(13).Flexes.FlexName,,D2B1E9E343B500D2EC755B84246D64A6,Sad,Treurig
 /Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(14).Flexes.FlexName,,63B222F74B9964E4A472C983BE8E25F5,Rage,Woede
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(15).Flexes.FlexName,,573E026C46AC86E652B7FB8846D45F2C,Pouty,Uitpuilende
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(15).Flexes.FlexName,,573E026C46AC86E652B7FB8846D45F2C,Pouty,Tuitlippen
 /Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(16).Flexes.FlexName,,3762CC0048E71EC626ED65BBF9273552,Pleased,Tevreden
 /Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(17).Flexes.FlexName,,5B36F38F4EC30D3B4599A6AEC17AF5F6,Pain,Pijn
 /Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(18).Flexes.FlexName,,5FAFC99B488D2B5AE5009DB457797E65,Irritated,Geïrriteerd
@@ -75,117 +75,117 @@ Source Location,Namespace,Key,Original,Translated
 /Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(38).Flexes.FlexName,,01A56FFA40CBB393D869128C120DBD3B,Angry,Boos
 /Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(39).Flexes.FlexName,,B778D5824518D2BB66D3D8A7FCC892F5,Afraid,Bang
 /Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(4).Flexes.FlexName,,8869E15D4C6EC2F633D58F8DC5E08AED,Surprised,Verbaasd
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(40).Flexes.FlexName,,1513F86D480DD531F70035942B207823,Eye Look Up-Down,Kijken Omhoog-Omlaag
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(41).Flexes.FlexName,,9D9C061345E3127E35BCAA9073593337,Eye Look Side-Side,Kijken Zij-Zij
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(40).Flexes.FlexName,,1513F86D480DD531F70035942B207823,Eye Look Up-Down,Ogen Omhoog-Omlaag
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(41).Flexes.FlexName,,9D9C061345E3127E35BCAA9073593337,Eye Look Side-Side,Ogen Zij-Zij
 /Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(5).Flexes.FlexName,,DE8FD42143FEF0A1E3585DA6871D7A65,Snarl,Snauwen
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(6).Flexes.FlexName,,BC2AC1EF4B1B79271A2228A73FB13BF2,Smile Open Full Face,Glimlach Open Volledig Gezicht
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(7).Flexes.FlexName,,1CBEF0B94AC588FA5F722C8CA6E48732,Smile Full Face,Glimlach Volledig Gezicht
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(6).Flexes.FlexName,,BC2AC1EF4B1B79271A2228A73FB13BF2,Smile Open Full Face,Lachen Open Volledig Gezicht
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(7).Flexes.FlexName,,1CBEF0B94AC588FA5F722C8CA6E48732,Smile Full Face,Lachen Volledig Gezicht
 /Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(8).Flexes.FlexName,,CDB6A8D34C81A2E3BC0633B3802D868F,Silly,Dom
 /Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(9).Flexes.FlexName,,816197BB4771898A2AA81D8E12362EFB,Shock,Schok
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(0).Flexes.FlexName,,8A0A599F40B2BCC1941C878E6BED8115,Nose Whole Width,Neus hele breedte
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(1).Flexes.FlexName,,629A776047FAAEE9666D4387C457C43F,Nose Whole Size,Neus hele grootte
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(10).Flexes.FlexName,,E91AA663426636B237B394978F25DDE2,Nose Bridge Width,Breedte neusbrug
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(0).Flexes.FlexName,,8A0A599F40B2BCC1941C878E6BED8115,Nose Whole Width,Neus Hele breedte
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(1).Flexes.FlexName,,629A776047FAAEE9666D4387C457C43F,Nose Whole Size,Neus Hele Grootte
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(10).Flexes.FlexName,,E91AA663426636B237B394978F25DDE2,Nose Bridge Width,Breedte Neusbrug
 /Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(11).Flexes.FlexName,,7F31A8DE4667A1D3F852FD80607182F4,Nose Bridge Slope,Neusbrug Helling
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(12).Flexes.FlexName,,48FC27684A9716BD429D638847C95DDA,Nose Bridge Size,Grootte neusbrug
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(12).Flexes.FlexName,,48FC27684A9716BD429D638847C95DDA,Nose Bridge Size,Grootte Neusbrug
 /Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(13).Flexes.FlexName,,75CABD594FD25944F136AF9F0F00A2AE,Nose Bridge Depth,Neusbrug Diepte
 /Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(14).Flexes.FlexName,,E677362E4C4CB8243FAF1DA33AD1DCDB,Nose Bridge Bump,Neusbrug Bump
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(15).Flexes.FlexName,,98A6DD45400E882A631E22A39C4D8184,Nose Base Size,Grootte neusbasis
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(16).Flexes.FlexName,,79B801E3413C3F65D7225195681637B0,Nose Base Height,Hoogte neusbasis
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(17).Flexes.FlexName,,03798BC34EB56D85793262B8026CFBE1,Nose Base Angle,Neusbasis hoek
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(15).Flexes.FlexName,,98A6DD45400E882A631E22A39C4D8184,Nose Base Size,Grootte Neusbasis
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(16).Flexes.FlexName,,79B801E3413C3F65D7225195681637B0,Nose Base Height,Hoogte Neusbasis
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(17).Flexes.FlexName,,03798BC34EB56D85793262B8026CFBE1,Nose Base Angle,Neusbasis Hoek
 /Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(18).Flexes.FlexName,,75D3997C4EDDB331A566FCA54C919C66,Mouth Width,Mond Breedte
 /Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(19).Flexes.FlexName,,AE6609E444479E9439D0E999726D9F2B,Mouth Size,Mond Grootte
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(2).Flexes.FlexName,,96117DFF4715A0C4D5AE01B8B9995CA7,Nose Whole Depth,Neus hele diepte
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(2).Flexes.FlexName,,96117DFF4715A0C4D5AE01B8B9995CA7,Nose Whole Depth,Neus Hele Diepte
 /Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(20).Flexes.FlexName,,ECAA616742C470EE1FAF67947CE36638,Mouth Height,Mond Hoogte
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(21).Flexes.FlexName,,EDD56D3E41AEF46CF0DDA7A637F517B7,Mouth Depth,Mond diepte
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(21).Flexes.FlexName,,EDD56D3E41AEF46CF0DDA7A637F517B7,Mouth Depth,Mond Diepte
 /Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(22).Flexes.FlexName,,1453EF8E44898BC0231DD98EE1A3C194,Lip Width Upper,Lipbreedte Boven
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(23).Flexes.FlexName,,C10F1A874889733D9DC1A382E38BFBD0,Lip Width Lower,Lipbreedte lager
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(24).Flexes.FlexName,,0B6FA6504FEBF48C16F7FFA4A12E2277,Lip Thin,Lip dun
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(23).Flexes.FlexName,,C10F1A874889733D9DC1A382E38BFBD0,Lip Width Lower,Lipbreedte Onder
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(24).Flexes.FlexName,,0B6FA6504FEBF48C16F7FFA4A12E2277,Lip Thin,Lip Dun
 /Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(25).Flexes.FlexName,,1AD75211404CE8A865304AAC0623DB72,Lip Square,Lip Vierkant
 /Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(26).Flexes.FlexName,,A944C1064A28F6B5BA096AA4BDB8578E,Lip Size Upper,Lipmaat Boven
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(27).Flexes.FlexName,,9AB9C83C4252E2FD6E71A3A5A0F81FE0,Lip Size Lower,Lipmaat lager
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(27).Flexes.FlexName,,9AB9C83C4252E2FD6E71A3A5A0F81FE0,Lip Size Lower,Lipmaat Onder
 /Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(28).Flexes.FlexName,,F5D4160E4A6979FF2B13FF99E6D0BB8B,Lip Heart,Lip Hart
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(29).Flexes.FlexName,,51CA47974D7AF22037B27BB06626F74B,Lip Depth Upper,Lipdiepte bovenwerk
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(3).Flexes.FlexName,,FC42A5934723B68F0F078BBBB0B8B012,Nose Tip Width,Breedte neuspunt
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(30).Flexes.FlexName,,0012B9F64CBD0B1341F85FAC4B1FBC4D,Lip Depth Lower,Lipdiepte lager
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(31).Flexes.FlexName,,5732412F4AD1C05B74781988500A8237,Jaw Whole Width,Kaak hele breedte
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(32).Flexes.FlexName,,9A141A844965DA7CEC646C9416DCB0D7,Jaw Whole Size,Kaak hele grootte
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(33).Flexes.FlexName,,4FAEE6F04B2339FC9A4240A19FFD49D3,Jaw Whole Sharpen,Kaak Geheel Slijpen
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(34).Flexes.FlexName,,E84B231E4F2AD7DB842919ABE2B14FB7,Jaw Whole Height,Kaak hele hoogte
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(35).Flexes.FlexName,,B40BA38B48B0E57E63DC148F8D55C3FC,Forehead Whole Width,Voorhoofd hele breedte
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(36).Flexes.FlexName,,CA7618394B9FFCDE41139789741A4B7E,Forehead Whole Thin,Voorhoofd heel dun
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(37).Flexes.FlexName,,02BAE9054658DDD6DD440B84367ADEA4,Forehead Whole Round,Voorhoofd hele ronde
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(38).Flexes.FlexName,,393109334A6DFDDBB679C8A454499BE9,Forehead Whole Flat,Voorhoofd Geheel Plat
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(29).Flexes.FlexName,,51CA47974D7AF22037B27BB06626F74B,Lip Depth Upper,Lipdiepte Boven
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(3).Flexes.FlexName,,FC42A5934723B68F0F078BBBB0B8B012,Nose Tip Width,Breedte Neuspunt
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(30).Flexes.FlexName,,0012B9F64CBD0B1341F85FAC4B1FBC4D,Lip Depth Lower,Lipdiepte Onder
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(31).Flexes.FlexName,,5732412F4AD1C05B74781988500A8237,Jaw Whole Width,Kaak Volledige Breedte
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(32).Flexes.FlexName,,9A141A844965DA7CEC646C9416DCB0D7,Jaw Whole Size,Kaak Volledige Grootte
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(33).Flexes.FlexName,,4FAEE6F04B2339FC9A4240A19FFD49D3,Jaw Whole Sharpen,Kaak Volledige Scherpte
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(34).Flexes.FlexName,,E84B231E4F2AD7DB842919ABE2B14FB7,Jaw Whole Height,Kaak Volledige Hoogte
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(35).Flexes.FlexName,,B40BA38B48B0E57E63DC148F8D55C3FC,Forehead Whole Width,Voorhoofd Volledige Breedte
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(36).Flexes.FlexName,,CA7618394B9FFCDE41139789741A4B7E,Forehead Whole Thin,Voorhoofd Volledig Dun
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(37).Flexes.FlexName,,02BAE9054658DDD6DD440B84367ADEA4,Forehead Whole Round,Voorhoofd Volledig Rond
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(38).Flexes.FlexName,,393109334A6DFDDBB679C8A454499BE9,Forehead Whole Flat,Voorhoofd Volledig Plat
 /Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(39).Flexes.FlexName,,ACADFC9146B3B5D59AA4A5BEA07A22EF,Face Young,Gezicht Jong
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(4).Flexes.FlexName,,F5B0865C4809201EF50E4AB4F45FF56D,Nose Tip Size,Grootte neuspunt
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(40).Flexes.FlexName,,7F794CAA44E644005AFF18A2736CA325,Face Square,Gezicht vierkant
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(41).Flexes.FlexName,,8F84FD53442774054F458096C6B68A3B,Face Size,Gezicht grootte
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(4).Flexes.FlexName,,F5B0865C4809201EF50E4AB4F45FF56D,Nose Tip Size,Grootte Neuspunt
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(40).Flexes.FlexName,,7F794CAA44E644005AFF18A2736CA325,Face Square,Gezicht Vierkant
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(41).Flexes.FlexName,,8F84FD53442774054F458096C6B68A3B,Face Size,Gezicht Grootte
 /Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(42).Flexes.FlexName,,5541B2284350133C50F652A658F7917C,Face Round,Gezicht Rond
 /Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(43).Flexes.FlexName,,2E3F4C82477ED0BBB45CEEB645AA5EC3,Face Older,Gezicht Ouder
 /Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(44).Flexes.FlexName,,9532027B487A82574DE089995CB5A8A3,Face Heart,Gezicht Hart
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(45).Flexes.FlexName,,5464BDC34A9371352DB526AB13EEEC03,Face Flat,Gezicht plat
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(46).Flexes.FlexName,,D9C4B8F64968EE748311359B9B837551,Face Depth,Gezicht diepte
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(47).Flexes.FlexName,,B66738634EC641AC00ABDD81FCD9BB82,Face Center Depth,Diepte in het midden van het gezicht
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(48).Flexes.FlexName,,709DEF4D47175AD7BD249682558BD3F3,Face Angle,Gezichtshoek
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(49).Flexes.FlexName,,E4E1C78C41C2CEC1A3B477A594E1D2D7,Eye Whole Width,Oog hele breedte
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(5).Flexes.FlexName,,6EFF97C64FF69F51AAB6AD901256A37B,Nose Tip Height,Hoogte neuspunt
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(50).Flexes.FlexName,,6A39A4074875B6511A23ABB46D025CC7,Eye Whole Size,Oog hele grootte
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(51).Flexes.FlexName,,5386F394454F2DC6342B2799039204CA,Eye Whole Height,Oog hele hoogte
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(52).Flexes.FlexName,,3B22033B472B4151E388E7B5C059BFD2,Eye Whole Depth,Oog hele diepte
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(53).Flexes.FlexName,,1E12E4C24241D6E02931BD872E76B2CB,Eye Whole Angle,Oog hele hoek
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(45).Flexes.FlexName,,5464BDC34A9371352DB526AB13EEEC03,Face Flat,Gezicht Plat
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(46).Flexes.FlexName,,D9C4B8F64968EE748311359B9B837551,Face Depth,Gezicht Diepte
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(47).Flexes.FlexName,,B66738634EC641AC00ABDD81FCD9BB82,Face Center Depth,Gezicht Midden Diepte
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(48).Flexes.FlexName,,709DEF4D47175AD7BD249682558BD3F3,Face Angle,Gezicht Hoek
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(49).Flexes.FlexName,,E4E1C78C41C2CEC1A3B477A594E1D2D7,Eye Whole Width,Oog Volledige Breedte
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(5).Flexes.FlexName,,6EFF97C64FF69F51AAB6AD901256A37B,Nose Tip Height,Hoogte Neuspunt
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(50).Flexes.FlexName,,6A39A4074875B6511A23ABB46D025CC7,Eye Whole Size,Oog Volledige Grootte
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(51).Flexes.FlexName,,5386F394454F2DC6342B2799039204CA,Eye Whole Height,Oog Volledige Hoogte
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(52).Flexes.FlexName,,3B22033B472B4151E388E7B5C059BFD2,Eye Whole Depth,Oog Volledige Diepte
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(53).Flexes.FlexName,,1E12E4C24241D6E02931BD872E76B2CB,Eye Whole Angle,Oog Volledige Hoek
 /Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(54).Flexes.FlexName,,B749C4184E9EEA7F321BD88152E82769,Eyelid Angle Upper Outer,Ooglidhoek Boven Buiten
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(55).Flexes.FlexName,,18EFE3D242CFFC6377419A998A39FD04,Eyelid Angle Lower Outer,Ooglidhoek Onderste Buitenkant
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(56).Flexes.FlexName,,E941164149E694CF34D1E1963C2CED62,Eye Angle Outer,Ooghoek buiten
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(57).Flexes.FlexName,,9B6E67DA48DEA4558F618F8CA80F92E2,Eye Angle Inner,Ooghoek binnen
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(58).Flexes.FlexName,,BE13995142274AE35B48FABCDBEB8381,Eye Almond Outer,Oog Amandel Buitenkant
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(55).Flexes.FlexName,,18EFE3D242CFFC6377419A998A39FD04,Eyelid Angle Lower Outer,Ooglidhoek Onder Buiten
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(56).Flexes.FlexName,,E941164149E694CF34D1E1963C2CED62,Eye Angle Outer,Ooghoek Buiten
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(57).Flexes.FlexName,,9B6E67DA48DEA4558F618F8CA80F92E2,Eye Angle Inner,Ooghoek Binnen
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(58).Flexes.FlexName,,BE13995142274AE35B48FABCDBEB8381,Eye Almond Outer,Oog Amandel Buiten
 /Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(59).Flexes.FlexName,,86A722D84EC0FE3174308A95DBF21629,Eye Almond Inner,Oog Amandel Binnen
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(6).Flexes.FlexName,,E8C89A3F42BBFCFBF92DA59259EC150F,Nose Tip Depth,Diepte neuspunt
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(60).Flexes.FlexName,,EED16A59458B1489C5DF9BA8B00FAE34,Chin Width,Kin breedte
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(61).Flexes.FlexName,,BEB3E1B84DE4F7648BC315B4D89D26B7,Chin Height,Kin hoogte
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(62).Flexes.FlexName,,28D3A6CE478B9B72F6143DA9E30E9A33,Chin Depth,Kin diepte
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(6).Flexes.FlexName,,E8C89A3F42BBFCFBF92DA59259EC150F,Nose Tip Depth,Diepte Neuspunt
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(60).Flexes.FlexName,,EED16A59458B1489C5DF9BA8B00FAE34,Chin Width,Kin Breedte
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(61).Flexes.FlexName,,BEB3E1B84DE4F7648BC315B4D89D26B7,Chin Height,Kin Hoogte
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(62).Flexes.FlexName,,28D3A6CE478B9B72F6143DA9E30E9A33,Chin Depth,Kin Diepte
 /Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(63).Flexes.FlexName,,02DD675C4143A53A2EA2A39063B8886E,Chin Cleft,Kin Gespleten
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(64).Flexes.FlexName,,650904644697540D0E6B3385A4C1424E,Cheek Size,Wang grootte
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(65).Flexes.FlexName,,E079416F492C221A35D62ABC43E70138,Cheekbone Thin,Jukbeen dun
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(66).Flexes.FlexName,,421B1A1045A7E8B9F7439C82CBCD3BAA,Cheekbone Size,Jukbeen Maat
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(67).Flexes.FlexName,,C5C6DB114AB6930E401EA3A0E5E4B4B3,Brow Whole Width,Wenkbrauw hele breedte
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(68).Flexes.FlexName,,1A82FF0E434B3D86B0B0ECBA02DD7A2E,Brow Whole Size,Wenkbrauw hele grootte
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(69).Flexes.FlexName,,3AC0154C4AF664321033E3AF10CE6403,Brow Whole Height,Wenkbrauw hele hoogte
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(7).Flexes.FlexName,,717AD0F14130C6A1B43B50B552E2C034,Nose Septum Width,Neustussenschot breedte
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(8).Flexes.FlexName,,80C1AB354DB55A2D124CE0B875BF7EA5,Nose Septum Height,Hoogte Neustussenschot
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(9).Flexes.FlexName,,F0381B0C404C76EAA4636393829CBE77,Nose Septum Depth,Neus septum diepte
-/Game/Vein/Appliances/BP_AdvancedCharcoalKiln.BP_AdvancedCharcoalKiln_C:Furniture_GEN_VARIABLE.UsableName,,48C50E5A4C322563444BE1A973D0DE32,Advanced Charcoal Kiln,Geavanceerde houtskooloven
-/Game/Vein/Appliances/BP_AdvancedCharcoalKiln.BP_AdvancedCharcoalKiln_C:Heat Converter_GEN_VARIABLE.UsableName,,3B5D456642D8F8922853F0AE15E82F3B,Advanced Charcoal Kiln,Geavanceerde houtskooloven
-/Game/Vein/Appliances/BP_AdvancedCharcoalKiln.BP_AdvancedCharcoalKiln_C:Inventory_GEN_VARIABLE.Name,,0D5FD13F4104DF218C1E7C88DE893861,Advanced Charcoal Kiln,Geavanceerde houtskooloven
-/Game/Vein/Appliances/BP_AnimatedBodyBag.BP_AnimatedBodyBag_C:Furniture_GEN_VARIABLE.UsableName,,46A028A84EEC309AA50CAF9FC4191CA2,Body Bag,Lichaamszak
-/Game/Vein/Appliances/BP_AnimatedBodyBag.Default__BP_AnimatedBodyBag_C.UsableName,,EF3177E147486FA6D850108E6B2AD24E,Body Bag,Lichaamszak
-/Game/Vein/Appliances/BP_ArcadeCabinet01.BP_ArcadeCabinet01_C:Furniture_GEN_VARIABLE.UsableName,,001A7A4346F56EFEB8D8E9A0303165A8,Arcade Cabinet (Work in Progress),Arcade kast (werk in uitvoering)
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(64).Flexes.FlexName,,650904644697540D0E6B3385A4C1424E,Cheek Size,Wang Grootte
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(65).Flexes.FlexName,,E079416F492C221A35D62ABC43E70138,Cheekbone Thin,Jukbeen Dun
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(66).Flexes.FlexName,,421B1A1045A7E8B9F7439C82CBCD3BAA,Cheekbone Size,Jukbeen Grootte
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(67).Flexes.FlexName,,C5C6DB114AB6930E401EA3A0E5E4B4B3,Brow Whole Width,Wenkbrauw Volledige Breedte
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(68).Flexes.FlexName,,1A82FF0E434B3D86B0B0ECBA02DD7A2E,Brow Whole Size,Wenkbrauw Volledige Grootte
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(69).Flexes.FlexName,,3AC0154C4AF664321033E3AF10CE6403,Brow Whole Height,Wenkbrauw Volledige Hoogte
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(7).Flexes.FlexName,,717AD0F14130C6A1B43B50B552E2C034,Nose Septum Width,Neustussenschot Breedte
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(8).Flexes.FlexName,,80C1AB354DB55A2D124CE0B875BF7EA5,Nose Septum Height,Neustussenschot Hoogte
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(9).Flexes.FlexName,,F0381B0C404C76EAA4636393829CBE77,Nose Septum Depth,Neustussenschot Diepte
+/Game/Vein/Appliances/BP_AdvancedCharcoalKiln.BP_AdvancedCharcoalKiln_C:Furniture_GEN_VARIABLE.UsableName,,48C50E5A4C322563444BE1A973D0DE32,Advanced Charcoal Kiln,Geavanceerde Houtskooloven
+/Game/Vein/Appliances/BP_AdvancedCharcoalKiln.BP_AdvancedCharcoalKiln_C:Heat Converter_GEN_VARIABLE.UsableName,,3B5D456642D8F8922853F0AE15E82F3B,Advanced Charcoal Kiln,Geavanceerde Houtskooloven
+/Game/Vein/Appliances/BP_AdvancedCharcoalKiln.BP_AdvancedCharcoalKiln_C:Inventory_GEN_VARIABLE.Name,,0D5FD13F4104DF218C1E7C88DE893861,Advanced Charcoal Kiln,Geavanceerde Houtskooloven
+/Game/Vein/Appliances/BP_AnimatedBodyBag.BP_AnimatedBodyBag_C:Furniture_GEN_VARIABLE.UsableName,,46A028A84EEC309AA50CAF9FC4191CA2,Body Bag,Lijkzak
+/Game/Vein/Appliances/BP_AnimatedBodyBag.Default__BP_AnimatedBodyBag_C.UsableName,,EF3177E147486FA6D850108E6B2AD24E,Body Bag,Lijkzak
+/Game/Vein/Appliances/BP_ArcadeCabinet01.BP_ArcadeCabinet01_C:Furniture_GEN_VARIABLE.UsableName,,001A7A4346F56EFEB8D8E9A0303165A8,Arcade Cabinet (Work in Progress),Arcade Kast (werk in uitvoering)
 /Game/Vein/Appliances/BP_ArcadeCabinet01.BP_ArcadeCabinet01_C:Wireable_GEN_VARIABLE.UsableName,,98E82D094BACDFD907CEFE86314F3A05,Arcade Cabinet,Arcade Kast
-/Game/Vein/Appliances/BP_ATM.BP_ATM_C:Furniture_GEN_VARIABLE.UsableName,,8186F359498C9041502FC1A5FD1D7E08,ATM,GELDAUTOMAAT
-/Game/Vein/Appliances/BP_ATM.BP_ATM_C:Wireable_GEN_VARIABLE.UsableName,,CE1C394B40E6E2076704768884EEDD71,ATM,GELDAUTOMAAT
-/Game/Vein/Appliances/BP_BarCounter02_Taps.BP_BarCounter02_Taps_C:Furniture_GEN_VARIABLE.UsableName,,DA998CED4EC0436072148A99C8BE06C3,Short Bar Counter w/ Taps,Korte barteller met kranen
+/Game/Vein/Appliances/BP_ATM.BP_ATM_C:Furniture_GEN_VARIABLE.UsableName,,8186F359498C9041502FC1A5FD1D7E08,ATM,Pinautomaat
+/Game/Vein/Appliances/BP_ATM.BP_ATM_C:Wireable_GEN_VARIABLE.UsableName,,CE1C394B40E6E2076704768884EEDD71,ATM,Pinautomaat
+/Game/Vein/Appliances/BP_BarCounter02_Taps.BP_BarCounter02_Taps_C:Furniture_GEN_VARIABLE.UsableName,,DA998CED4EC0436072148A99C8BE06C3,Short Bar Counter w/ Taps,Korte Bar
 /Game/Vein/Appliances/BP_BarCounter02_Taps.BP_BarCounter02_Taps_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,4A046EE84C7CE621BEAE4F9D01181519,Empty Keg,Leeg Vaatje
 /Game/Vein/Appliances/BP_BarCounter02_Taps.BP_BarCounter02_Taps_C:WaterSource_GEN_VARIABLE.DrinkStoredNotification,,F9011A4B44950929BD0B17A37579E5B6,You drink from the nozzle.,Je drinkt uit het mondstuk.
-/Game/Vein/Appliances/BP_BarCounter02_Taps.BP_BarCounter02_Taps_C:WaterSource_GEN_VARIABLE.Label,,AA57023A450339BD67EBEA80FAE88521,Beer Taps,Bier Taps
-/Game/Vein/Appliances/BP_BathroomCounterSink.BP_BathroomCounterSink_C:Furniture_GEN_VARIABLE.UsableName,,E89C81D846161BDCAC2BD5AEBC0443B1,Bathroom Sink,Wastafel in de badkamer
-/Game/Vein/Appliances/BP_BathroomCounterSink.BP_BathroomCounterSink_C:WaterSource_GEN_VARIABLE.DrainNotificationText,,59FB1718468A97CFB3FECDA017EBD841,You drain the sink.,Je laat de gootsteen leeglopen.
-/Game/Vein/Appliances/BP_BathroomCounterSink.BP_BathroomCounterSink_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,0C0C89F449AA04DE668093AC524B4AF1,Drain Sink,Afvoer gootsteen
-/Game/Vein/Appliances/BP_BathroomCounterSink.BP_BathroomCounterSink_C:WaterSource_GEN_VARIABLE.DrinkStoredNotification,,4FECB2F44D0FB9022C52A1B56841A35E,You drink some of the water in the sink.,Je drinkt een deel van het water in de gootsteen.
-/Game/Vein/Appliances/BP_BathroomCounterSink.BP_BathroomCounterSink_C:WaterSource_GEN_VARIABLE.Label,,E13B53504F19C5BF7E5246941DC9DFC0,Bathroom Sink,Wastafel in de badkamer
-/Game/Vein/Appliances/BP_BathroomCounterSink.BP_BathroomCounterSink_C:WaterSource_GEN_VARIABLE.StoreNotificationText,,F91E5EEF4B7BE844076C088D2F69209B,You fill the sink full of water.,Je vult de gootsteen vol met water.
-/Game/Vein/Appliances/BP_BathroomCounterSink.BP_BathroomCounterSink_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,A86F8DB7489384E797701D9A05DF2A94,Fill Sink,Gootsteen vullen
-/Game/Vein/Appliances/BP_BathroomSink01.BP_BathroomSink01_C:Furniture_GEN_VARIABLE.UsableName,,5802E85646ABDC59272F22AA9A8F9E83,Sink,Gootsteen
-/Game/Vein/Appliances/BP_BathroomSink01.BP_BathroomSink01_C:WaterSource_GEN_VARIABLE.DrainNotificationText,,6861A9CF4A991F65873B5C8B5E8257C0,You drain the sink.,Je laat de gootsteen leeglopen.
-/Game/Vein/Appliances/BP_BathroomSink01.BP_BathroomSink01_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,9159E850450959E690D39B92E44D25E8,Drain Sink,Afvoer gootsteen
-/Game/Vein/Appliances/BP_BathroomSink01.BP_BathroomSink01_C:WaterSource_GEN_VARIABLE.DrinkStoredNotification,,29B543894B38405C0660BB825AC673BA,You drink some of the water sitting in the sink.,Je drinkt een deel van het water dat in de gootsteen zit.
-/Game/Vein/Appliances/BP_BathroomSink01.BP_BathroomSink01_C:WaterSource_GEN_VARIABLE.Label,,2189581448A19A24A6B9598288A6DF26,Sink,Gootsteen
-/Game/Vein/Appliances/BP_BathroomSink01.BP_BathroomSink01_C:WaterSource_GEN_VARIABLE.StoreNotificationText,,74F15E5C428C5CCC49D2C48763F67788,You fill the sink full of water.,Je vult de gootsteen vol met water.
-/Game/Vein/Appliances/BP_BathroomSink01.BP_BathroomSink01_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,C81ED1FD4F3184579FBBACADB217AC19,Fill Sink,Gootsteen vullen
-/Game/Vein/Appliances/BP_BathroomSink02.BP_BathroomSink02_C:Furniture_GEN_VARIABLE.UsableName,,572E98B04C0C86B8EA12F997CA0740D1,Bathroom Sink,Wastafel in de badkamer
+/Game/Vein/Appliances/BP_BarCounter02_Taps.BP_BarCounter02_Taps_C:WaterSource_GEN_VARIABLE.Label,,AA57023A450339BD67EBEA80FAE88521,Beer Taps,Bier Tappen
+/Game/Vein/Appliances/BP_BathroomCounterSink.BP_BathroomCounterSink_C:Furniture_GEN_VARIABLE.UsableName,,E89C81D846161BDCAC2BD5AEBC0443B1,Bathroom Sink,Badkamer Wastafel
+/Game/Vein/Appliances/BP_BathroomCounterSink.BP_BathroomCounterSink_C:WaterSource_GEN_VARIABLE.DrainNotificationText,,59FB1718468A97CFB3FECDA017EBD841,You drain the sink.,Je laat de wastafel leeglopen.
+/Game/Vein/Appliances/BP_BathroomCounterSink.BP_BathroomCounterSink_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,0C0C89F449AA04DE668093AC524B4AF1,Drain Sink,Afvoer Wastafel
+/Game/Vein/Appliances/BP_BathroomCounterSink.BP_BathroomCounterSink_C:WaterSource_GEN_VARIABLE.DrinkStoredNotification,,4FECB2F44D0FB9022C52A1B56841A35E,You drink some of the water in the sink.,Je drinkt een deel van het water uit de wastafel.
+/Game/Vein/Appliances/BP_BathroomCounterSink.BP_BathroomCounterSink_C:WaterSource_GEN_VARIABLE.Label,,E13B53504F19C5BF7E5246941DC9DFC0,Bathroom Sink,Badkamer Wastafel
+/Game/Vein/Appliances/BP_BathroomCounterSink.BP_BathroomCounterSink_C:WaterSource_GEN_VARIABLE.StoreNotificationText,,F91E5EEF4B7BE844076C088D2F69209B,You fill the sink full of water.,Je vult de wastafel vol met water.
+/Game/Vein/Appliances/BP_BathroomCounterSink.BP_BathroomCounterSink_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,A86F8DB7489384E797701D9A05DF2A94,Fill Sink,Wastafel Vullen
+/Game/Vein/Appliances/BP_BathroomSink01.BP_BathroomSink01_C:Furniture_GEN_VARIABLE.UsableName,,5802E85646ABDC59272F22AA9A8F9E83,Sink,Wastafel
+/Game/Vein/Appliances/BP_BathroomSink01.BP_BathroomSink01_C:WaterSource_GEN_VARIABLE.DrainNotificationText,,6861A9CF4A991F65873B5C8B5E8257C0,You drain the sink.,Je laat de wastafel leeglopen.
+/Game/Vein/Appliances/BP_BathroomSink01.BP_BathroomSink01_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,9159E850450959E690D39B92E44D25E8,Drain Sink,Afvoer Wastafel
+/Game/Vein/Appliances/BP_BathroomSink01.BP_BathroomSink01_C:WaterSource_GEN_VARIABLE.DrinkStoredNotification,,29B543894B38405C0660BB825AC673BA,You drink some of the water sitting in the sink.,Je drinkt een deel van het water uit de wastafel.
+/Game/Vein/Appliances/BP_BathroomSink01.BP_BathroomSink01_C:WaterSource_GEN_VARIABLE.Label,,2189581448A19A24A6B9598288A6DF26,Sink,Wastafel
+/Game/Vein/Appliances/BP_BathroomSink01.BP_BathroomSink01_C:WaterSource_GEN_VARIABLE.StoreNotificationText,,74F15E5C428C5CCC49D2C48763F67788,You fill the sink full of water.,Je vult de wastafel vol met water.
+/Game/Vein/Appliances/BP_BathroomSink01.BP_BathroomSink01_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,C81ED1FD4F3184579FBBACADB217AC19,Fill Sink,Wastafel Vullen
+/Game/Vein/Appliances/BP_BathroomSink02.BP_BathroomSink02_C:Furniture_GEN_VARIABLE.UsableName,,572E98B04C0C86B8EA12F997CA0740D1,Bathroom Sink,Badkamer Wastafel
 /Game/Vein/Appliances/BP_BathroomSink02.BP_BathroomSink02_C:WaterSource_GEN_VARIABLE.DrainNotificationText,,F1C3CAEF46E18B1B9103C6BCB2C341EE,You drain the sink.,Je laat de wastafel leeglopen.
-/Game/Vein/Appliances/BP_BathroomSink02.BP_BathroomSink02_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,2CCFD6194BEE88D2C15D7CB43DA79E2C,Drain Sink,Afvoer wastafel
-/Game/Vein/Appliances/BP_BathroomSink02.BP_BathroomSink02_C:WaterSource_GEN_VARIABLE.DrinkStoredNotification,,B0EECD0F423B013B1B31488A8AC09E30,You drink some of the water sitting in the sink.,Je drinkt een deel van het water dat in de wastafel zit.
-/Game/Vein/Appliances/BP_BathroomSink02.BP_BathroomSink02_C:WaterSource_GEN_VARIABLE.Label,,25E0994245FDA87FADFE3EB6F1BD560A,Sink,Wastafel in de badkamer
+/Game/Vein/Appliances/BP_BathroomSink02.BP_BathroomSink02_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,2CCFD6194BEE88D2C15D7CB43DA79E2C,Drain Sink,Afvoer Wastafel
+/Game/Vein/Appliances/BP_BathroomSink02.BP_BathroomSink02_C:WaterSource_GEN_VARIABLE.DrinkStoredNotification,,B0EECD0F423B013B1B31488A8AC09E30,You drink some of the water sitting in the sink.,Je drinkt een deel van het water uit de wastafel.
+/Game/Vein/Appliances/BP_BathroomSink02.BP_BathroomSink02_C:WaterSource_GEN_VARIABLE.Label,,25E0994245FDA87FADFE3EB6F1BD560A,Sink,Badkamer Wastafel
 /Game/Vein/Appliances/BP_BathroomSink02.BP_BathroomSink02_C:WaterSource_GEN_VARIABLE.StoreNotificationText,,FD55895C4F852077F07192B52FF5569A,You fill the sink full of water.,Je vult de wastafel vol met water.
-/Game/Vein/Appliances/BP_BathroomSink02.BP_BathroomSink02_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,1BBF5443420A62DA053A5CAD31D0B073,Fill Sink,Wastafel vullen
+/Game/Vein/Appliances/BP_BathroomSink02.BP_BathroomSink02_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,1BBF5443420A62DA053A5CAD31D0B073,Fill Sink,Wastafel Vullen
 /Game/Vein/Appliances/BP_Blinds.Default__BP_Blinds_C:Mesh Swap.Settings(0).Settings.UseSetting,,CC8B4C6243BF3C8A77A3268D16E3D6D9,Up,Omhoog
 /Game/Vein/Appliances/BP_Blinds.Default__BP_Blinds_C:Mesh Swap.Settings(3).Settings.UseSetting,,FC9874BA44CD82962FBCAB9468505432,Down,Omlaag
 /Game/Vein/Appliances/BP_Blinds.Default__BP_Blinds_C:Mesh Swap.UsableName,,46F84A654DF15FC5AEFAF2B67B8DBA8D,Blinds,Blindering
@@ -204,12 +204,12 @@ Source Location,Namespace,Key,Original,Translated
 /Game/Vein/Appliances/BP_CandyMachine01.BP_CandyMachine01_C:VendingMachineButton2_GEN_VARIABLE.Subtitle,,B14B37D44D9EFBA8F1FED786DA76243E,Candy,Snoep
 /Game/Vein/Appliances/BP_CandyMachine01.BP_CandyMachine01_C:VendingMachineButton3_GEN_VARIABLE.Subtitle,,249A80E4456A83BAD710E1A22E07C750,Capsule,Kapsule
 /Game/Vein/Appliances/BP_CandyMachine01.BP_CandyMachine01_C:VendingMachineButton_GEN_VARIABLE.Subtitle,,1DAF4DB441BAD8C83CB640933064FD7B,Candy,Snoep
-/Game/Vein/Appliances/BP_CharcoalKiln.BP_CharcoalKiln_C:Furniture_GEN_VARIABLE.UsableName,,60CBFD7D4F3ABB79EC65C69CE96BAF7D,Makeshift Charcoal Kiln,Geïmproviseerde houtskooloven
-/Game/Vein/Appliances/BP_CharcoalKiln.BP_CharcoalKiln_C:Heat Converter_GEN_VARIABLE.UsableName,,937854854D47561DE5AB2F851052BE0B,Makeshift Charcoal Kiln,Geïmproviseerde houtskooloven
-/Game/Vein/Appliances/BP_CharcoalKiln.BP_CharcoalKiln_C:Inventory_GEN_VARIABLE.Name,,73C453334125997701107689FBA4C802,Makeshift Charcoal Kiln,Geïmproviseerde houtskooloven
-/Game/Vein/Appliances/BP_Chemistry_Counter01_Sink.BP_Chemistry_Counter01_Sink_C:Furniture_GEN_VARIABLE.UsableName,,67DADC0A4F2B27D707C437B17975672B,L-Shaped Chemistry Counter w/ Sink,L-vormige chemieteller met gootsteen
+/Game/Vein/Appliances/BP_CharcoalKiln.BP_CharcoalKiln_C:Furniture_GEN_VARIABLE.UsableName,,60CBFD7D4F3ABB79EC65C69CE96BAF7D,Makeshift Charcoal Kiln,Geïmproviseerde Houtskooloven
+/Game/Vein/Appliances/BP_CharcoalKiln.BP_CharcoalKiln_C:Heat Converter_GEN_VARIABLE.UsableName,,937854854D47561DE5AB2F851052BE0B,Makeshift Charcoal Kiln,Geïmproviseerde Houtskooloven
+/Game/Vein/Appliances/BP_CharcoalKiln.BP_CharcoalKiln_C:Inventory_GEN_VARIABLE.Name,,73C453334125997701107689FBA4C802,Makeshift Charcoal Kiln,Geïmproviseerde Houtskooloven
+/Game/Vein/Appliances/BP_Chemistry_Counter01_Sink.BP_Chemistry_Counter01_Sink_C:Furniture_GEN_VARIABLE.UsableName,,67DADC0A4F2B27D707C437B17975672B,L-Shaped Chemistry Counter w/ Sink,L-vormige Chemieaanrecht met Gootsteen
 /Game/Vein/Appliances/BP_Chemistry_Counter01_Sink.BP_Chemistry_Counter01_Sink_C:WaterSource_GEN_VARIABLE.DrainNotificationText,,9D61560448485BF098C715915EED5C53,You drain the sink.,Je laat de gootsteen leeglopen.
-/Game/Vein/Appliances/BP_Chemistry_Counter01_Sink.BP_Chemistry_Counter01_Sink_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,53954C1C43D1F5F5BF33BD903C21A3F4,Drain Sink,Afvoer gootsteen
+/Game/Vein/Appliances/BP_Chemistry_Counter01_Sink.BP_Chemistry_Counter01_Sink_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,53954C1C43D1F5F5BF33BD903C21A3F4,Drain Sink,Afvoer Gootsteen
 /Game/Vein/Appliances/BP_Chemistry_Counter01_Sink.BP_Chemistry_Counter01_Sink_C:WaterSource_GEN_VARIABLE.Label,,5CE5FECC434776E7220DEA9BBDFB1918,Sink,Gootsteen
 /Game/Vein/Appliances/BP_Chemistry_Counter01_Sink.BP_Chemistry_Counter01_Sink_C:WaterSource_GEN_VARIABLE.StoreNotificationText,,BD44273C46463081FBC57C9197B9310E,You fill the sink.,Je vult de gootsteen.
 /Game/Vein/Appliances/BP_Chemistry_Counter01_Sink.BP_Chemistry_Counter01_Sink_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,48A819784A98C1E71417A79B939F73DB,Fill Sink,Gootsteen vullen
@@ -223,17 +223,17 @@ Source Location,Namespace,Key,Original,Translated
 /Game/Vein/Appliances/BP_CoinMachine01.BP_CoinMachine01_C:Wireable_GEN_VARIABLE.UsableName,,5443B5CF48E4D43F019E728B801F9D16,Coin Machine,Munt Machine
 /Game/Vein/Appliances/BP_Counter_02_Sink.BP_Counter_02_Sink_C:Furniture_GEN_VARIABLE.UsableName,,78AEADDC4B87AFCDA1187BBD2812B846,Kitchen Counter & Sink,Aanrecht & Spoelbak
 /Game/Vein/Appliances/BP_Counter_02_Sink.BP_Counter_02_Sink_C:WaterSource_GEN_VARIABLE.DrainNotificationText,,12AD1D3B442D34739BBA13A1D9A64497,You drain the sink.,Je laat de gootsteen leeglopen.
-/Game/Vein/Appliances/BP_Counter_02_Sink.BP_Counter_02_Sink_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,375CAE7E4F9ACCE7B4E96E826897F4C6,Drain Sink,Afvoer gootsteen
+/Game/Vein/Appliances/BP_Counter_02_Sink.BP_Counter_02_Sink_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,375CAE7E4F9ACCE7B4E96E826897F4C6,Drain Sink,Afvoer Gootsteen
 /Game/Vein/Appliances/BP_Counter_02_Sink.BP_Counter_02_Sink_C:WaterSource_GEN_VARIABLE.Label,,AA6492364104722E6661F99F2971ACEF,Sink,Gootsteen
 /Game/Vein/Appliances/BP_Counter_02_Sink.BP_Counter_02_Sink_C:WaterSource_GEN_VARIABLE.StoreNotificationText,,D86D1B7448B5F11FFB6DF2BD423B11F9,You fill the sink.,Je vult de gootsteen.
-/Game/Vein/Appliances/BP_Counter_02_Sink.BP_Counter_02_Sink_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,6F0543C3491E08EFF3D9168C35FBFAC8,Fill Sink,Spoelbak vullen
+/Game/Vein/Appliances/BP_Counter_02_Sink.BP_Counter_02_Sink_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,6F0543C3491E08EFF3D9168C35FBFAC8,Fill Sink,Spoelbak Vullen
 /Game/Vein/Appliances/BP_Counter_02_Sink.BP_Counter_02_Sink_C:Wireable_GEN_VARIABLE.UsableName,,06D481F44F8919667E07C793C396C565,Kitchen Counter & Sink,Aanrecht & Spoelbak
 /Game/Vein/Appliances/BP_Counter_05_Dishwasher.BP_Counter_05_Dishwasher_C:Furniture_GEN_VARIABLE.UsableName,,B1A99B1642026ED4041620B0E0CC5DD5,Dishwasher,Vaatwasmachine
 /Game/Vein/Appliances/BP_Counter_05_Dishwasher.Default__BP_Counter_05_Dishwasher_C:Inventory.Name,,C51BC88F493E3975579F34BAC44C5935,Dishwasher,Vaatwasmachine
 /Game/Vein/Appliances/BP_DeskMicrophone.BP_DeskMicrophone_C:Furniture_GEN_VARIABLE.UsableName,,866FA3DA42BDAF5F24124084E23DB8DC,Microphone,Microfoon
 /Game/Vein/Appliances/BP_DeskMicrophone.BP_DeskMicrophone_C:Microphone_GEN_VARIABLE.UsableName,,D180151A4B4B37D73DE4E9B5E302070B,Microphone,Microfoon
 /Game/Vein/Appliances/BP_Dryer.BP_Dryer_C:Furniture_GEN_VARIABLE.UsableName,,15B93CB64171B76288A18BA99D35A899,Dryer,Droger
-/Game/Vein/Appliances/BP_Dryer.BP_Dryer_C:InlineSwitch_GEN_VARIABLE.SubtitleText,,231C6B8E4EBB70A8366CC59775DC2D4E,Put clothes inside and turn on to reduce their wetness.,Doe er kleding in en zet hem aan om het nattigheid te verminderen.
+/Game/Vein/Appliances/BP_Dryer.BP_Dryer_C:InlineSwitch_GEN_VARIABLE.SubtitleText,,231C6B8E4EBB70A8366CC59775DC2D4E,Put clothes inside and turn on to reduce their wetness.,Doe er kleding in en zet hem aan om te drogen.
 /Game/Vein/Appliances/BP_Dryer.BP_Dryer_C:InlineSwitch_GEN_VARIABLE.UsableName,,AD566E754A4A66EDF86479968CCDC1AC,Dryer,Droger
 /Game/Vein/Appliances/BP_Dryer.BP_Dryer_C:Wireable_GEN_VARIABLE.UsableName,,86A88A3C41C2604D5D82D8BC7E8AAA94,Dryer,Droger
 /Game/Vein/Appliances/BP_Dryer.Default__BP_Dryer_C:Inventory.Name,,D2A7EE8140EDD23BAEE3EC8CC0229AF2,Dryer,Droger
@@ -262,27 +262,27 @@ Source Location,Namespace,Key,Original,Translated
 /Game/Vein/Appliances/BP_Fireplace3.Default__BP_Fireplace3_C:Workbench.UsableName,,FB7407BF4D04DF00688D47ACFB677327,Fireplace,Haard
 /Game/Vein/Appliances/BP_FoodWarmer01.BP_FoodWarmer01_C:Furniture_GEN_VARIABLE.UsableName,,56369A014DAB000DAB2E7C8A5587A778,Food Warmer,Voedsel Verwarmer
 /Game/Vein/Appliances/BP_FoodWarmer01.BP_FoodWarmer01_C:Wireable_GEN_VARIABLE.UsableName,,2BF8F3DE4283CCE54ABF3DB635F5F278,Food Warmer,Voedsel Verwarmer
-/Game/Vein/Appliances/BP_Fountain01.BP_Fountain01_C:Furniture_GEN_VARIABLE.UsableName,,C7E4EFB043EA7F9BD6BD048A3C408B0A,Drinking Fountain,Drinkenfontein
-/Game/Vein/Appliances/BP_Fountain01.BP_Fountain01_C:WaterSource_GEN_VARIABLE.Label,,C06B11B444A99ADA9FD55B9E6E2E5B74,Drinking Fountain,Drinkenfontein
-/Game/Vein/Appliances/BP_Fountain02.BP_Fountain02_C:Furniture_GEN_VARIABLE.UsableName,,7A9586264DC60D6B9BDD69830539B96F,Drinking Fountain,Drinkenfontein
-/Game/Vein/Appliances/BP_Fountain02.BP_Fountain02_C:WaterSource_GEN_VARIABLE.Label,,08A73E2242B912BC72DE4689DA7B3405,Drinking Fountain,Drinkenfontein
+/Game/Vein/Appliances/BP_Fountain01.BP_Fountain01_C:Furniture_GEN_VARIABLE.UsableName,,C7E4EFB043EA7F9BD6BD048A3C408B0A,Drinking Fountain,Drinkfontein
+/Game/Vein/Appliances/BP_Fountain01.BP_Fountain01_C:WaterSource_GEN_VARIABLE.Label,,C06B11B444A99ADA9FD55B9E6E2E5B74,Drinking Fountain,Drinkfontein
+/Game/Vein/Appliances/BP_Fountain02.BP_Fountain02_C:Furniture_GEN_VARIABLE.UsableName,,7A9586264DC60D6B9BDD69830539B96F,Drinking Fountain,Drinkfontein
+/Game/Vein/Appliances/BP_Fountain02.BP_Fountain02_C:WaterSource_GEN_VARIABLE.Label,,08A73E2242B912BC72DE4689DA7B3405,Drinking Fountain,Drinkfontein
 /Game/Vein/Appliances/BP_Freezer_IceCream.BP_Freezer_IceCream_C:Furniture_GEN_VARIABLE.UsableName,,0DB5B23F4A2731D5CF3C1895FC330D3C,Fridge,Koelkast
-/Game/Vein/Appliances/BP_Freezer_IceCream.BP_Freezer_IceCream_C:Wireable_GEN_VARIABLE.UsableName,,3471CCA8491E208F1CCB2D9D4EB2B1C3,Ice Cream Freezer,IJs vriezer
+/Game/Vein/Appliances/BP_Freezer_IceCream.BP_Freezer_IceCream_C:Wireable_GEN_VARIABLE.UsableName,,3471CCA8491E208F1CCB2D9D4EB2B1C3,Ice Cream Freezer,Diepvries
 /Game/Vein/Appliances/BP_Fridge_Bar01.BP_Fridge_Bar01_C:Furniture_GEN_VARIABLE.UsableName,,7F4E8CA94F8AA400F755A4BCD1E7C666,Cooler,Koeler
 /Game/Vein/Appliances/BP_Fridge_Bar01.BP_Fridge_Bar01_C:Wireable_GEN_VARIABLE.UsableName,,B24936B94F5D3F6F8AE485BC736E00A4,Cooler,Koeler
 /Game/Vein/Appliances/BP_Fridge_Bar02.BP_Fridge_Bar02_C:Furniture_GEN_VARIABLE.UsableName,,8A58CB534F66CE725CBA428923BA677C,Cooler,Koeler
 /Game/Vein/Appliances/BP_Fridge_Bar02.BP_Fridge_Bar02_C:Wireable_GEN_VARIABLE.UsableName,,4D5B8169480AA49FF0772D9134525CB9,Cooler,Koeler
-/Game/Vein/Appliances/BP_Fridge_Commericial.BP_Fridge_Commericial_C:Furniture_GEN_VARIABLE.UsableName,,A6EE018148F0CCDD7867DDB710B68B2F,Steel Fridge,Stalen koelkast
-/Game/Vein/Appliances/BP_Fridge_Commericial.BP_Fridge_Commericial_C:Wireable_GEN_VARIABLE.UsableName,,1340F718419F07CC3A23C29872D65E49,Steel Fridge,Stalen koelkast
-/Game/Vein/Appliances/BP_Fridge_Commericial.Default__BP_Fridge_Commericial_C:Inventory.Name,,11165AC34F554BDEC1B726A4EB7CAB2F,Steel Fridge,Stalen koelkast
+/Game/Vein/Appliances/BP_Fridge_Commericial.BP_Fridge_Commericial_C:Furniture_GEN_VARIABLE.UsableName,,A6EE018148F0CCDD7867DDB710B68B2F,Steel Fridge,Stalen Koelkast
+/Game/Vein/Appliances/BP_Fridge_Commericial.BP_Fridge_Commericial_C:Wireable_GEN_VARIABLE.UsableName,,1340F718419F07CC3A23C29872D65E49,Steel Fridge,Stalen Koelkast
+/Game/Vein/Appliances/BP_Fridge_Commericial.Default__BP_Fridge_Commericial_C:Inventory.Name,,11165AC34F554BDEC1B726A4EB7CAB2F,Steel Fridge,Stalen Koelkast
 /Game/Vein/Appliances/BP_Fridge_Convenience.BP_Fridge_Convenience_C:Furniture_GEN_VARIABLE.UsableName,,42F0113E4229F351B9825CBF7DA3FEF4,Cooler,Koeler
 /Game/Vein/Appliances/BP_Fridge_Convenience.BP_Fridge_Convenience_C:Wireable_GEN_VARIABLE.UsableName,,2012AB114908D4E6E07B4783F3CABB21,Cooler,Koeler
 /Game/Vein/Appliances/BP_Fridge_Convenience.Default__BP_Fridge_Convenience_C:Inventory.Name,,36B2B58B4E04DBE341DF72871DE886E7,Cooler,Koeler
 /Game/Vein/Appliances/BP_Fridge_Residential.BP_Fridge_Residential_C:Furniture_GEN_VARIABLE.UsableName,,AFE0CB1D472F548448CAB4B5AB078B24,Fridge,Koelkast
 /Game/Vein/Appliances/BP_Fridge_Residential.BP_Fridge_Residential_C:Wireable_GEN_VARIABLE.UsableName,,D05F2D064E451A746BA5399EF79358E4,Fridge,Koelkast
 /Game/Vein/Appliances/BP_Fridge_Residential.Default__BP_Fridge_Residential_C:Inventory.Name,,3ACE44B24821F8F4262CB6B547837735,Fridge,Koelkast
-/Game/Vein/Appliances/BP_Fridge_Rich.BP_Fridge_Rich_C:Furniture_GEN_VARIABLE.UsableName,,03C0A7D842C5A205330D95A16A849176,French Door Fridge,Franse deur koelkast
-/Game/Vein/Appliances/BP_Fridge_Rich.BP_Fridge_Rich_C:Wireable_GEN_VARIABLE.UsableName,,9649273B4170A5D72678248AF52E8F1D,French Door Fridge,Franse deur koelkast
+/Game/Vein/Appliances/BP_Fridge_Rich.BP_Fridge_Rich_C:Furniture_GEN_VARIABLE.UsableName,,03C0A7D842C5A205330D95A16A849176,French Door Fridge,Franse Deur Koelkast
+/Game/Vein/Appliances/BP_Fridge_Rich.BP_Fridge_Rich_C:Wireable_GEN_VARIABLE.UsableName,,9649273B4170A5D72678248AF52E8F1D,French Door Fridge,Franse Deur Koelkast
 /Game/Vein/Appliances/BP_Fridge_Rich.Default__BP_Fridge_Rich_C:Inventory.Name,,A4003AE54E55E8E5772377A01CA3F6C0,Fridge,Koelkast
 /Game/Vein/Appliances/BP_Fryer.BP_Fryer_C:Furniture_GEN_VARIABLE.UsableName,,D6082D8844D180680F2116B9F439909F,Deep Fryer (WIP),Friteuse (WIP)
 /Game/Vein/Appliances/BP_GasPump01.BP_GasPump01_C:WaterSource_GEN_VARIABLE.Label,,A52BC51942DB9B68B561488ED9767EA5,Gas Pump,Benzinepomp
@@ -290,11 +290,11 @@ Source Location,Namespace,Key,Original,Translated
 /Game/Vein/Appliances/BP_HandDryer.BP_HandDryer_C:Wireable_GEN_VARIABLE.UsableName,,DE00A8134605FE403334A7A46693E0B5,Hand Dryer,Handdroger
 /Game/Vein/Appliances/BP_IceCreamMaker.BP_IceCreamMaker_C:Furniture_GEN_VARIABLE.UsableName,,753717AE4254CD66F5A19BABB346BC53,Ice Cream Machine,IJsmachine
 /Game/Vein/Appliances/BP_IceCreamMaker.BP_IceCreamMaker_C:Wireable_GEN_VARIABLE.UsableName,,B044772747A9DFAB5F15F2AABF73FF20,Ice Cream Maker,IJsmachine
-/Game/Vein/Appliances/BP_IceCreamMaker.Default__BP_IceCreamMaker_C.DispenseLabel,,B959AD5B4AF27E2DD656BFB419508178,Dispense,Uitdelen
+/Game/Vein/Appliances/BP_IceCreamMaker.Default__BP_IceCreamMaker_C.DispenseLabel,,B959AD5B4AF27E2DD656BFB419508178,Dispense,Doseer
 /Game/Vein/Appliances/BP_IceCreamMaker.Default__BP_IceCreamMaker_C.UsableName,,C2E8046B485512A0B696DEBCB497505C,Ice Cream Maker,IJsmachine
-/Game/Vein/Appliances/BP_IndustrialForge.BP_IndustrialForge_C:Furniture_GEN_VARIABLE.UsableName,,7FDAE48442BF2FC9C53DD3892B396668,Industrial Forge,Industriële smederij
-/Game/Vein/Appliances/BP_IndustrialForge.BP_IndustrialForge_C:Heat Converter_GEN_VARIABLE.UsableName,,27CF723A47C25961357731BDA7D1B200,Industrial Forge,Industriële smederij
-/Game/Vein/Appliances/BP_IndustrialForge.BP_IndustrialForge_C:Inventory_GEN_VARIABLE.Name,,8C3656114520E5E8EB5A8190E3DB7D7D,Industrial Forge,Industriële smederij
+/Game/Vein/Appliances/BP_IndustrialForge.BP_IndustrialForge_C:Furniture_GEN_VARIABLE.UsableName,,7FDAE48442BF2FC9C53DD3892B396668,Industrial Forge,Industriële Smederij
+/Game/Vein/Appliances/BP_IndustrialForge.BP_IndustrialForge_C:Heat Converter_GEN_VARIABLE.UsableName,,27CF723A47C25961357731BDA7D1B200,Industrial Forge,Industriële Smederij
+/Game/Vein/Appliances/BP_IndustrialForge.BP_IndustrialForge_C:Inventory_GEN_VARIABLE.Name,,8C3656114520E5E8EB5A8190E3DB7D7D,Industrial Forge,Industriële Smederij
 /Game/Vein/Appliances/BP_JuiceMachine01.BP_JuiceMachine01_C:Furniture_GEN_VARIABLE.UsableName,,3AE7E3D74FB73CC69E0FBE900AF33866,Juice Machine,Sap Machine
 /Game/Vein/Appliances/BP_JuiceMachine01.BP_JuiceMachine01_C:WaterSource_GEN_VARIABLE.Label,,AC20D2244CB52501AE1B10986AB04351,Juice Machine,Sap Machine
 /Game/Vein/Appliances/BP_JuiceMachine01.BP_JuiceMachine01_C:Wireable_GEN_VARIABLE.UsableName,,7D4262B848B22E26415D0F8E3714F8BE,Juice Machine,Sap Machine
@@ -303,60 +303,60 @@ Source Location,Namespace,Key,Original,Translated
 /Game/Vein/Appliances/BP_JuiceMachine02.BP_JuiceMachine02_C:Wireable_GEN_VARIABLE.UsableName,,74BE2784443F63AE5F5A00BD7101E252,Juice Machine,Sap Machine
 /Game/Vein/Appliances/BP_Jukebox01.BP_Jukebox01_C:Furniture_GEN_VARIABLE.UsableName,,807728F840B273AD38C227B6E5E99EE9,Jukebox (Work in Progress),Jukebox (Werk in uitvoering)
 /Game/Vein/Appliances/BP_Jukebox01.BP_Jukebox01_C:Wireable_GEN_VARIABLE.UsableName,,47DB25974096DD5D3E99A49A7440CB90,Jukebox,Jukebox
-/Game/Vein/Appliances/BP_KitchenDishwasher.BP_KitchenDishwasher_C:Furniture_GEN_VARIABLE.UsableName,,A5EAEEC3457989519F36BD9EBB03080A,Industrial Dishwasher,Industriële vaatwasser
+/Game/Vein/Appliances/BP_KitchenDishwasher.BP_KitchenDishwasher_C:Furniture_GEN_VARIABLE.UsableName,,A5EAEEC3457989519F36BD9EBB03080A,Industrial Dishwasher,Industriële Vaatwasser
 /Game/Vein/Appliances/BP_KitchenSink01.BP_KitchenSink01_C:Furniture_GEN_VARIABLE.UsableName,,4F948E614F5E966EFF5E108E8B123072,Kitchen Sink,Gootsteen
 /Game/Vein/Appliances/BP_KitchenSink01.BP_KitchenSink01_C:WaterSource_GEN_VARIABLE.DrainNotificationText,,57FF1B7A418189DDA218A385721BF5E5,You drain the sink.,Je laat de gootsteen leeglopen.
 /Game/Vein/Appliances/BP_KitchenSink01.BP_KitchenSink01_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,06EAD8D6423DFDC46E8605B1215BD2CF,Drain Sink,Afvoer gootsteen
-/Game/Vein/Appliances/BP_KitchenSink01.BP_KitchenSink01_C:WaterSource_GEN_VARIABLE.DrinkStoredNotification,,5EF97EC2461233C0FD0E2FAA2CEF8D83,You drink some of the water sitting in the sink.,Je drinkt een deel van het water dat in de gootsteen zit.
-/Game/Vein/Appliances/BP_KitchenSink01.BP_KitchenSink01_C:WaterSource_GEN_VARIABLE.Label,,37B7C6EE49A6752511A6D8B1D6F0751F,Sink,Zinken
+/Game/Vein/Appliances/BP_KitchenSink01.BP_KitchenSink01_C:WaterSource_GEN_VARIABLE.DrinkStoredNotification,,5EF97EC2461233C0FD0E2FAA2CEF8D83,You drink some of the water sitting in the sink.,Je drinkt een deel van het water uit de gootsteen.
+/Game/Vein/Appliances/BP_KitchenSink01.BP_KitchenSink01_C:WaterSource_GEN_VARIABLE.Label,,37B7C6EE49A6752511A6D8B1D6F0751F,Sink,Gootsteen
 /Game/Vein/Appliances/BP_KitchenSink01.BP_KitchenSink01_C:WaterSource_GEN_VARIABLE.StoreNotificationText,,2B4BE610433C8B20CEA947B776D0DE6C,You fill the sink full of water.,Je vult de gootsteen vol met water.
-/Game/Vein/Appliances/BP_KitchenSink01.BP_KitchenSink01_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,3996354A4943897F61F543BFED7843BC,Fill Sink,Spoelbak vullen
-/Game/Vein/Appliances/BP_MakeshiftForge.BP_MakeshiftForge_C:Heat Converter_GEN_VARIABLE.UsableName,,13A797B24C0B7258F3E201A5208D80FB,Makeshift Forge,Geïmproviseerde smederij
-/Game/Vein/Appliances/BP_MakeshiftForge.BP_MakeshiftForge_C:Inventory_GEN_VARIABLE.Name,,A7FEE6D84C330AD8CDAE0D9E9C6A99C4,Makeshift Forge,Geïmproviseerde smederij
+/Game/Vein/Appliances/BP_KitchenSink01.BP_KitchenSink01_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,3996354A4943897F61F543BFED7843BC,Fill Sink,Gootsteen Vullen
+/Game/Vein/Appliances/BP_MakeshiftForge.BP_MakeshiftForge_C:Heat Converter_GEN_VARIABLE.UsableName,,13A797B24C0B7258F3E201A5208D80FB,Makeshift Forge,Geïmproviseerde Smederij
+/Game/Vein/Appliances/BP_MakeshiftForge.BP_MakeshiftForge_C:Inventory_GEN_VARIABLE.Name,,A7FEE6D84C330AD8CDAE0D9E9C6A99C4,Makeshift Forge,Geïmproviseerde Smederij
 /Game/Vein/Appliances/BP_Microwave01.BP_Microwave01_C:Furniture_GEN_VARIABLE.UsableName,,3293DF07410E8D7089364B82C9939D04,Microwave,Magnetron
 /Game/Vein/Appliances/BP_Microwave01.BP_Microwave01_C:Microwave_GEN_VARIABLE.SwitchOffText,,171E150D4A004DAA17B0FBB250CFA16C,Turn Off,Uitschakelen
 /Game/Vein/Appliances/BP_Microwave01.BP_Microwave01_C:Microwave_GEN_VARIABLE.SwitchOnText,,38C3758B44B6B3574E0351B3272ED93A,Turn On,Aanzetten
 /Game/Vein/Appliances/BP_Microwave01.BP_Microwave01_C:Microwave_GEN_VARIABLE.UsableName,,0957527F448E492D8CD2B09111F30A5F,Microwave,Magnetron
 /Game/Vein/Appliances/BP_Microwave01.BP_Microwave01_C:Wireable_GEN_VARIABLE.UsableName,,0261C5A943797142ECF255A5123E28D8,Microwave,Magnetron
 /Game/Vein/Appliances/BP_Microwave01.Default__BP_Microwave01_C:Inventory.Name,,C35ADB994EE79A181EF8968E2D56777A,Microwave,Magnetron
-/Game/Vein/Appliances/BP_MiniFridge01.BP_MiniFridge01_C:Furniture_GEN_VARIABLE.UsableName,,2A9D2C0946F023C1DDE7C2BE120F0361,Mini Fridge,Mini koelkast
-/Game/Vein/Appliances/BP_MiniFridge01.BP_MiniFridge01_C:Wireable_GEN_VARIABLE.UsableName,,2E1DA96D40C9E2BA4C6C979147D45E23,Mini Fridge,Mini koelkast
-/Game/Vein/Appliances/BP_MiniFridge02.BP_MiniFridge02_C:Furniture_GEN_VARIABLE.UsableName,,97FEB9B64E3B9ADE85F1B88AB244A20B,Mini Fridge,Mini koelkast
-/Game/Vein/Appliances/BP_MiniFridge02.BP_MiniFridge02_C:Wireable_GEN_VARIABLE.UsableName,,9C52BE7841DFD81581D6179C7A817B20,Mini Fridge,Mini koelkast
-/Game/Vein/Appliances/BP_MiniFridge03_Convenience.BP_MiniFridge03_Convenience_C:Furniture_GEN_VARIABLE.UsableName,,D0A0AD6D463B74F72C2C51B9E1752CB3,Mini Cooler,Mini koeler
-/Game/Vein/Appliances/BP_MiniFridge03_Convenience.BP_MiniFridge03_Convenience_C:Wireable_GEN_VARIABLE.UsableName,,05611F7547833DA7A49806A274FE52FB,Mini Fridge,Mini koelkast
-/Game/Vein/Appliances/BP_OreCrusher.BP_OreCrusher_C:Furniture_GEN_VARIABLE.UsableName,,8A9710A04816C3EA27A7E68B3446B5E9,Ore Crusher,Erts breker
-/Game/Vein/Appliances/BP_OreCrusher.BP_OreCrusher_C:Heat Converter_GEN_VARIABLE.UsableName,,CE3242BC44DBC2A5FD59C3BEE5AC7734,Ore Crusher,Erts breker
-/Game/Vein/Appliances/BP_OreCrusher.BP_OreCrusher_C:Inventory_GEN_VARIABLE.Name,,AA0D580345745DF95E85FC9A7F48FECF,Ore Crusher,Erts breker
-/Game/Vein/Appliances/BP_PublicPhone01.BP_PublicPhone01_C:Furniture_GEN_VARIABLE.UsableName,,7A24A37F400CD78CEF73A3B83D1612EA,Public Phone (Work in Progress),Openbare telefoon (werk in uitvoering)
-/Game/Vein/Appliances/BP_PublicPhone01.BP_PublicPhone01_C:Wireable_GEN_VARIABLE.UsableName,,4ED1DBD74778F90A2A71288F9CAA6874,Public Phone,Openbare telefoon
+/Game/Vein/Appliances/BP_MiniFridge01.BP_MiniFridge01_C:Furniture_GEN_VARIABLE.UsableName,,2A9D2C0946F023C1DDE7C2BE120F0361,Mini Fridge,Mini Koelkast
+/Game/Vein/Appliances/BP_MiniFridge01.BP_MiniFridge01_C:Wireable_GEN_VARIABLE.UsableName,,2E1DA96D40C9E2BA4C6C979147D45E23,Mini Fridge,Mini Koelkast
+/Game/Vein/Appliances/BP_MiniFridge02.BP_MiniFridge02_C:Furniture_GEN_VARIABLE.UsableName,,97FEB9B64E3B9ADE85F1B88AB244A20B,Mini Fridge,Mini Koelkast
+/Game/Vein/Appliances/BP_MiniFridge02.BP_MiniFridge02_C:Wireable_GEN_VARIABLE.UsableName,,9C52BE7841DFD81581D6179C7A817B20,Mini Fridge,Mini Koelkast
+/Game/Vein/Appliances/BP_MiniFridge03_Convenience.BP_MiniFridge03_Convenience_C:Furniture_GEN_VARIABLE.UsableName,,D0A0AD6D463B74F72C2C51B9E1752CB3,Mini Cooler,Mini Koeler
+/Game/Vein/Appliances/BP_MiniFridge03_Convenience.BP_MiniFridge03_Convenience_C:Wireable_GEN_VARIABLE.UsableName,,05611F7547833DA7A49806A274FE52FB,Mini Fridge,Mini Koelkast
+/Game/Vein/Appliances/BP_OreCrusher.BP_OreCrusher_C:Furniture_GEN_VARIABLE.UsableName,,8A9710A04816C3EA27A7E68B3446B5E9,Ore Crusher,Erts Breker
+/Game/Vein/Appliances/BP_OreCrusher.BP_OreCrusher_C:Heat Converter_GEN_VARIABLE.UsableName,,CE3242BC44DBC2A5FD59C3BEE5AC7734,Ore Crusher,Erts Breker
+/Game/Vein/Appliances/BP_OreCrusher.BP_OreCrusher_C:Inventory_GEN_VARIABLE.Name,,AA0D580345745DF95E85FC9A7F48FECF,Ore Crusher,Erts Breker
+/Game/Vein/Appliances/BP_PublicPhone01.BP_PublicPhone01_C:Furniture_GEN_VARIABLE.UsableName,,7A24A37F400CD78CEF73A3B83D1612EA,Public Phone (Work in Progress),Openbare Telefoon (werk in uitvoering)
+/Game/Vein/Appliances/BP_PublicPhone01.BP_PublicPhone01_C:Wireable_GEN_VARIABLE.UsableName,,4ED1DBD74778F90A2A71288F9CAA6874,Public Phone,Openbare Telefoon
 /Game/Vein/Appliances/BP_Shower.BP_Shower_C:Furniture_GEN_VARIABLE.UsableName,,2D81011E437CA2D5C5B7399AD6361815,Shower,Douche
 /Game/Vein/Appliances/BP_Shower.BP_Shower_C:TransformTransitionUse_GEN_VARIABLE.UsableName,,DF6A88E04F9BC8A15E8F4CB9B9DD409A,Shower Door,Douchedeur
 /Game/Vein/Appliances/BP_Shower.BP_Shower_C:TransformTransitionUse_GEN_VARIABLE.UsableOption,,34D3661B40A647D1E44568B55BD877A9,Open/Close,Openen/Sluiten
 /Game/Vein/Appliances/BP_Shower.BP_Shower_C:WaterSource_GEN_VARIABLE.DrainNotificationText,,CED0D6E04E1D2FB2810E22A0E58DB717,You drain the tub.,Je laat het bad leeglopen.
-/Game/Vein/Appliances/BP_Shower.BP_Shower_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,5D35489648E2BD43119F24A952E4EB25,Drain Shower,Afvoer douche
-/Game/Vein/Appliances/BP_Shower.BP_Shower_C:WaterSource_GEN_VARIABLE.DrinkStoredNotification,,346E002B471B0EFFBF99AD8B7D663BA2,You drink some of the water sitting in the shower.,Je drinkt een deel van het water zittend onder de douche.
+/Game/Vein/Appliances/BP_Shower.BP_Shower_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,5D35489648E2BD43119F24A952E4EB25,Drain Shower,Afvoer Douche
+/Game/Vein/Appliances/BP_Shower.BP_Shower_C:WaterSource_GEN_VARIABLE.DrinkStoredNotification,,346E002B471B0EFFBF99AD8B7D663BA2,You drink some of the water sitting in the shower.,Je drinkt een deel van het water uit de douche.
 /Game/Vein/Appliances/BP_Shower.BP_Shower_C:WaterSource_GEN_VARIABLE.Label,,C790A3B548E41C81BB2E3FBFE6A5AF36,Shower,Douche
 /Game/Vein/Appliances/BP_Shower.BP_Shower_C:WaterSource_GEN_VARIABLE.StoreNotificationText,,56147BBB4D96585531F0CEBD3C55CB88,You fill the tub full of water.,Je vult het bad met water.
-/Game/Vein/Appliances/BP_Shower.BP_Shower_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,A3EE0F4E461B38684AE1DDA59A2924E0,Fill Tub,Kuip vullen
-/Game/Vein/Appliances/BP_Stove.BP_Stove_C:Furniture_GEN_VARIABLE.UsableName,,5EE92CBA45309C378C85A79689902EC6,Electric Stove,Elektrisch fornuis
-/Game/Vein/Appliances/BP_Stove.Default__BP_Stove_C.AlwaysNeedsToolText,,0B09B7C2473B65D0E3A12580A2D56878,"A pot, pan, or oven dish is required to cook on this stove. Make sure to check the recipe and add one to the tool slot!","Een pot, pan of ovenschotel is nodig om op dit fornuis te koken. Zorg ervoor dat je het recept controleert en voeg er een toe aan de gereedschapssleuf!"
+/Game/Vein/Appliances/BP_Shower.BP_Shower_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,A3EE0F4E461B38684AE1DDA59A2924E0,Fill Tub,Bad Vullen
+/Game/Vein/Appliances/BP_Stove.BP_Stove_C:Furniture_GEN_VARIABLE.UsableName,,5EE92CBA45309C378C85A79689902EC6,Electric Stove,Elektrisch Fornuis
+/Game/Vein/Appliances/BP_Stove.Default__BP_Stove_C.AlwaysNeedsToolText,,0B09B7C2473B65D0E3A12580A2D56878,"A pot, pan, or oven dish is required to cook on this stove. Make sure to check the recipe and add one to the tool slot!","Een pot, pan of ovenschotel is nodig om op dit fornuis te koken. Zorg ervoor dat je het recept controleert en voeg er een toe aan het gereedschapsvakje!"
 /Game/Vein/Appliances/BP_Stove.Default__BP_Stove_C.UsableName,,A0BD124C48CAF7A8C700019B6ECEAA42,Electric Stove,Elektrisch fornuis
 /Game/Vein/Appliances/BP_Stove.Default__BP_Stove_C:Inventory.Name,,C844438944E0270C1D9B548475C74D7C,Stove,Kachel
 /Game/Vein/Appliances/BP_Stove.Default__BP_Stove_C:Workbench.UsableName,,C0C334E14ACAB6F68992CD85D0C6F2D9,Stove,Kachel
 /Game/Vein/Appliances/BP_Stove02.BP_Stove02_C:Furniture_GEN_VARIABLE.UsableName,,6F633E0D4155EC0DC0DC72881880F2C4,Industrial Gas Range,Industrieel gasfornuis
 /Game/Vein/Appliances/BP_Stove02.BP_Stove02_C:Wireable_GEN_VARIABLE.UsableName,,2B0C4C874866D4BF58472887BEAA9106,Industrial Gas Range,Industrieel gasfornuis
-/Game/Vein/Appliances/BP_Stove02.Default__BP_Stove02_C.AlwaysNeedsToolText,,532B2ACC4B41B3026EE649A53F45D294,"A pot, pan, or oven dish is required to cook on this stove. Make sure to check the recipe and add one to the tool slot!","Een pot, pan of ovenschotel is nodig om op dit fornuis te koken. Zorg ervoor dat je het recept controleert en voeg er een toe aan de gereedschapssleuf!"
+/Game/Vein/Appliances/BP_Stove02.Default__BP_Stove02_C.AlwaysNeedsToolText,,532B2ACC4B41B3026EE649A53F45D294,"A pot, pan, or oven dish is required to cook on this stove. Make sure to check the recipe and add one to the tool slot!","Een pot, pan of ovenschotel is nodig om op dit fornuis te koken. Zorg ervoor dat je het recept controleert en voeg er een toe aan het gereedschapsvakje!"
 /Game/Vein/Appliances/BP_Stove02.Default__BP_Stove02_C.UsableName,,E75289C14369DBB701623781DF600C81,Industrial Gas Range,Industrieel gasfornuis
 /Game/Vein/Appliances/BP_Stove02.Default__BP_Stove02_C:Workbench.UsableName,,011F12AD4A4E332EAD8E9290F24A830B,Stove,Kachel
 /Game/Vein/Appliances/BP_Stove03.BP_Stove03_C:Furniture_GEN_VARIABLE.UsableName,,FC7B9F9A413E9D2A846E6492379149EA,Industrial Gas Range w/ Griddle,Industrieel gasfornuis met bakplaat
 /Game/Vein/Appliances/BP_Stove03.BP_Stove03_C:Wireable_GEN_VARIABLE.UsableName,,5FEF3522475AF0469EF17E99F373AEA9,Industrial Gas Range w/ Griddle,Industrieel gasfornuis met bakplaat
-/Game/Vein/Appliances/BP_Stove03.Default__BP_Stove03_C.AlwaysNeedsToolText,,0AF1EEF4477DA3FFD661E4B08C420537,"A pot, pan, or oven dish is required to cook. Make sure to check the recipe and add one to the tool slot!","Een pot, pan of ovenschaal is nodig om te koken. Zorg ervoor dat je het recept controleert en voeg er een toe aan de gereedschapssleuf!"
+/Game/Vein/Appliances/BP_Stove03.Default__BP_Stove03_C.AlwaysNeedsToolText,,0AF1EEF4477DA3FFD661E4B08C420537,"A pot, pan, or oven dish is required to cook. Make sure to check the recipe and add one to the tool slot!","Een pot, pan of ovenschaal is nodig om te koken. Zorg ervoor dat je het recept controleert en voeg er een toe aan het gereedschapsvakje!"
 /Game/Vein/Appliances/BP_Stove03.Default__BP_Stove03_C.UsableName,,1EFBF1C0476934CEA23A91AD3CE5D3C4,Industrial Gas Range w/ Griddle,Industrieel gasfornuis met bakplaat
 /Game/Vein/Appliances/BP_Stove03.Default__BP_Stove03_C:Workbench.UsableName,,3CBBCF73485F4DC4FAB9EAB6CF36884F,Stove,Kachel
 /Game/Vein/Appliances/BP_Stove04.BP_Stove04_C:Furniture_GEN_VARIABLE.UsableName,,D6BFAAC84EBA1C61BBEADAAED8930803,Industrial Gas Range w/ Grill,Industrieel gasfornuis met grill
 /Game/Vein/Appliances/BP_Stove04.BP_Stove04_C:Wireable_GEN_VARIABLE.UsableName,,1983046B4A8C05B5CACA39A845FC3842,Industrial Gas Range w/ Grill,Industrieel gasfornuis met grill
-/Game/Vein/Appliances/BP_Stove04.Default__BP_Stove04_C.AlwaysNeedsToolText,,C90709A34E6135562D03AEBB65A8DF65,"A pot, pan, or oven dish is required to cook. Make sure to check the recipe and add one to the tool slot!","Een pot, pan of ovenschaal is nodig om te koken. Zorg ervoor dat je het recept controleert en voeg er een toe aan de gereedschapssleuf!"
+/Game/Vein/Appliances/BP_Stove04.Default__BP_Stove04_C.AlwaysNeedsToolText,,C90709A34E6135562D03AEBB65A8DF65,"A pot, pan, or oven dish is required to cook. Make sure to check the recipe and add one to the tool slot!","Een pot, pan of ovenschaal is nodig om te koken. Zorg ervoor dat je het recept controleert en voeg er een toe aan het gereedschapsvakje!"
 /Game/Vein/Appliances/BP_Stove04.Default__BP_Stove04_C.UsableName,,F2F67F3A442FC6497CC1EB97DD6AF4D8,Industrial Gas Range w/ Grill,Industrieel gasfornuis met grill
 /Game/Vein/Appliances/BP_Stove04.Default__BP_Stove04_C:Workbench.UsableName,,08348C764BC610E2E4202590138E91B5,Stove,Kachel
 /Game/Vein/Appliances/BP_TobaccoShelf01.BP_TobaccoShelf01_C:Furniture_GEN_VARIABLE.UsableName,,DE2F24DE42ACA3CAD8572B9F56397F23,Tobacco Shelf,Tabak plank
@@ -386,62 +386,62 @@ Source Location,Namespace,Key,Original,Translated
 /Game/Vein/Appliances/BP_Toilet2.BP_Toilet2_C:WaterSource_GEN_VARIABLE.Label,,58E0A6894FF49807205171A395496B0C,Toilet,Toilet
 /Game/Vein/Appliances/BP_Toilet2.BP_Toilet2_C:WaterSource_GEN_VARIABLE.NoWaterText,,0FC5583444D56E5E66BD409C1658E793,The toilet bowl is empty.,De toiletpot is leeg.
 /Game/Vein/Appliances/BP_Toilet2.BP_Toilet2_C:WaterSource_GEN_VARIABLE.StoreNotificationText,,3EAE314A448DAEA846AF8CA9058AD636,You fill the toilet bowl full of water.,Je vult de toiletpot met water.
-/Game/Vein/Appliances/BP_Toilet2.BP_Toilet2_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,D1E34A8C4F87A1F3EF4483BCB8B69CF1,Fill Toilet,Toilet vullen
+/Game/Vein/Appliances/BP_Toilet2.BP_Toilet2_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,D1E34A8C4F87A1F3EF4483BCB8B69CF1,Fill Toilet,Toilet Vullen
 /Game/Vein/Appliances/BP_Toilet2Urinal.BP_Toilet2Urinal_C:Furniture_GEN_VARIABLE.UsableName,,3B8DE34C455428CDF6F936B824514721,Urinal,Urinoir
 /Game/Vein/Appliances/BP_Toilet2Urinal.BP_Toilet2Urinal_C:WaterSource_GEN_VARIABLE.DrainNotificationText,,189369C34D7BF4C5763B1B9798C37655,You drain the urinal.,Je laat het urinoir leeglopen.
-/Game/Vein/Appliances/BP_Toilet2Urinal.BP_Toilet2Urinal_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,53BAFD3843694D44703932A87B5CBCE6,Drain Urinal,Afvoer urinoir
+/Game/Vein/Appliances/BP_Toilet2Urinal.BP_Toilet2Urinal_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,53BAFD3843694D44703932A87B5CBCE6,Drain Urinal,Afvoer Urinoir
 /Game/Vein/Appliances/BP_Toilet2Urinal.BP_Toilet2Urinal_C:WaterSource_GEN_VARIABLE.DrinkStoredNotification,,26CD91AC48D4C3F1CC2F75A99B912E38,You drink some of the toilet water.,Je drinkt een deel van het toiletwater.
 /Game/Vein/Appliances/BP_Toilet2Urinal.BP_Toilet2Urinal_C:WaterSource_GEN_VARIABLE.Label,,C81CAC714FD5671AF977F2B5F4BC60AA,Urinal,Urinoir
 /Game/Vein/Appliances/BP_Toilet2Urinal.BP_Toilet2Urinal_C:WaterSource_GEN_VARIABLE.NoWaterText,,57DDC2434B15DF558A3DE99F88799FA2,The urinal is empty.,Het urinoir is leeg.
 /Game/Vein/Appliances/BP_Toilet2Urinal.BP_Toilet2Urinal_C:WaterSource_GEN_VARIABLE.StoreNotificationText,,2EFF79A2408513B78BE10BAF77A8B06A,You fill the urinal full of water.,Je vult het urinoir vol met water.
-/Game/Vein/Appliances/BP_Toilet2Urinal.BP_Toilet2Urinal_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,B672F07341A2C24ED733B98EE06109A9,Fill Urinal,Urinoir vullen
+/Game/Vein/Appliances/BP_Toilet2Urinal.BP_Toilet2Urinal_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,B672F07341A2C24ED733B98EE06109A9,Fill Urinal,Urinoir Vullen
 /Game/Vein/Appliances/BP_Tub.BP_Tub_C:Furniture_GEN_VARIABLE.UsableName,,FB4D42BE423B1E3AF3F906A84F9E3572,Tub,Kuip
 /Game/Vein/Appliances/BP_Tub.BP_Tub_C:WaterSource_GEN_VARIABLE.DrainNotificationText,,7447301144303CB8BB9333A25C986CA2,You drain the tub.,Je laat het bad leeglopen.
 /Game/Vein/Appliances/BP_Tub.BP_Tub_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,BE58342A46B640B2418F908B830828EB,Drain Tub,Afvoer kuip
-/Game/Vein/Appliances/BP_Tub.BP_Tub_C:WaterSource_GEN_VARIABLE.DrinkStoredNotification,,6045BDC94A6B45132A4A4FB8CF058101,You drink some of the water sitting in the tub.,Je drinkt een deel van het water zittend in het bad.
-/Game/Vein/Appliances/BP_Tub.BP_Tub_C:WaterSource_GEN_VARIABLE.Label,,3FCCD2B54F0A681A47241A895BC930B4,Tub,Kuip
+/Game/Vein/Appliances/BP_Tub.BP_Tub_C:WaterSource_GEN_VARIABLE.DrinkStoredNotification,,6045BDC94A6B45132A4A4FB8CF058101,You drink some of the water sitting in the tub.,Je drinkt een deel van het water uit het bad.
+/Game/Vein/Appliances/BP_Tub.BP_Tub_C:WaterSource_GEN_VARIABLE.Label,,3FCCD2B54F0A681A47241A895BC930B4,Tub,Bad
 /Game/Vein/Appliances/BP_Tub.BP_Tub_C:WaterSource_GEN_VARIABLE.StoreNotificationText,,F35E676D48E68C25A3B7B58421019990,You fill the tub full of water.,Je vult het bad met water.
-/Game/Vein/Appliances/BP_Tub.BP_Tub_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,112E321940C044B0A45F16A287125C7D,Fill Tub,Kuip vullen
+/Game/Vein/Appliances/BP_Tub.BP_Tub_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,112E321940C044B0A45F16A287125C7D,Fill Tub,Bad vullen
 /Game/Vein/Appliances/BP_TV1.BP_TV1_C:Furniture_GEN_VARIABLE.UsableName,,943B1FAB4BC674F9C3C9A1ADF5B7C8B0,Television,Televisie
-/Game/Vein/Appliances/BP_TV1.Default__BP_TV1_C:Switch.SetText,Vein,ToggleTVOnOrOff,Turn {OnOrOff},Zet {OnOrOff} aan
+/Game/Vein/Appliances/BP_TV1.Default__BP_TV1_C:Switch.SetText,Vein,ToggleTVOnOrOff,Turn {OnOrOff},Zet {OnOrOff}
 /Game/Vein/Appliances/BP_TV1.Default__BP_TV1_C:Wireable.UsableName,,E4A1B0EB42738533F0124EBA582CDEF6,Television,Televisie
-/Game/Vein/Appliances/BP_TV5.BP_TV5_C:Furniture_GEN_VARIABLE.UsableName,,890010904D826066CB8704A2DEA64785,OLED Television,OLED-televisie
-/Game/Vein/Appliances/BP_TV5.Default__BP_TV5_C:Wireable.UsableName,,67419D3541D04122F767CDA8FFA7A5EC,OLED Television,OLED-televisie
+/Game/Vein/Appliances/BP_TV5.BP_TV5_C:Furniture_GEN_VARIABLE.UsableName,,890010904D826066CB8704A2DEA64785,OLED Television,OLED-Televisie
+/Game/Vein/Appliances/BP_TV5.Default__BP_TV5_C:Wireable.UsableName,,67419D3541D04122F767CDA8FFA7A5EC,OLED Television,OLED-Televisie
 /Game/Vein/Appliances/BP_VendingMachine01.BP_VendingMachine01_C:Wireable_GEN_VARIABLE.UsableName,,221FA8524333C88DE2F804B9E7DBFDEF,Vending Machine,Automaat
 /Game/Vein/Appliances/BP_WallClock.BP_WallClock_C:Wireable_GEN_VARIABLE.UsableName,,37EFD57C489E5B9F7FD0E9BED2E4E85B,Clock,Klok
 /Game/Vein/Appliances/BP_Washer.BP_Washer_C:Furniture_GEN_VARIABLE.UsableName,,9434823543B154568469CBB68287F9C9,Washing Machine,Wasmachine
-/Game/Vein/Appliances/BP_Washer.BP_Washer_C:InlineSwitch_GEN_VARIABLE.SubtitleText,,55A5605C4A225B12C50C2EB75055B792,Put clothes inside and turn on to wash them.,Doe er kleding in en zet ze aan om ze te wassen.
+/Game/Vein/Appliances/BP_Washer.BP_Washer_C:InlineSwitch_GEN_VARIABLE.SubtitleText,,55A5605C4A225B12C50C2EB75055B792,Put clothes inside and turn on to wash them.,Doe er kleding in en zet deze aan om ze te wassen.
 /Game/Vein/Appliances/BP_Washer.BP_Washer_C:InlineSwitch_GEN_VARIABLE.UsableName,,499F8C594E77C61E45F495ADD9AE48CE,Washer,Wasmachine
 /Game/Vein/Appliances/BP_Washer.BP_Washer_C:WaterSource_GEN_VARIABLE.Label,,1C0453704865224A9A9C0BB4D24231ED,Washing Machine,Wasmachine
 /Game/Vein/Appliances/BP_Washer.BP_Washer_C:Wireable_GEN_VARIABLE.UsableName,,4E7CFD5349B985654E726EA912FA5F3B,Washing Machine,Wasmachine
 /Game/Vein/Appliances/BP_Washer.Default__BP_Washer_C:Inventory.Name,,0205A5BD46974A9857FF59A52F63C15E,Washing Machine,Wasmachine
 /Game/Vein/Appliances/BP_WaterHose.BP_WaterHose_C:WaterSource_GEN_VARIABLE.Label,,56064AC5429105F1BFEE80A533653CED,Hose,Slang
-/Game/Vein/Appliances/BP_Workbench.BP_Workbench_C:Furniture_GEN_VARIABLE.UsableName,,D7794B224221E9B2A7E47F9870CB67DB,Standard Workbench,Standaard werkbank
-/Game/Vein/Appliances/BP_Workbench.Default__BP_Workbench_C.UsableName,,B6E04B274DC6DB25F3D4C3B5EA699FE7,Standard Workbench,Standaard werkbank
-/Game/Vein/Appliances/BP_Workbench.Default__BP_Workbench_C:Workbench.UsableName,,86C5E5724F96AE095B5306A48059912D,Standard Workbench,Standaard werkbank
-/Game/Vein/Appliances/BP_Workbench_Repair.BP_Workbench_Repair_C:Furniture_GEN_VARIABLE.UsableName,,6A354D7C41561398C99EE9837F689DC2,Repair Workbench,Reparatie werkbank
-/Game/Vein/Appliances/BP_Workbench_Repair.BP_Workbench_Repair_C:Wireable_GEN_VARIABLE.UsableName,,E227F2324D09D345504B69A6A4D05274,Repair Workbench,Reparatie werkbank
-/Game/Vein/Appliances/BP_Workbench_Repair.Default__BP_Workbench_Repair_C.UsableName,,C74B45F94B0219CBC5D1BC9E60A7DECD,Repair Workbench,Reparatie werkbank
-/Game/Vein/Appliances/BP_Workbench_Repair.Default__BP_Workbench_Repair_C:Inventory.Name,,1EDC4ADC4B51D7B800A466AD46957D37,Repair Workbench,Reparatie werkbank
-/Game/Vein/Appliances/BP_Workbench_Repair.Default__BP_Workbench_Repair_C:Workbench.UsableName,,B27B02224C0C9CC2BEA907B2F7FC01F5,Repair Workbench,Reparatie werkbank
-/Game/Vein/Appliances/BP_Workbench_Schematic.BP_Workbench_Schematic_C:Furniture_GEN_VARIABLE.UsableName,,35B815864F59BA8B02B36B86140016BD,Schematic Table,Schematische tabel
-/Game/Vein/Appliances/BP_Workbench_Schematic.Default__BP_Workbench_Schematic_C.UsableName,,71D3E03542E013ED17899FBFAA29E935,Schematic Table,Schematische tabel
-/Game/Vein/Appliances/BP_Workbench_Schematic.Default__BP_Workbench_Schematic_C:Inventory.Name,,1AD91453446CBF18B56441A6F7D8C143,Schematic Table,Schematische tabel
-/Game/Vein/Appliances/BP_Workbench_Schematic.Default__BP_Workbench_Schematic_C:Workbench.UsableName,,6CE750214AE604463824B0830A7CA26C,Schematic Table,Schematische tabel
-/Game/Vein/Appliances/BP_WorkbenchAdvanced.BP_WorkbenchAdvanced_C:Furniture_GEN_VARIABLE.UsableName,,5EB74199472FA4D665F432A8523B9922,Advanced Workbench,Geavanceerde werkbank
-/Game/Vein/Appliances/BP_WorkbenchAdvanced.Default__BP_WorkbenchAdvanced_C.UsableName,,8A75E56C48177CA0713688908BAA4B9C,Advanced Workbench,Geavanceerde werkbank
-/Game/Vein/Appliances/BP_WorkbenchAdvanced.Default__BP_WorkbenchAdvanced_C:Workbench.UsableName,,BD3021FA459674FB8538BA91B2019553,Advanced Workbench,Geavanceerde werkbank
-/Game/Vein/Appliances/BP_WorkbenchFabrication.BP_WorkbenchFabrication_C:Furniture_GEN_VARIABLE.UsableName,,F5BFF5DD416C0ECDCFFEA98BA72E4319,Fabrication Workbench,Fabricage werkbank
-/Game/Vein/Appliances/BP_WorkbenchFabrication.BP_WorkbenchFabrication_C:Wireable_GEN_VARIABLE.UsableName,,FC6CA6854A772299EBC4D7948E245040,Fabrication Workbench,Fabricage werkbank
-/Game/Vein/Appliances/BP_WorkbenchFabrication.Default__BP_WorkbenchFabrication_C.UsableName,,3C5AE6D94F48FC8135F244B653D7F4E0,Fabrication Workbench,Fabricage werkbank
-/Game/Vein/Appliances/BP_WorkbenchFabrication.Default__BP_WorkbenchFabrication_C:Workbench.UsableName,,5A0E8BA04A930704991A6782F74D92AB,Fabrication Workbench,Fabricage werkbank
-/Game/Vein/Appliances/Elevator/BP_Elevator.BP_Elevator_C:CloseButton_GEN_VARIABLE.UsableName,,6C447E5649F2F4BEE0BE18A9FA562F48,Close Button,Knop Sluiten
+/Game/Vein/Appliances/BP_Workbench.BP_Workbench_C:Furniture_GEN_VARIABLE.UsableName,,D7794B224221E9B2A7E47F9870CB67DB,Standard Workbench,Standaard Werkbank
+/Game/Vein/Appliances/BP_Workbench.Default__BP_Workbench_C.UsableName,,B6E04B274DC6DB25F3D4C3B5EA699FE7,Standard Workbench,Standaard Werkbank
+/Game/Vein/Appliances/BP_Workbench.Default__BP_Workbench_C:Workbench.UsableName,,86C5E5724F96AE095B5306A48059912D,Standard Workbench,Standaard Werkbank
+/Game/Vein/Appliances/BP_Workbench_Repair.BP_Workbench_Repair_C:Furniture_GEN_VARIABLE.UsableName,,6A354D7C41561398C99EE9837F689DC2,Repair Workbench,Reparatie Werkbank
+/Game/Vein/Appliances/BP_Workbench_Repair.BP_Workbench_Repair_C:Wireable_GEN_VARIABLE.UsableName,,E227F2324D09D345504B69A6A4D05274,Repair Workbench,Reparatie Werkbank
+/Game/Vein/Appliances/BP_Workbench_Repair.Default__BP_Workbench_Repair_C.UsableName,,C74B45F94B0219CBC5D1BC9E60A7DECD,Repair Workbench,Reparatie Werkbank
+/Game/Vein/Appliances/BP_Workbench_Repair.Default__BP_Workbench_Repair_C:Inventory.Name,,1EDC4ADC4B51D7B800A466AD46957D37,Repair Workbench,Reparatie Werkbank
+/Game/Vein/Appliances/BP_Workbench_Repair.Default__BP_Workbench_Repair_C:Workbench.UsableName,,B27B02224C0C9CC2BEA907B2F7FC01F5,Repair Workbench,Reparatie Werkbank
+/Game/Vein/Appliances/BP_Workbench_Schematic.BP_Workbench_Schematic_C:Furniture_GEN_VARIABLE.UsableName,,35B815864F59BA8B02B36B86140016BD,Schematic Table,Schema Tafel
+/Game/Vein/Appliances/BP_Workbench_Schematic.Default__BP_Workbench_Schematic_C.UsableName,,71D3E03542E013ED17899FBFAA29E935,Schematic Table,Schema Tafel
+/Game/Vein/Appliances/BP_Workbench_Schematic.Default__BP_Workbench_Schematic_C:Inventory.Name,,1AD91453446CBF18B56441A6F7D8C143,Schematic Table,Schema Tafel
+/Game/Vein/Appliances/BP_Workbench_Schematic.Default__BP_Workbench_Schematic_C:Workbench.UsableName,,6CE750214AE604463824B0830A7CA26C,Schematic Table,Schema Tafel
+/Game/Vein/Appliances/BP_WorkbenchAdvanced.BP_WorkbenchAdvanced_C:Furniture_GEN_VARIABLE.UsableName,,5EB74199472FA4D665F432A8523B9922,Advanced Workbench,Geavanceerde Werkbank
+/Game/Vein/Appliances/BP_WorkbenchAdvanced.Default__BP_WorkbenchAdvanced_C.UsableName,,8A75E56C48177CA0713688908BAA4B9C,Advanced Workbench,Geavanceerde Werkbank
+/Game/Vein/Appliances/BP_WorkbenchAdvanced.Default__BP_WorkbenchAdvanced_C:Workbench.UsableName,,BD3021FA459674FB8538BA91B2019553,Advanced Workbench,Geavanceerde Werkbank
+/Game/Vein/Appliances/BP_WorkbenchFabrication.BP_WorkbenchFabrication_C:Furniture_GEN_VARIABLE.UsableName,,F5BFF5DD416C0ECDCFFEA98BA72E4319,Fabrication Workbench,Fabricage Werkbank
+/Game/Vein/Appliances/BP_WorkbenchFabrication.BP_WorkbenchFabrication_C:Wireable_GEN_VARIABLE.UsableName,,FC6CA6854A772299EBC4D7948E245040,Fabrication Workbench,Fabricage Werkbank
+/Game/Vein/Appliances/BP_WorkbenchFabrication.Default__BP_WorkbenchFabrication_C.UsableName,,3C5AE6D94F48FC8135F244B653D7F4E0,Fabrication Workbench,Fabricage Werkbank
+/Game/Vein/Appliances/BP_WorkbenchFabrication.Default__BP_WorkbenchFabrication_C:Workbench.UsableName,,5A0E8BA04A930704991A6782F74D92AB,Fabrication Workbench,Fabricage Werkbank
+/Game/Vein/Appliances/Elevator/BP_Elevator.BP_Elevator_C:CloseButton_GEN_VARIABLE.UsableName,,6C447E5649F2F4BEE0BE18A9FA562F48,Close Button,Sluit Knop
 /Game/Vein/Appliances/Elevator/BP_Elevator.BP_Elevator_C:Floor1_GEN_VARIABLE.UsableName,,3F493EFB47CED27AF498999D29C83B43,Floor 1,Verdieping 1
 /Game/Vein/Appliances/Elevator/BP_Elevator.BP_Elevator_C:Floor2_GEN_VARIABLE.UsableName,,6738D40946839C1BF0EAC099400BB66B,Floor 2,Verdieping 2
-/Game/Vein/Appliances/Elevator/BP_Elevator.BP_Elevator_C:OpenButton_GEN_VARIABLE.UsableName,,A11FADF440A50AB109BA56BD696BFEFB,Open Button,Knop openen
-/Game/Vein/Appliances/Elevator/BP_ElevatorFrame.BP_ElevatorFrame_C:ElevatorButton_GEN_VARIABLE.UsableName,,C9DC0BEC4E3B58AC761787A503444C9A,Call Elevator,Bel Lift
+/Game/Vein/Appliances/Elevator/BP_Elevator.BP_Elevator_C:OpenButton_GEN_VARIABLE.UsableName,,A11FADF440A50AB109BA56BD696BFEFB,Open Button,Open Knop
+/Game/Vein/Appliances/Elevator/BP_ElevatorFrame.BP_ElevatorFrame_C:ElevatorButton_GEN_VARIABLE.UsableName,,C9DC0BEC4E3B58AC761787A503444C9A,Call Elevator,Lift Roepen
 /Game/Vein/BuildObjectCategories/BOC_Decor.BOC_Decor.Label,,3BDD2B884524400662C0BA9851A626B2,Decor,Decor
-/Game/Vein/BuildObjectCategories/BOC_Fortifications.BOC_Fortifications.Label,,8A5C44FF4AF0B224B97A70815250567A,Fortifications,Vestingwerken
+/Game/Vein/BuildObjectCategories/BOC_Fortifications.BOC_Fortifications.Label,,8A5C44FF4AF0B224B97A70815250567A,Fortifications,Versterkingen
 /Game/Vein/BuildObjectCategories/BOC_Furniture.BOC_Furniture.Label,,DBBBE3A24F152B0DA15F33A6598653CB,Furniture,Meubilair
 /Game/Vein/BuildObjectCategories/BOC_Stations.BOC_Stations.Label,,B5049E384855D5353E2B0AA5A13CA795,Stations,Stations
 /Game/Vein/BuildObjectCategories/BOC_Storage.BOC_Storage.Label,,D196ABAB4A5A248F96CD119AD420D16A,Storage,Opslag
@@ -451,66 +451,66 @@ Source Location,Namespace,Key,Original,Translated
 
 Be sure to build this in a well-guarded location - if anyone gets to it, they can claim everything in your base for themselves.","Het centrum van je basis.
  
-Zorg ervoor dat je dit op een goed bewaakte locatie bouwt - als iemand er komt, kunnen ze alles in je basis voor zichzelf claimen."
+Zorg ervoor dat je dit op een goed bewaakte locatie bouwt - als iemand er bij komt, kunnen ze alles in je basis voor zichzelf claimen."
 /Game/Vein/BuildObjects/BO_UtilityCabinet.BO_UtilityCabinet.Name,,93CA32A14FFEEA60F98F5FA4201CD34E,Utility Cabinet,Meterkast
 /Game/Vein/BuildObjects/BP_UtilityCabinet.Default__BP_UtilityCabinet_C.UsableName,,4C9ACFB248ECBC2875CD3DAC38B8A371,Utility Cabinet,Meterkast
 /Game/Vein/BuildObjects/Containers/BO_Crate_Large.BO_Crate_Large.Description,,70C700F64AD9E5D9D9D65AB40600B325,Suitable for storing a lot of stuff.,Geschikt om veel spullen in op te bergen.
-/Game/Vein/BuildObjects/Containers/BO_Crate_Large.BO_Crate_Large.Name,,EF3E773B494B385AEC944DB202A4EEDF,Large Crate,Grote krat
+/Game/Vein/BuildObjects/Containers/BO_Crate_Large.BO_Crate_Large.Name,,EF3E773B494B385AEC944DB202A4EEDF,Large Crate,Grote Krat
 /Game/Vein/BuildObjects/Containers/BO_Crate_Small.BO_Crate_Small.Description,,0B3384AB49823CC47DA0719A39AC79CE,Suitable for storing stuff.,Geschikt voor het opbergen van spullen.
-/Game/Vein/BuildObjects/Containers/BO_Crate_Small.BO_Crate_Small.Name,,45FAC478423C382920762BB746BDB369,Small Crate,Kleine krat
+/Game/Vein/BuildObjects/Containers/BO_Crate_Small.BO_Crate_Small.Name,,45FAC478423C382920762BB746BDB369,Small Crate,Kleine Krat
 /Game/Vein/BuildObjects/Containers/BO_DocumentShelf.BO_DocumentShelf.Description,,D259919E44C5BA729DA6B1947CFD0F16,"Storage space for notes, schematics, and other various documents.
 
 Won't fit other items.","Opslagruimte voor notities, schema's en andere diverse documenten.
  
-Past niet op andere items."
-/Game/Vein/BuildObjects/Containers/BO_DocumentShelf.BO_DocumentShelf.Name,,9F704CAA413CA4B5D64AA1952DEEA313,Document Shelf,Document plank
-/Game/Vein/BuildObjects/Containers/BO_FluidBarrel.BO_FluidBarrel.Description,,9B3BF4AD4273D6B67CE6EEAD0FAFD397,Can be used to store fluid.,Kan worden gebruikt om vloeistof op te slaan.
-/Game/Vein/BuildObjects/Containers/BO_FluidBarrel.BO_FluidBarrel.Name,,FEB40D3C4313E19D30B5819D90F2F7DC,Fluid Barrel,Vloeibaar vat
+Passen geen andere items in."
+/Game/Vein/BuildObjects/Containers/BO_DocumentShelf.BO_DocumentShelf.Name,,9F704CAA413CA4B5D64AA1952DEEA313,Document Shelf,Documenten Plank
+/Game/Vein/BuildObjects/Containers/BO_FluidBarrel.BO_FluidBarrel.Description,,9B3BF4AD4273D6B67CE6EEAD0FAFD397,Can be used to store fluid.,Kan worden gebruikt om vloeistof in op te slaan.
+/Game/Vein/BuildObjects/Containers/BO_FluidBarrel.BO_FluidBarrel.Name,,FEB40D3C4313E19D30B5819D90F2F7DC,Fluid Barrel,Vloeistof Vat
 /Game/Vein/BuildObjects/Containers/BO_KeyHook.BO_KeyHook.Description,,BFD16B52438B9E10A0748087577606FF,"Holds keys.
 
-Won't fit other items.","Heeft sleutels.
+Won't fit other items.","Bergt Sleutels Op.
  
-Past niet op andere items."
+Passen geen andere items in."
 /Game/Vein/BuildObjects/Containers/BO_KeyHook.BO_KeyHook.Name,,02D1D244422307EF4159AD98E651EF79,Key Hook,Sleutelhaak
 /Game/Vein/BuildObjects/Containers/BO_ScrapStorage.BO_ScrapStorage.Description,,8E28F58A4B192303C765E2978F94B7C9,"Storage space for scrap materials.
 
 Won't fit other items.","Opslagruimte voor schrootmateriaal.
  
-Past niet op andere items."
+Passen geen andere items in."
 /Game/Vein/BuildObjects/Containers/BO_ScrapStorage.BO_ScrapStorage.Name,,D73CF1D647461A067494519D924F44C2,Scrap Storage,Opslag van schroot
 /Game/Vein/BuildObjects/Containers/BO_WoodLogStorage.BO_WoodLogStorage.Description,,560975714072B15AEA7D9AA05B093B13,"Storage space for wood logs.
 
 Won't fit other items.","Opslagruimte voor houtblokken.
  
-Past niet op andere items."
+Passen geen andere items in."
 /Game/Vein/BuildObjects/Containers/BO_WoodLogStorage.BO_WoodLogStorage.Name,,2099C2D645C8B626972C059A111B3BA4,Wood Log Storage,Opslag van houtblokken
 /Game/Vein/BuildObjects/Containers/BO_WoodPlankStorage.BO_WoodPlankStorage.Description,,D10A6CA04A5026C5C3634FA8A0119F5A,"Storage space for wood planks, both reinforced and regular.
 
-Won't fit other items.","Opslagruimte voor houten planken, zowel verstevigd als regulier.
+Won't fit other items.","Opslagruimte voor houten planken, zowel verstevigde als reguliere.
  
-Past niet op andere items."
-/Game/Vein/BuildObjects/Containers/BO_WoodPlankStorage.BO_WoodPlankStorage.Name,,1BAC52E743F5326EA2170EAD9C159F5E,Wooden Plank Storage,Opslag van houten planken
+Passen geen andere items in."
+/Game/Vein/BuildObjects/Containers/BO_WoodPlankStorage.BO_WoodPlankStorage.Name,,1BAC52E743F5326EA2170EAD9C159F5E,Wooden Plank Storage,Houten Planken Opslag
 /Game/Vein/BuildObjects/Containers/BP_Crate01.BP_Crate01_C:Furniture_GEN_VARIABLE.UsableName,,61BADAD8454BA6C881D2A79064301CF9,Crate,Krat
 /Game/Vein/BuildObjects/Containers/BP_Crate02.BP_Crate02_C:Furniture_GEN_VARIABLE.UsableName,,FB91387641FE566EDB91DDA23AEFF300,Crate,Krat
-/Game/Vein/BuildObjects/Containers/BP_DocumentShelf.BP_DocumentShelf_C:Furniture_GEN_VARIABLE.UsableName,,3785182048709081B29A2B8AAFEDB583,Document Shelf,Document plank
-/Game/Vein/BuildObjects/Containers/BP_DocumentShelf.Default__BP_DocumentShelf_C:Inventory.Name,,7193AB5F46CFA87012E0CC89D9E77308,Document Shelf,Document plank
-/Game/Vein/BuildObjects/Containers/BP_FluidBarrel.BP_FluidBarrel_C:Furniture_GEN_VARIABLE.UsableName,,1185A4444B86B440984AF1BF9955DF05,Fluid Barrel,Vloeibaar vat
-/Game/Vein/BuildObjects/Containers/BP_FluidBarrel.Default__BP_FluidBarrel_C:Wireable Target.UsableName,,6CF947224CC1C07E4758CA808F270E3D,Rain Collector,Regen Collector
+/Game/Vein/BuildObjects/Containers/BP_DocumentShelf.BP_DocumentShelf_C:Furniture_GEN_VARIABLE.UsableName,,3785182048709081B29A2B8AAFEDB583,Document Shelf,Documenten Plank
+/Game/Vein/BuildObjects/Containers/BP_DocumentShelf.Default__BP_DocumentShelf_C:Inventory.Name,,7193AB5F46CFA87012E0CC89D9E77308,Document Shelf,Documenten Plank
+/Game/Vein/BuildObjects/Containers/BP_FluidBarrel.BP_FluidBarrel_C:Furniture_GEN_VARIABLE.UsableName,,1185A4444B86B440984AF1BF9955DF05,Fluid Barrel,Vloeistof Vat
+/Game/Vein/BuildObjects/Containers/BP_FluidBarrel.Default__BP_FluidBarrel_C:Wireable Target.UsableName,,6CF947224CC1C07E4758CA808F270E3D,Rain Collector,Regenopvang
 /Game/Vein/BuildObjects/Containers/BP_KeyHook.BP_KeyHook_C:Furniture_GEN_VARIABLE.UsableName,,D113652F47C7D3A5010B0DBB334F6F99,Key Hook,Sleutelhaak
 /Game/Vein/BuildObjects/Containers/BP_KeyHook.Default__BP_KeyHook_C:Inventory.Name,,A270D26A4D59211F7AE6A991F438F174,Key Hook,Sleutelhaak
-/Game/Vein/BuildObjects/Containers/BP_ScrapStorage.BP_ScrapStorage_C:Furniture_GEN_VARIABLE.UsableName,,8D6875C345E73E50B8D899B9039DC3B9,Scrap Storage,Opslag van schroot
-/Game/Vein/BuildObjects/Containers/BP_ScrapStorage.Default__BP_ScrapStorage_C:Inventory.Name,,DAB56D714E4DE25B13D5EF9409CCEA0E,Scrap Storage,Opslag van schroot
-/Game/Vein/BuildObjects/Containers/BP_WoodLogStorage.BP_WoodLogStorage_C:Furniture_GEN_VARIABLE.UsableName,,D38564A14AA34FD1E2D85BBD9A54101A,Wood Log Storage,Opslag van houtblokken
-/Game/Vein/BuildObjects/Containers/BP_WoodLogStorage.Default__BP_WoodLogStorage_C:Inventory.Name,,FA62FB364DC252B6FAEE24B84DF005F9,Wood Log Storage,Opslag van houtblokken
-/Game/Vein/BuildObjects/Containers/BP_WoodPlankStorage.BP_WoodPlankStorage_C:Furniture_GEN_VARIABLE.UsableName,,1037994C4A6A46DAABC38EB456A6EB21,Wooden Plank Storage,Opslag van houten planken
-/Game/Vein/BuildObjects/Containers/BP_WoodPlankStorage.Default__BP_WoodPlankStorage_C:Inventory.Name,,823E1B2A48625DE1B8560095D5BB8FF5,Wooden Plank Storage,Opslag van houten planken
+/Game/Vein/BuildObjects/Containers/BP_ScrapStorage.BP_ScrapStorage_C:Furniture_GEN_VARIABLE.UsableName,,8D6875C345E73E50B8D899B9039DC3B9,Scrap Storage,Schroot Opslag
+/Game/Vein/BuildObjects/Containers/BP_ScrapStorage.Default__BP_ScrapStorage_C:Inventory.Name,,DAB56D714E4DE25B13D5EF9409CCEA0E,Scrap Storage,Schroot Opslag
+/Game/Vein/BuildObjects/Containers/BP_WoodLogStorage.BP_WoodLogStorage_C:Furniture_GEN_VARIABLE.UsableName,,D38564A14AA34FD1E2D85BBD9A54101A,Wood Log Storage,Houtblokken Opslag
+/Game/Vein/BuildObjects/Containers/BP_WoodLogStorage.Default__BP_WoodLogStorage_C:Inventory.Name,,FA62FB364DC252B6FAEE24B84DF005F9,Wood Log Storage,Houtblokken Opslag
+/Game/Vein/BuildObjects/Containers/BP_WoodPlankStorage.BP_WoodPlankStorage_C:Furniture_GEN_VARIABLE.UsableName,,1037994C4A6A46DAABC38EB456A6EB21,Wooden Plank Storage,Houten Planken Opslag
+/Game/Vein/BuildObjects/Containers/BP_WoodPlankStorage.Default__BP_WoodPlankStorage_C:Inventory.Name,,823E1B2A48625DE1B8560095D5BB8FF5,Wooden Plank Storage,Houten Planken Opslag
 /Game/Vein/BuildObjects/Entertainment/BO_BasketballHoop.BO_BasketballHoop.Description,,7777D51748E5602971F1408BF5403CA5,A basketball hoop with a net.,Een basketbalring met een net.
-/Game/Vein/BuildObjects/Entertainment/BO_BasketballHoop.BO_BasketballHoop.Name,,5791B8FA437E3B8E2B65CDA3CB604CA4,Basketball Net,Netto basketbal
-/Game/Vein/BuildObjects/Entertainment/BO_PullUpBar.BO_PullUpBar.Description,,2EE95A354D0ABCFF3A869392DA5763C4,For core exercise. Gives strength XP.,Voor kernoefeningen. Geeft kracht XP.
+/Game/Vein/BuildObjects/Entertainment/BO_BasketballHoop.BO_BasketballHoop.Name,,5791B8FA437E3B8E2B65CDA3CB604CA4,Basketball Net,Basketbalnet
+/Game/Vein/BuildObjects/Entertainment/BO_PullUpBar.BO_PullUpBar.Description,,2EE95A354D0ABCFF3A869392DA5763C4,For core exercise. Gives strength XP.,Voor basis oefeningen. Geeft kracht XP.
 /Game/Vein/BuildObjects/Entertainment/BO_PullUpBar.BO_PullUpBar.Name,,A8A77E914CD8CA3E9A488F95C53DBBED,Pull-up Bar,Optrekstang
 /Game/Vein/BuildObjects/Entertainment/BO_ShootingTarget.BO_ShootingTarget.Description,,1FD6ABEE4E2A500E469B5290E8515C98,Increases weapon-handling XP when shot from a distance.,Verhoogt de XP voor het hanteren van wapens als je van een afstand wordt beschoten.
-/Game/Vein/BuildObjects/Entertainment/BO_ShootingTarget.BO_ShootingTarget.Name,,5144231043757FD2C965C6B40DF83965,Shooting Target,Schieten Doel
-/Game/Vein/BuildObjects/Entertainment/BP_BasketballNet.BP_BasketballNet_C:Furniture_GEN_VARIABLE.UsableName,,CCF79AAA4EA71E7D4DA71DAF3581A5BD,Basketball Hoop,Basketbal hoepel
+/Game/Vein/BuildObjects/Entertainment/BO_ShootingTarget.BO_ShootingTarget.Name,,5144231043757FD2C965C6B40DF83965,Shooting Target,Schiet Doel
+/Game/Vein/BuildObjects/Entertainment/BP_BasketballNet.BP_BasketballNet_C:Furniture_GEN_VARIABLE.UsableName,,CCF79AAA4EA71E7D4DA71DAF3581A5BD,Basketball Hoop,Basketbal Hoepel
 /Game/Vein/BuildObjects/Entertainment/BP_ShootingTarget.BP_ShootingTarget_C:Furniture_GEN_VARIABLE.UsableName,,9B5C34B847B58B428074B7A1D506ED17,Target,Doel
 /Game/Vein/BuildObjects/Fortifications/Tier1_WoodScrap/BO_WoodScrap_Door.BO_WoodScrap_Door.Description,,50C75CB042B05CABDEDD29AF4B319BD9,A slightly fortified door made of various scraps of wood.,Een licht versterkte deur gemaakt van verschillende stukjes hout.
 /Game/Vein/BuildObjects/Fortifications/Tier1_WoodScrap/BO_WoodScrap_Door.BO_WoodScrap_Door.Name,,DF5593FB4EB4C0808DA25AAE639FF313,Door (Solid),Deur (Solide)
@@ -697,7 +697,7 @@ Kan ook gebruikt worden om kleding te drogen."
 /Game/Vein/BuildObjects/Utilities/BO_Fridge_Makeshift.BO_Fridge_Makeshift.Description,,9B03B0FB48202B72F6197B9C068C3A0A,A makeshift fridge that keeps food and drink cold. Has large storage capacity.,Een geïmproviseerde koelkast die eten en drinken koud houdt. Heeft een grote opslagcapaciteit.
 /Game/Vein/BuildObjects/Utilities/BO_Fridge_Makeshift.BO_Fridge_Makeshift.Name,,91D116EC4BA5B4DD886984808D2DE682,Makeshift Fridge,Geïmproviseerde koelkast
 /Game/Vein/BuildObjects/Utilities/BO_GasGenerator.BO_GasGenerator.Description,,8902CC2B42CD4AFCC8B00180BD006DD8,Produces electricity from gasoline.,Produceert elektriciteit uit benzine.
-/Game/Vein/BuildObjects/Utilities/BO_GasGenerator.BO_GasGenerator.Name,,BDE99A2447F326A35FF12BA19C0DEE5A,Gas Generator,Gasgenerator
+/Game/Vein/BuildObjects/Utilities/BO_GasGenerator.BO_GasGenerator.Name,,BDE99A2447F326A35FF12BA19C0DEE5A,Gas Generator,Generator
 /Game/Vein/BuildObjects/Utilities/BO_InsulatedRainCollector.BO_InsulatedRainCollector.Description,,94DB816E4411E200CEA943A57676FC22,"Collects rainwater during rain. Must be placed outside to function properly.
 
 Keeps fluid contents from freezing.","Vangt regenwater op tijdens regen. Moet buiten worden geplaatst om goed te kunnen functioneren.
@@ -830,9 +830,9 @@ Aangedreven door benzine."
 Schematics require half the stat requirements when decoded with this workbench.","Een werkruimte om schema's beter te begrijpen.
  
 Schema's vereisen de helft van de stat-vereisten wanneer ze worden gedecodeerd met deze werkbank."
-/Game/Vein/BuildObjects/Workbenches/BO_SchematicTable.BO_SchematicTable.Name,,99A5A30A4588F2BDAD4B9D84ED0003B7,Schematic Table,Schematische tabel
+/Game/Vein/BuildObjects/Workbenches/BO_SchematicTable.BO_SchematicTable.Name,,99A5A30A4588F2BDAD4B9D84ED0003B7,Schematic Table,Schema Tafel
 /Game/Vein/BuildObjects/Workbenches/BO_Workbench.BO_Workbench.Description,,A67419B446EC2328ADEC2BA1137ECDC5,"A crafting surface, used to build simple things.","Een knutseloppervlak, gebruikt om eenvoudige dingen te bouwen."
-/Game/Vein/BuildObjects/Workbenches/BO_Workbench.BO_Workbench.Name,,C1C808A54F30B6357BFBD38219241395,Standard Workbench,Standaard werkbank
+/Game/Vein/BuildObjects/Workbenches/BO_Workbench.BO_Workbench.Name,,C1C808A54F30B6357BFBD38219241395,Standard Workbench,Standaard Werkbank
 /Game/Vein/BuildObjects/Workbenches/BO_WorkbenchAdvanced.BO_WorkbenchAdvanced.Description,,3A9F9EA8441AEF040E17148C41D148E0,"A crafting surface, used to build advanced things.","Een knutseloppervlak, gebruikt om geavanceerde dingen te bouwen."
 /Game/Vein/BuildObjects/Workbenches/BO_WorkbenchAdvanced.BO_WorkbenchAdvanced.Name,,6B06F4DD4916382C638FC8B3D72780FC,Advanced Workbench,Geavanceerde werkbank
 /Game/Vein/BuildObjects/Workbenches/BO_WorkbenchFabrication.BO_WorkbenchFabrication.Description,,8D08769B419E6DB92E3BB497C4366948,A professional crafting surface.,Een professioneel knutseloppervlak.
