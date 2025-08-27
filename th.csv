@@ -9,72 +9,72 @@ Source Location,Namespace,Key,Original,Translated
 /Game/Epic/Characters/Mannequins/Materials/M_Mannequin.M_Mannequin:MaterialExpressionTextureSampleParameter2D_6.ChannelNames.G,,69257E464C83136D5D7DE28FAEFF56E8,Spec,
 /Game/Epic/Characters/Mannequins/Materials/M_Mannequin.M_Mannequin:MaterialExpressionTextureSampleParameter2D_6.ChannelNames.R,,897A07A048BCF1BB3FB2A1BA93E50F17,Metallic,
 /Game/Vein/Addictions/ADD_Alcohol.ADD_Alcohol.AddictionName,,EB278B624CEEFB7F78BCFBBB81B5AB11,alcohol,เหล้า
-/Game/Vein/Addictions/ADD_Alcohol.ADD_Alcohol.WithdrawalName,,B9F329DF445DE40474A4A58F98EEC43C,alcohol withdrawal,ภาวะติดเหล้า
+/Game/Vein/Addictions/ADD_Alcohol.ADD_Alcohol.WithdrawalName,,B9F329DF445DE40474A4A58F98EEC43C,alcohol withdrawal,ถอนพิษสุรา
 /Game/Vein/Addictions/ADD_Caffeine.ADD_Caffeine.AddictionName,,F2050D4041F716DEBE6BF1A318ABAFB7,caffeine,คาเฟอีน
-/Game/Vein/Addictions/ADD_Caffeine.ADD_Caffeine.WithdrawalName,,7378B37B47CEA6C8484E5DB7048020A4,caffeine withdrawal,การถอนคาเฟอีน
-/Game/Vein/Addictions/ADD_Cocaine.ADD_Cocaine.AddictionName,,2C8F9C394A8D948443707A8F22090D11,cocaine,
-/Game/Vein/Addictions/ADD_Cocaine.ADD_Cocaine.WithdrawalName,,E627DB014D1FCDDBBB9D05915B2DA06D,cocaine withdrawal,
+/Game/Vein/Addictions/ADD_Caffeine.ADD_Caffeine.WithdrawalName,,7378B37B47CEA6C8484E5DB7048020A4,caffeine withdrawal,ถอนพิษคาเฟอีน
+/Game/Vein/Addictions/ADD_Cocaine.ADD_Cocaine.AddictionName,,2C8F9C394A8D948443707A8F22090D11,cocaine,โคเคน
+/Game/Vein/Addictions/ADD_Cocaine.ADD_Cocaine.WithdrawalName,,E627DB014D1FCDDBBB9D05915B2DA06D,cocaine withdrawal,ถอนพิษโคเคน
 /Game/Vein/Addictions/ADD_Nicotine.ADD_Nicotine.AddictionName,,708FAFD146871A114CAACDB666A6EBEE,nicotine,นิโคติน
-/Game/Vein/Addictions/ADD_Nicotine.ADD_Nicotine.WithdrawalName,,8BB6C97A4B47C5AD22B35A9F8AA40A38,nicotine withdrawal,อาการขาดนิโคติน
+/Game/Vein/Addictions/ADD_Nicotine.ADD_Nicotine.WithdrawalName,,8BB6C97A4B47C5AD22B35A9F8AA40A38,nicotine withdrawal,ถอนพิษนิโคติน
 /Game/Vein/Addictions/ADD_Opioid.ADD_Opioid.AddictionName,,949659DA4DD4D6EFEFD437A2E1CFF3E5,opioid,ฝิ่น
-/Game/Vein/Addictions/ADD_Opioid.ADD_Opioid.WithdrawalName,,589A174B402003160B4226852E11A8AC,opioid withdrawal,การถอนฝิ่น
+/Game/Vein/Addictions/ADD_Opioid.ADD_Opioid.WithdrawalName,,589A174B402003160B4226852E11A8AC,opioid withdrawal,ถอนพืษฝิ่น
 /Game/Vein/Animals/BP_Cow.BP_Cow_C:Inventory_GEN_VARIABLE.Name,,4BDD80F0472E631F869C04AA6AAFC52E,Cow,วัว
-/Game/Vein/Animals/BP_Cow.Default__BP_Cow_C.PetAnimalText,Vein,PetCow,You pet the cow.,
+/Game/Vein/Animals/BP_Cow.Default__BP_Cow_C.PetAnimalText,Vein,PetCow,You pet the cow.,คุณลูบวัว
 /Game/Vein/Animals/BP_Cow.Default__BP_Cow_C.UsableName,,37BE359F4B69EEC66AF6FA8F7D34A71A,Cow,วัว
 /Game/Vein/Animals/BP_DeerMale.BP_DeerMale_C:Inventory_GEN_VARIABLE.Name,,FBABE0534F2CAA41A4B0BD9A7C125DCC,Deer,กวาง
-/Game/Vein/Animals/BP_DeerMale.Default__BP_DeerMale_C.PetAnimalText,Vein,PetDeer,You pet the deer.,
+/Game/Vein/Animals/BP_DeerMale.Default__BP_DeerMale_C.PetAnimalText,Vein,PetDeer,You pet the deer.,คุณลูบกวาง
 /Game/Vein/Animals/BP_DeerMale.Default__BP_DeerMale_C.UsableName,,D5212A1E41004CD09CF51993C1A84532,Deer,กวาง
-/Game/Vein/Animals/BP_Fox.BP_Fox_C:Inventory_GEN_VARIABLE.Name,,570A3366417755BB724B5F8C503374E2,Fox,จิ้งจอก
-/Game/Vein/Animals/BP_Fox.Default__BP_Fox_C.PetAnimalText,Vein,PetFox,You pet the fox.,
+/Game/Vein/Animals/BP_Fox.BP_Fox_C:Inventory_GEN_VARIABLE.Name,,570A3366417755BB724B5F8C503374E2,Fox,สุนัขจิ้งจอก
+/Game/Vein/Animals/BP_Fox.Default__BP_Fox_C.PetAnimalText,Vein,PetFox,You pet the fox.,คุณลูบสุนัขจิ้งจอก
 /Game/Vein/Animals/BP_Fox.Default__BP_Fox_C.UsableName,,0D2AD82A4034996FA2D52B872FA07269,Fox,จิ้งจอก
 /Game/Vein/Animals/BP_Pig.BP_Pig_C:Inventory_GEN_VARIABLE.Name,,75BA5B62459E461DDC427DB7332F8353,Pig,หมู
-/Game/Vein/Animals/BP_Pig.Default__BP_Pig_C.PetAnimalText,Vein,PetPig,You pet the pig.,
+/Game/Vein/Animals/BP_Pig.Default__BP_Pig_C.PetAnimalText,Vein,PetPig,You pet the pig.,คุณลูบหมู
 /Game/Vein/Animals/BP_Pig.Default__BP_Pig_C.UsableName,,9D65371C42B05465A0A72C83A2EF605E,Pig,หมู
 /Game/Vein/Animals/BP_Wolf.BP_Wolf_C:Inventory_GEN_VARIABLE.Name,,5D4A002242A158B8B9D170B79943F405,Wolf,หมาป่า
-/Game/Vein/Animals/BP_Wolf.Default__BP_Wolf_C.PetAnimalText,Vein,PetWolf,You pet the wolf.,
+/Game/Vein/Animals/BP_Wolf.Default__BP_Wolf_C.PetAnimalText,Vein,PetWolf,You pet the wolf.,คุณลูบหมาป่า
 /Game/Vein/Animals/BP_Wolf.Default__BP_Wolf_C.UsableName,,1411B9CE4472D4D5FCC9828FFDB3623B,Wolf,หมาป่า
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(0).Flexes.FlexName,,6B4CE6A6429949F3F004B1B9F2EF9208,Wink,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(1).Flexes.FlexName,,BACDEB5F46CCF730A8822F9E6A5126A4,Triumph,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(10).Flexes.FlexName,,E3FE3E1A4101AA7ABA7555A76001FF65,Serious,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(11).Flexes.FlexName,,DCBDEDA74DDD898B243B7782385A6F50,Scream,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(12).Flexes.FlexName,,6E3D67964FF1C18221C634A1243F3942,Sarcastic,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(13).Flexes.FlexName,,D2B1E9E343B500D2EC755B84246D64A6,Sad,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(14).Flexes.FlexName,,63B222F74B9964E4A472C983BE8E25F5,Rage,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(15).Flexes.FlexName,,573E026C46AC86E652B7FB8846D45F2C,Pouty,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(16).Flexes.FlexName,,3762CC0048E71EC626ED65BBF9273552,Pleased,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(17).Flexes.FlexName,,5B36F38F4EC30D3B4599A6AEC17AF5F6,Pain,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(18).Flexes.FlexName,,5FAFC99B488D2B5AE5009DB457797E65,Irritated,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(19).Flexes.FlexName,,63C8D2F34786CCA82B012A8393F05FE4,Incredulous,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(2).Flexes.FlexName,,427ED4374CFA130F737E99B663A46CA6,Tired,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(20).Flexes.FlexName,,A1CE93E845B97F28DEDF14ABEB25E7A8,Ill,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(21).Flexes.FlexName,,E62D474649FFBC4D710F0BB076802EBA,Ignore,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(22).Flexes.FlexName,,E66B99784D8864CEC276D5A385FE34D8,Happy,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(23).Flexes.FlexName,,6A3829C944B9DDAF72EB8FBB07072EC0,Glare,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(24).Flexes.FlexName,,C94DC45B4274514FF0EC93AD070AC58C,Frown,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(25).Flexes.FlexName,,9A56A804441DCAECEBF0EB88C931C600,Flirting,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(26).Flexes.FlexName,,93E103E649BD3AA362B8CF800B4AFDB3,Fierce,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(27).Flexes.FlexName,,6B8E446A48B96CBAACA89488D6F67761,Fear,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(28).Flexes.FlexName,,FC51855440B31A9C952C04892CCA2FE6,Excitement,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(29).Flexes.FlexName,,B9FA73F641563AD8E9A0ABA7880365E5,Drunk,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(3).Flexes.FlexName,,60E49AAC429C627A622A3FA2D018EFFD,Suspicious,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(30).Flexes.FlexName,,D4FBDB6842AEFBDC464B49A9C65D95D0,Disgust,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(31).Flexes.FlexName,,8EF9AF7642FED15BBB9600B05DC4CEF2,Desire,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(32).Flexes.FlexName,,A1CF1D654CD7633F1DCC5C869C5221C5,Contempt,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(33).Flexes.FlexName,,9D86FB174118D65CFEB382B16C1BF242,Confused,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(34).Flexes.FlexName,,4481CA4549E876963209599D696C7B0C,Confident,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(35).Flexes.FlexName,,FE985BE942E1D8DA4BD01BAF10DDA242,Concentrate,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(36).Flexes.FlexName,,1003199642C0A1FB4578EA99E9A794EB,Bored,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(37).Flexes.FlexName,,25B98FE445989E96DA00BEB7F305F274,Bereft,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(38).Flexes.FlexName,,01A56FFA40CBB393D869128C120DBD3B,Angry,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(39).Flexes.FlexName,,B778D5824518D2BB66D3D8A7FCC892F5,Afraid,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(4).Flexes.FlexName,,8869E15D4C6EC2F633D58F8DC5E08AED,Surprised,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(40).Flexes.FlexName,,1513F86D480DD531F70035942B207823,Eye Look Up-Down,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(41).Flexes.FlexName,,9D9C061345E3127E35BCAA9073593337,Eye Look Side-Side,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(5).Flexes.FlexName,,DE8FD42143FEF0A1E3585DA6871D7A65,Snarl,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(6).Flexes.FlexName,,BC2AC1EF4B1B79271A2228A73FB13BF2,Smile Open Full Face,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(7).Flexes.FlexName,,1CBEF0B94AC588FA5F722C8CA6E48732,Smile Full Face,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(8).Flexes.FlexName,,CDB6A8D34C81A2E3BC0633B3802D868F,Silly,
-/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(9).Flexes.FlexName,,816197BB4771898A2AA81D8E12362EFB,Shock,
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(0).Flexes.FlexName,,6B4CE6A6429949F3F004B1B9F2EF9208,Wink,ขยิบตา
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(1).Flexes.FlexName,,BACDEB5F46CCF730A8822F9E6A5126A4,Triumph,ชัยชนะ
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(10).Flexes.FlexName,,E3FE3E1A4101AA7ABA7555A76001FF65,Serious,เคร่งขรึม
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(11).Flexes.FlexName,,DCBDEDA74DDD898B243B7782385A6F50,Scream,กรีดร้อง
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(12).Flexes.FlexName,,6E3D67964FF1C18221C634A1243F3942,Sarcastic,ประชด
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(13).Flexes.FlexName,,D2B1E9E343B500D2EC755B84246D64A6,Sad,เศร้า
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(14).Flexes.FlexName,,63B222F74B9964E4A472C983BE8E25F5,Rage,ความโกรธ
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(15).Flexes.FlexName,,573E026C46AC86E652B7FB8846D45F2C,Pouty,บึ้ง
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(16).Flexes.FlexName,,3762CC0048E71EC626ED65BBF9273552,Pleased,พอใจ
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(17).Flexes.FlexName,,5B36F38F4EC30D3B4599A6AEC17AF5F6,Pain,เจ็บปวด
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(18).Flexes.FlexName,,5FAFC99B488D2B5AE5009DB457797E65,Irritated,เคือง
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(19).Flexes.FlexName,,63C8D2F34786CCA82B012A8393F05FE4,Incredulous,ไม่เชื่อ
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(2).Flexes.FlexName,,427ED4374CFA130F737E99B663A46CA6,Tired,เหนื่อย
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(20).Flexes.FlexName,,A1CE93E845B97F28DEDF14ABEB25E7A8,Ill,ป้วย
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(21).Flexes.FlexName,,E62D474649FFBC4D710F0BB076802EBA,Ignore,ไม่สนใจ
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(22).Flexes.FlexName,,E66B99784D8864CEC276D5A385FE34D8,Happy,ดีใจ
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(23).Flexes.FlexName,,6A3829C944B9DDAF72EB8FBB07072EC0,Glare,จ้อง
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(24).Flexes.FlexName,,C94DC45B4274514FF0EC93AD070AC58C,Frown,ขมวดติ้ว
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(25).Flexes.FlexName,,9A56A804441DCAECEBF0EB88C931C600,Flirting,จีบ
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(26).Flexes.FlexName,,93E103E649BD3AA362B8CF800B4AFDB3,Fierce,ดุดัน
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(27).Flexes.FlexName,,6B8E446A48B96CBAACA89488D6F67761,Fear,กลัว
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(28).Flexes.FlexName,,FC51855440B31A9C952C04892CCA2FE6,Excitement,ความตื่นเต้น
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(29).Flexes.FlexName,,B9FA73F641563AD8E9A0ABA7880365E5,Drunk,เมา
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(3).Flexes.FlexName,,60E49AAC429C627A622A3FA2D018EFFD,Suspicious,สงสัย
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(30).Flexes.FlexName,,D4FBDB6842AEFBDC464B49A9C65D95D0,Disgust,รังเกียจ
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(31).Flexes.FlexName,,8EF9AF7642FED15BBB9600B05DC4CEF2,Desire,ความต้องการ
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(32).Flexes.FlexName,,A1CF1D654CD7633F1DCC5C869C5221C5,Contempt,เหยียดหยาม
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(33).Flexes.FlexName,,9D86FB174118D65CFEB382B16C1BF242,Confused,สับสน
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(34).Flexes.FlexName,,4481CA4549E876963209599D696C7B0C,Confident,มั่นใจ
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(35).Flexes.FlexName,,FE985BE942E1D8DA4BD01BAF10DDA242,Concentrate,จดจ่อ
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(36).Flexes.FlexName,,1003199642C0A1FB4578EA99E9A794EB,Bored,เบื่อหน่าย
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(37).Flexes.FlexName,,25B98FE445989E96DA00BEB7F305F274,Bereft,ขาดหาย
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(38).Flexes.FlexName,,01A56FFA40CBB393D869128C120DBD3B,Angry,โกรธ
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(39).Flexes.FlexName,,B778D5824518D2BB66D3D8A7FCC892F5,Afraid,เกรงกลัว
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(4).Flexes.FlexName,,8869E15D4C6EC2F633D58F8DC5E08AED,Surprised,ประหลาดใจ
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(40).Flexes.FlexName,,1513F86D480DD531F70035942B207823,Eye Look Up-Down,มองบน
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(41).Flexes.FlexName,,9D9C061345E3127E35BCAA9073593337,Eye Look Side-Side,มองข้าง
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(5).Flexes.FlexName,,DE8FD42143FEF0A1E3585DA6871D7A65,Snarl,คำราม
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(6).Flexes.FlexName,,BC2AC1EF4B1B79271A2228A73FB13BF2,Smile Open Full Face,ยื้มหน้าบาน
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(7).Flexes.FlexName,,1CBEF0B94AC588FA5F722C8CA6E48732,Smile Full Face,ยิ้มกว้าง
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(8).Flexes.FlexName,,CDB6A8D34C81A2E3BC0633B3802D868F,Silly,โง่
+/Game/Vein/Animation/ML_Genesis9_Expressions.ML_Genesis9_Expressions.Flexes(9).Flexes.FlexName,,816197BB4771898A2AA81D8E12362EFB,Shock,ตกใจ
 /Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(0).Flexes.FlexName,,8A0A599F40B2BCC1941C878E6BED8115,Nose Whole Width,ความกว้างของจมูกทั้งหมด
 /Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(1).Flexes.FlexName,,629A776047FAAEE9666D4387C457C43F,Nose Whole Size,ขนาดเต็มจมูก
 /Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(10).Flexes.FlexName,,E91AA663426636B237B394978F25DDE2,Nose Bridge Width,ความกว้างของดั้งจมูก
@@ -84,298 +84,298 @@ Source Location,Namespace,Key,Original,Translated
 /Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(14).Flexes.FlexName,,E677362E4C4CB8243FAF1DA33AD1DCDB,Nose Bridge Bump,สันดั้งจมูก
 /Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(15).Flexes.FlexName,,98A6DD45400E882A631E22A39C4D8184,Nose Base Size,ขนาดฐานจมูก
 /Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(16).Flexes.FlexName,,79B801E3413C3F65D7225195681637B0,Nose Base Height,ความสูงของฐานจมูก
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(17).Flexes.FlexName,,03798BC34EB56D85793262B8026CFBE1,Nose Base Angle,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(18).Flexes.FlexName,,75D3997C4EDDB331A566FCA54C919C66,Mouth Width,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(19).Flexes.FlexName,,AE6609E444479E9439D0E999726D9F2B,Mouth Size,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(2).Flexes.FlexName,,96117DFF4715A0C4D5AE01B8B9995CA7,Nose Whole Depth,
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(17).Flexes.FlexName,,03798BC34EB56D85793262B8026CFBE1,Nose Base Angle,มุมฐานจมูก
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(18).Flexes.FlexName,,75D3997C4EDDB331A566FCA54C919C66,Mouth Width,ความกว้างของปาก
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(19).Flexes.FlexName,,AE6609E444479E9439D0E999726D9F2B,Mouth Size,ขนาดของปาก
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(2).Flexes.FlexName,,96117DFF4715A0C4D5AE01B8B9995CA7,Nose Whole Depth,ความลึกของจมูก
 /Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(20).Flexes.FlexName,,ECAA616742C470EE1FAF67947CE36638,Mouth Height,ความสูงของปาก
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(21).Flexes.FlexName,,EDD56D3E41AEF46CF0DDA7A637F517B7,Mouth Depth,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(22).Flexes.FlexName,,1453EF8E44898BC0231DD98EE1A3C194,Lip Width Upper,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(23).Flexes.FlexName,,C10F1A874889733D9DC1A382E38BFBD0,Lip Width Lower,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(24).Flexes.FlexName,,0B6FA6504FEBF48C16F7FFA4A12E2277,Lip Thin,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(25).Flexes.FlexName,,1AD75211404CE8A865304AAC0623DB72,Lip Square,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(26).Flexes.FlexName,,A944C1064A28F6B5BA096AA4BDB8578E,Lip Size Upper,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(27).Flexes.FlexName,,9AB9C83C4252E2FD6E71A3A5A0F81FE0,Lip Size Lower,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(28).Flexes.FlexName,,F5D4160E4A6979FF2B13FF99E6D0BB8B,Lip Heart,ลิปหัวใจ
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(29).Flexes.FlexName,,51CA47974D7AF22037B27BB06626F74B,Lip Depth Upper,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(3).Flexes.FlexName,,FC42A5934723B68F0F078BBBB0B8B012,Nose Tip Width,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(30).Flexes.FlexName,,0012B9F64CBD0B1341F85FAC4B1FBC4D,Lip Depth Lower,ความลึกของริมฝีปากลดลง
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(31).Flexes.FlexName,,5732412F4AD1C05B74781988500A8237,Jaw Whole Width,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(32).Flexes.FlexName,,9A141A844965DA7CEC646C9416DCB0D7,Jaw Whole Size,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(33).Flexes.FlexName,,4FAEE6F04B2339FC9A4240A19FFD49D3,Jaw Whole Sharpen,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(34).Flexes.FlexName,,E84B231E4F2AD7DB842919ABE2B14FB7,Jaw Whole Height,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(35).Flexes.FlexName,,B40BA38B48B0E57E63DC148F8D55C3FC,Forehead Whole Width,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(36).Flexes.FlexName,,CA7618394B9FFCDE41139789741A4B7E,Forehead Whole Thin,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(37).Flexes.FlexName,,02BAE9054658DDD6DD440B84367ADEA4,Forehead Whole Round,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(38).Flexes.FlexName,,393109334A6DFDDBB679C8A454499BE9,Forehead Whole Flat,
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(21).Flexes.FlexName,,EDD56D3E41AEF46CF0DDA7A637F517B7,Mouth Depth,ความลึกของปาก
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(22).Flexes.FlexName,,1453EF8E44898BC0231DD98EE1A3C194,Lip Width Upper,ความกว้างของรืมฝึปากบน
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(23).Flexes.FlexName,,C10F1A874889733D9DC1A382E38BFBD0,Lip Width Lower,ความกว้างของรืมฝึปากล่าง
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(24).Flexes.FlexName,,0B6FA6504FEBF48C16F7FFA4A12E2277,Lip Thin,ริมฝีปากบาง
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(25).Flexes.FlexName,,1AD75211404CE8A865304AAC0623DB72,Lip Square,ริมฝีปากเหลี่ยม
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(26).Flexes.FlexName,,A944C1064A28F6B5BA096AA4BDB8578E,Lip Size Upper,ขนาดของรืมฝีปากบน
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(27).Flexes.FlexName,,9AB9C83C4252E2FD6E71A3A5A0F81FE0,Lip Size Lower,ขนาดของริมฝีปากล่าง
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(28).Flexes.FlexName,,F5D4160E4A6979FF2B13FF99E6D0BB8B,Lip Heart,ริมฝีปากรูปหัวใจ
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(29).Flexes.FlexName,,51CA47974D7AF22037B27BB06626F74B,Lip Depth Upper,ความลึกของริมฝีปากบน
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(3).Flexes.FlexName,,FC42A5934723B68F0F078BBBB0B8B012,Nose Tip Width,ความกว้างปลายจมูก
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(30).Flexes.FlexName,,0012B9F64CBD0B1341F85FAC4B1FBC4D,Lip Depth Lower,ความลึกของริมฝีปากล่าง
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(31).Flexes.FlexName,,5732412F4AD1C05B74781988500A8237,Jaw Whole Width,ความกว้างของขากรรไกร
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(32).Flexes.FlexName,,9A141A844965DA7CEC646C9416DCB0D7,Jaw Whole Size,ขนาดของขากรรไกร
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(33).Flexes.FlexName,,4FAEE6F04B2339FC9A4240A19FFD49D3,Jaw Whole Sharpen,ความแหลมของขากรรไกร
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(34).Flexes.FlexName,,E84B231E4F2AD7DB842919ABE2B14FB7,Jaw Whole Height,ความสูงของขากรรไกร
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(35).Flexes.FlexName,,B40BA38B48B0E57E63DC148F8D55C3FC,Forehead Whole Width,ความกว้างของหน้าผาก
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(36).Flexes.FlexName,,CA7618394B9FFCDE41139789741A4B7E,Forehead Whole Thin,ความบางของหน้าผาก
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(37).Flexes.FlexName,,02BAE9054658DDD6DD440B84367ADEA4,Forehead Whole Round,ความกลมของหน้าผาก
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(38).Flexes.FlexName,,393109334A6DFDDBB679C8A454499BE9,Forehead Whole Flat,ความแบนของหน้าผาก
 /Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(39).Flexes.FlexName,,ACADFC9146B3B5D59AA4A5BEA07A22EF,Face Young,หน้าเด็ก
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(4).Flexes.FlexName,,F5B0865C4809201EF50E4AB4F45FF56D,Nose Tip Size,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(40).Flexes.FlexName,,7F794CAA44E644005AFF18A2736CA325,Face Square,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(41).Flexes.FlexName,,8F84FD53442774054F458096C6B68A3B,Face Size,ขนาดใบหน้า
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(42).Flexes.FlexName,,5541B2284350133C50F652A658F7917C,Face Round,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(43).Flexes.FlexName,,2E3F4C82477ED0BBB45CEEB645AA5EC3,Face Older,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(44).Flexes.FlexName,,9532027B487A82574DE089995CB5A8A3,Face Heart,ใบหน้าหัวใจ
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(45).Flexes.FlexName,,5464BDC34A9371352DB526AB13EEEC03,Face Flat,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(46).Flexes.FlexName,,D9C4B8F64968EE748311359B9B837551,Face Depth,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(47).Flexes.FlexName,,B66738634EC641AC00ABDD81FCD9BB82,Face Center Depth,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(48).Flexes.FlexName,,709DEF4D47175AD7BD249682558BD3F3,Face Angle,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(49).Flexes.FlexName,,E4E1C78C41C2CEC1A3B477A594E1D2D7,Eye Whole Width,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(5).Flexes.FlexName,,6EFF97C64FF69F51AAB6AD901256A37B,Nose Tip Height,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(50).Flexes.FlexName,,6A39A4074875B6511A23ABB46D025CC7,Eye Whole Size,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(51).Flexes.FlexName,,5386F394454F2DC6342B2799039204CA,Eye Whole Height,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(52).Flexes.FlexName,,3B22033B472B4151E388E7B5C059BFD2,Eye Whole Depth,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(53).Flexes.FlexName,,1E12E4C24241D6E02931BD872E76B2CB,Eye Whole Angle,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(54).Flexes.FlexName,,B749C4184E9EEA7F321BD88152E82769,Eyelid Angle Upper Outer,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(55).Flexes.FlexName,,18EFE3D242CFFC6377419A998A39FD04,Eyelid Angle Lower Outer,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(56).Flexes.FlexName,,E941164149E694CF34D1E1963C2CED62,Eye Angle Outer,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(57).Flexes.FlexName,,9B6E67DA48DEA4558F618F8CA80F92E2,Eye Angle Inner,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(58).Flexes.FlexName,,BE13995142274AE35B48FABCDBEB8381,Eye Almond Outer,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(59).Flexes.FlexName,,86A722D84EC0FE3174308A95DBF21629,Eye Almond Inner,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(6).Flexes.FlexName,,E8C89A3F42BBFCFBF92DA59259EC150F,Nose Tip Depth,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(60).Flexes.FlexName,,EED16A59458B1489C5DF9BA8B00FAE34,Chin Width,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(61).Flexes.FlexName,,BEB3E1B84DE4F7648BC315B4D89D26B7,Chin Height,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(62).Flexes.FlexName,,28D3A6CE478B9B72F6143DA9E30E9A33,Chin Depth,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(63).Flexes.FlexName,,02DD675C4143A53A2EA2A39063B8886E,Chin Cleft,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(64).Flexes.FlexName,,650904644697540D0E6B3385A4C1424E,Cheek Size,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(65).Flexes.FlexName,,E079416F492C221A35D62ABC43E70138,Cheekbone Thin,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(66).Flexes.FlexName,,421B1A1045A7E8B9F7439C82CBCD3BAA,Cheekbone Size,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(67).Flexes.FlexName,,C5C6DB114AB6930E401EA3A0E5E4B4B3,Brow Whole Width,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(68).Flexes.FlexName,,1A82FF0E434B3D86B0B0ECBA02DD7A2E,Brow Whole Size,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(69).Flexes.FlexName,,3AC0154C4AF664321033E3AF10CE6403,Brow Whole Height,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(7).Flexes.FlexName,,717AD0F14130C6A1B43B50B552E2C034,Nose Septum Width,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(8).Flexes.FlexName,,80C1AB354DB55A2D124CE0B875BF7EA5,Nose Septum Height,
-/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(9).Flexes.FlexName,,F0381B0C404C76EAA4636393829CBE77,Nose Septum Depth,
-/Game/Vein/Appliances/BP_AdvancedCharcoalKiln.BP_AdvancedCharcoalKiln_C:Furniture_GEN_VARIABLE.UsableName,,48C50E5A4C322563444BE1A973D0DE32,Advanced Charcoal Kiln,
-/Game/Vein/Appliances/BP_AdvancedCharcoalKiln.BP_AdvancedCharcoalKiln_C:Heat Converter_GEN_VARIABLE.UsableName,,3B5D456642D8F8922853F0AE15E82F3B,Advanced Charcoal Kiln,
-/Game/Vein/Appliances/BP_AdvancedCharcoalKiln.BP_AdvancedCharcoalKiln_C:Inventory_GEN_VARIABLE.Name,,0D5FD13F4104DF218C1E7C88DE893861,Advanced Charcoal Kiln,
-/Game/Vein/Appliances/BP_AnimatedBodyBag.BP_AnimatedBodyBag_C:Furniture_GEN_VARIABLE.UsableName,,46A028A84EEC309AA50CAF9FC4191CA2,Body Bag,
-/Game/Vein/Appliances/BP_AnimatedBodyBag.Default__BP_AnimatedBodyBag_C.UsableName,,EF3177E147486FA6D850108E6B2AD24E,Body Bag,
-/Game/Vein/Appliances/BP_ArcadeCabinet01.BP_ArcadeCabinet01_C:Furniture_GEN_VARIABLE.UsableName,,001A7A4346F56EFEB8D8E9A0303165A8,Arcade Cabinet (Work in Progress),
-/Game/Vein/Appliances/BP_ArcadeCabinet01.BP_ArcadeCabinet01_C:Wireable_GEN_VARIABLE.UsableName,,98E82D094BACDFD907CEFE86314F3A05,Arcade Cabinet,
-/Game/Vein/Appliances/BP_ATM.BP_ATM_C:Furniture_GEN_VARIABLE.UsableName,,8186F359498C9041502FC1A5FD1D7E08,ATM,
-/Game/Vein/Appliances/BP_ATM.BP_ATM_C:Wireable_GEN_VARIABLE.UsableName,,CE1C394B40E6E2076704768884EEDD71,ATM,
-/Game/Vein/Appliances/BP_BarCounter02_Taps.BP_BarCounter02_Taps_C:Furniture_GEN_VARIABLE.UsableName,,DA998CED4EC0436072148A99C8BE06C3,Short Bar Counter w/ Taps,
-/Game/Vein/Appliances/BP_BarCounter02_Taps.BP_BarCounter02_Taps_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,4A046EE84C7CE621BEAE4F9D01181519,Empty Keg,
-/Game/Vein/Appliances/BP_BarCounter02_Taps.BP_BarCounter02_Taps_C:WaterSource_GEN_VARIABLE.DrinkStoredNotification,,F9011A4B44950929BD0B17A37579E5B6,You drink from the nozzle.,
-/Game/Vein/Appliances/BP_BarCounter02_Taps.BP_BarCounter02_Taps_C:WaterSource_GEN_VARIABLE.Label,,AA57023A450339BD67EBEA80FAE88521,Beer Taps,
-/Game/Vein/Appliances/BP_BathroomCounterSink.BP_BathroomCounterSink_C:Furniture_GEN_VARIABLE.UsableName,,E89C81D846161BDCAC2BD5AEBC0443B1,Bathroom Sink,
-/Game/Vein/Appliances/BP_BathroomCounterSink.BP_BathroomCounterSink_C:WaterSource_GEN_VARIABLE.DrainNotificationText,,59FB1718468A97CFB3FECDA017EBD841,You drain the sink.,
-/Game/Vein/Appliances/BP_BathroomCounterSink.BP_BathroomCounterSink_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,0C0C89F449AA04DE668093AC524B4AF1,Drain Sink,
-/Game/Vein/Appliances/BP_BathroomCounterSink.BP_BathroomCounterSink_C:WaterSource_GEN_VARIABLE.DrinkStoredNotification,,4FECB2F44D0FB9022C52A1B56841A35E,You drink some of the water in the sink.,
-/Game/Vein/Appliances/BP_BathroomCounterSink.BP_BathroomCounterSink_C:WaterSource_GEN_VARIABLE.Label,,E13B53504F19C5BF7E5246941DC9DFC0,Bathroom Sink,
-/Game/Vein/Appliances/BP_BathroomCounterSink.BP_BathroomCounterSink_C:WaterSource_GEN_VARIABLE.StoreNotificationText,,F91E5EEF4B7BE844076C088D2F69209B,You fill the sink full of water.,
-/Game/Vein/Appliances/BP_BathroomCounterSink.BP_BathroomCounterSink_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,A86F8DB7489384E797701D9A05DF2A94,Fill Sink,
-/Game/Vein/Appliances/BP_BathroomSink01.BP_BathroomSink01_C:Furniture_GEN_VARIABLE.UsableName,,5802E85646ABDC59272F22AA9A8F9E83,Sink,
-/Game/Vein/Appliances/BP_BathroomSink01.BP_BathroomSink01_C:WaterSource_GEN_VARIABLE.DrainNotificationText,,6861A9CF4A991F65873B5C8B5E8257C0,You drain the sink.,
-/Game/Vein/Appliances/BP_BathroomSink01.BP_BathroomSink01_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,9159E850450959E690D39B92E44D25E8,Drain Sink,
-/Game/Vein/Appliances/BP_BathroomSink01.BP_BathroomSink01_C:WaterSource_GEN_VARIABLE.DrinkStoredNotification,,29B543894B38405C0660BB825AC673BA,You drink some of the water sitting in the sink.,
-/Game/Vein/Appliances/BP_BathroomSink01.BP_BathroomSink01_C:WaterSource_GEN_VARIABLE.Label,,2189581448A19A24A6B9598288A6DF26,Sink,
-/Game/Vein/Appliances/BP_BathroomSink01.BP_BathroomSink01_C:WaterSource_GEN_VARIABLE.StoreNotificationText,,74F15E5C428C5CCC49D2C48763F67788,You fill the sink full of water.,
-/Game/Vein/Appliances/BP_BathroomSink01.BP_BathroomSink01_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,C81ED1FD4F3184579FBBACADB217AC19,Fill Sink,
-/Game/Vein/Appliances/BP_BathroomSink02.BP_BathroomSink02_C:Furniture_GEN_VARIABLE.UsableName,,572E98B04C0C86B8EA12F997CA0740D1,Bathroom Sink,
-/Game/Vein/Appliances/BP_BathroomSink02.BP_BathroomSink02_C:WaterSource_GEN_VARIABLE.DrainNotificationText,,F1C3CAEF46E18B1B9103C6BCB2C341EE,You drain the sink.,
-/Game/Vein/Appliances/BP_BathroomSink02.BP_BathroomSink02_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,2CCFD6194BEE88D2C15D7CB43DA79E2C,Drain Sink,
-/Game/Vein/Appliances/BP_BathroomSink02.BP_BathroomSink02_C:WaterSource_GEN_VARIABLE.DrinkStoredNotification,,B0EECD0F423B013B1B31488A8AC09E30,You drink some of the water sitting in the sink.,
-/Game/Vein/Appliances/BP_BathroomSink02.BP_BathroomSink02_C:WaterSource_GEN_VARIABLE.Label,,25E0994245FDA87FADFE3EB6F1BD560A,Sink,
-/Game/Vein/Appliances/BP_BathroomSink02.BP_BathroomSink02_C:WaterSource_GEN_VARIABLE.StoreNotificationText,,FD55895C4F852077F07192B52FF5569A,You fill the sink full of water.,
-/Game/Vein/Appliances/BP_BathroomSink02.BP_BathroomSink02_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,1BBF5443420A62DA053A5CAD31D0B073,Fill Sink,
-/Game/Vein/Appliances/BP_Blinds.Default__BP_Blinds_C:Mesh Swap.Settings(0).Settings.UseSetting,,CC8B4C6243BF3C8A77A3268D16E3D6D9,Up,
-/Game/Vein/Appliances/BP_Blinds.Default__BP_Blinds_C:Mesh Swap.Settings(3).Settings.UseSetting,,FC9874BA44CD82962FBCAB9468505432,Down,
-/Game/Vein/Appliances/BP_Blinds.Default__BP_Blinds_C:Mesh Swap.UsableName,,46F84A654DF15FC5AEFAF2B67B8DBA8D,Blinds,
-/Game/Vein/Appliances/BP_Blinds_Double.Default__BP_Blinds_Double_C:Mesh Swap.Settings(0).Settings.UseSetting,,23E34E19456129651DFB11B0805F8194,Open,
-/Game/Vein/Appliances/BP_Blinds_Double.Default__BP_Blinds_Double_C:Mesh Swap.Settings(1).Settings.UseSetting,,412B696C42A40E8B60DA8E8363DCD913,Closed,
-/Game/Vein/Appliances/BP_Blinds_Double.Default__BP_Blinds_Double_C:Mesh Swap.Settings(2).Settings.UseSetting,,A079F5D74836494436E1649734590A10,Parted,
-/Game/Vein/Appliances/BP_BlindsComponent.Default__BP_BlindsComponent_C.Settings(0).Settings.UseSetting,,2305BB224A5B3A916111789EB7F47749,Up,
-/Game/Vein/Appliances/BP_BlindsComponent.Default__BP_BlindsComponent_C.Settings(3).Settings.UseSetting,,0C0458F84F7952959BCDA7BA9682AC3C,Down,
-/Game/Vein/Appliances/BP_BlindsComponent.Default__BP_BlindsComponent_C.UsableName,,1484253A408642C5857622A32A7E873A,Blinds,
-/Game/Vein/Appliances/BP_Campfire.BP_Campfire_C:Furniture_GEN_VARIABLE.UsableName,,6421973948E0C9FE3D472D9EA08E6880,Campfire,
-/Game/Vein/Appliances/BP_Campfire.Default__BP_Campfire_C.UsableName,,E50A3FAE463E381E4185D69B488D9C1C,Campfire,
-/Game/Vein/Appliances/BP_Campfire.Default__BP_Campfire_C.UsableOptionName,,DC4020A14E93E7EC47B9F1ADD4271E8B,Use,
-/Game/Vein/Appliances/BP_Campfire.Default__BP_Campfire_C:Workbench.UsableName,,23C42EAA480D0130068783A52E4063F8,Campfire,
-/Game/Vein/Appliances/BP_CandyMachine01.BP_CandyMachine01_C:Furniture_GEN_VARIABLE.UsableName,,127CC7F24D15A7DB77097CAF5538372E,Candy Machine,
-/Game/Vein/Appliances/BP_CandyMachine01.BP_CandyMachine01_C:VendingMachineButton1_GEN_VARIABLE.Subtitle,,D7744C244F85E22549BE088F22DE0B11,Candy,
-/Game/Vein/Appliances/BP_CandyMachine01.BP_CandyMachine01_C:VendingMachineButton2_GEN_VARIABLE.Subtitle,,B14B37D44D9EFBA8F1FED786DA76243E,Candy,
-/Game/Vein/Appliances/BP_CandyMachine01.BP_CandyMachine01_C:VendingMachineButton3_GEN_VARIABLE.Subtitle,,249A80E4456A83BAD710E1A22E07C750,Capsule,
-/Game/Vein/Appliances/BP_CandyMachine01.BP_CandyMachine01_C:VendingMachineButton_GEN_VARIABLE.Subtitle,,1DAF4DB441BAD8C83CB640933064FD7B,Candy,
-/Game/Vein/Appliances/BP_CharcoalKiln.BP_CharcoalKiln_C:Furniture_GEN_VARIABLE.UsableName,,60CBFD7D4F3ABB79EC65C69CE96BAF7D,Makeshift Charcoal Kiln,
-/Game/Vein/Appliances/BP_CharcoalKiln.BP_CharcoalKiln_C:Heat Converter_GEN_VARIABLE.UsableName,,937854854D47561DE5AB2F851052BE0B,Makeshift Charcoal Kiln,
-/Game/Vein/Appliances/BP_CharcoalKiln.BP_CharcoalKiln_C:Inventory_GEN_VARIABLE.Name,,73C453334125997701107689FBA4C802,Makeshift Charcoal Kiln,
-/Game/Vein/Appliances/BP_Chemistry_Counter01_Sink.BP_Chemistry_Counter01_Sink_C:Furniture_GEN_VARIABLE.UsableName,,67DADC0A4F2B27D707C437B17975672B,L-Shaped Chemistry Counter w/ Sink,
-/Game/Vein/Appliances/BP_Chemistry_Counter01_Sink.BP_Chemistry_Counter01_Sink_C:WaterSource_GEN_VARIABLE.DrainNotificationText,,9D61560448485BF098C715915EED5C53,You drain the sink.,
-/Game/Vein/Appliances/BP_Chemistry_Counter01_Sink.BP_Chemistry_Counter01_Sink_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,53954C1C43D1F5F5BF33BD903C21A3F4,Drain Sink,
-/Game/Vein/Appliances/BP_Chemistry_Counter01_Sink.BP_Chemistry_Counter01_Sink_C:WaterSource_GEN_VARIABLE.Label,,5CE5FECC434776E7220DEA9BBDFB1918,Sink,
-/Game/Vein/Appliances/BP_Chemistry_Counter01_Sink.BP_Chemistry_Counter01_Sink_C:WaterSource_GEN_VARIABLE.StoreNotificationText,,BD44273C46463081FBC57C9197B9310E,You fill the sink.,
-/Game/Vein/Appliances/BP_Chemistry_Counter01_Sink.BP_Chemistry_Counter01_Sink_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,48A819784A98C1E71417A79B939F73DB,Fill Sink,
-/Game/Vein/Appliances/BP_CoffeeMachine01.BP_CoffeeMachine01_C:Furniture_GEN_VARIABLE.UsableName,,65F1BA474B673C3AAF7675A979562222,Coffee Machine,
-/Game/Vein/Appliances/BP_CoffeeMachine01.BP_CoffeeMachine01_C:WaterSource_GEN_VARIABLE.Label,,C9F4A75A4EB42C626655BB95D52AEDAC,Coffee Machine,
-/Game/Vein/Appliances/BP_CoffeeMachine01.BP_CoffeeMachine01_C:Wireable_GEN_VARIABLE.UsableName,,7567E3584DA6F64954D600856C0C6B96,Coffee Machine,
-/Game/Vein/Appliances/BP_CoffeeMachine02.BP_CoffeeMachine02_C:Furniture_GEN_VARIABLE.UsableName,,1DEF5B1F43BE875E33422E906A8CDC2C,Drip Coffee Machine,
-/Game/Vein/Appliances/BP_CoffeeMachine02.BP_CoffeeMachine02_C:Wireable_GEN_VARIABLE.UsableName,,AE9D513D4C592F2BF5ABCAA3E0DEC362,Coffee Machine,
-/Game/Vein/Appliances/BP_CoffeeMachine02.BP_CoffeeMachine02_C:Workbench_GEN_VARIABLE.UsableName,,BBE9C7874937C40EB7C73C816B14CF3B,Drip Coffee Machine,
-/Game/Vein/Appliances/BP_CoinMachine01.BP_CoinMachine01_C:Furniture_GEN_VARIABLE.UsableName,,505A876142D0DAF60B39B2AEAA407AED,Coin Machine (Work in Progress),
-/Game/Vein/Appliances/BP_CoinMachine01.BP_CoinMachine01_C:Wireable_GEN_VARIABLE.UsableName,,5443B5CF48E4D43F019E728B801F9D16,Coin Machine,
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(4).Flexes.FlexName,,F5B0865C4809201EF50E4AB4F45FF56D,Nose Tip Size,ขนาดของปลายจมูก
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(40).Flexes.FlexName,,7F794CAA44E644005AFF18A2736CA325,Face Square,หน้าเหลี่ยม
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(41).Flexes.FlexName,,8F84FD53442774054F458096C6B68A3B,Face Size,ขนาดของใบหน้า
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(42).Flexes.FlexName,,5541B2284350133C50F652A658F7917C,Face Round,หน้ากลม
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(43).Flexes.FlexName,,2E3F4C82477ED0BBB45CEEB645AA5EC3,Face Older,หน้าแก่
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(44).Flexes.FlexName,,9532027B487A82574DE089995CB5A8A3,Face Heart,หน้ารูปหัวใจ
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(45).Flexes.FlexName,,5464BDC34A9371352DB526AB13EEEC03,Face Flat,หน้าแบน
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(46).Flexes.FlexName,,D9C4B8F64968EE748311359B9B837551,Face Depth,ความลึกของใบหน้า
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(47).Flexes.FlexName,,B66738634EC641AC00ABDD81FCD9BB82,Face Center Depth,ความลึกของศูนย์กลางใบหน้า
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(48).Flexes.FlexName,,709DEF4D47175AD7BD249682558BD3F3,Face Angle,มุมหน้า
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(49).Flexes.FlexName,,E4E1C78C41C2CEC1A3B477A594E1D2D7,Eye Whole Width,ความกว้างของตา
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(5).Flexes.FlexName,,6EFF97C64FF69F51AAB6AD901256A37B,Nose Tip Height,ความสูงของปลายจมูก
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(50).Flexes.FlexName,,6A39A4074875B6511A23ABB46D025CC7,Eye Whole Size,ขนาดของดวงตา
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(51).Flexes.FlexName,,5386F394454F2DC6342B2799039204CA,Eye Whole Height,ความสูงของตา
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(52).Flexes.FlexName,,3B22033B472B4151E388E7B5C059BFD2,Eye Whole Depth,ความลึกของตา
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(53).Flexes.FlexName,,1E12E4C24241D6E02931BD872E76B2CB,Eye Whole Angle,มุมของดวงตา
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(54).Flexes.FlexName,,B749C4184E9EEA7F321BD88152E82769,Eyelid Angle Upper Outer,มุมเปลือกตาบนด้านนอก
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(55).Flexes.FlexName,,18EFE3D242CFFC6377419A998A39FD04,Eyelid Angle Lower Outer,มุมเปลือกตาล่างด้านนอก
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(56).Flexes.FlexName,,E941164149E694CF34D1E1963C2CED62,Eye Angle Outer,มุมตาด้านนอก
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(57).Flexes.FlexName,,9B6E67DA48DEA4558F618F8CA80F92E2,Eye Angle Inner,มุมตาด้านใน
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(58).Flexes.FlexName,,BE13995142274AE35B48FABCDBEB8381,Eye Almond Outer,ตาอัลมอนด์ด้านนอก
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(59).Flexes.FlexName,,86A722D84EC0FE3174308A95DBF21629,Eye Almond Inner,ตาอัลมอนด์ด้านใน
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(6).Flexes.FlexName,,E8C89A3F42BBFCFBF92DA59259EC150F,Nose Tip Depth,ความลึกของปลายจมูก
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(60).Flexes.FlexName,,EED16A59458B1489C5DF9BA8B00FAE34,Chin Width,ความกว้างของคาง
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(61).Flexes.FlexName,,BEB3E1B84DE4F7648BC315B4D89D26B7,Chin Height,ความสูงของคาง
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(62).Flexes.FlexName,,28D3A6CE478B9B72F6143DA9E30E9A33,Chin Depth,ความลึกของคาง
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(63).Flexes.FlexName,,02DD675C4143A53A2EA2A39063B8886E,Chin Cleft,คางแยก
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(64).Flexes.FlexName,,650904644697540D0E6B3385A4C1424E,Cheek Size,ขนาดของแก้ม
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(65).Flexes.FlexName,,E079416F492C221A35D62ABC43E70138,Cheekbone Thin,โหนกแก้มบาง
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(66).Flexes.FlexName,,421B1A1045A7E8B9F7439C82CBCD3BAA,Cheekbone Size,ขนาดของโหนกแก้ม
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(67).Flexes.FlexName,,C5C6DB114AB6930E401EA3A0E5E4B4B3,Brow Whole Width,ความกว้างของคิ้ว
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(68).Flexes.FlexName,,1A82FF0E434B3D86B0B0ECBA02DD7A2E,Brow Whole Size,ขนาดของคิ้ว
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(69).Flexes.FlexName,,3AC0154C4AF664321033E3AF10CE6403,Brow Whole Height,ความสูงของคิ้ว
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(7).Flexes.FlexName,,717AD0F14130C6A1B43B50B552E2C034,Nose Septum Width,ความกว้างของผนังกั้นจมูก
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(8).Flexes.FlexName,,80C1AB354DB55A2D124CE0B875BF7EA5,Nose Septum Height,ความสูงของผนังกั้นจมูก
+/Game/Vein/Animation/ML_Genesis9_Face.ML_Genesis9_Face.Flexes(9).Flexes.FlexName,,F0381B0C404C76EAA4636393829CBE77,Nose Septum Depth,ความลึกของผนังกั้นจมูก
+/Game/Vein/Appliances/BP_AdvancedCharcoalKiln.BP_AdvancedCharcoalKiln_C:Furniture_GEN_VARIABLE.UsableName,,48C50E5A4C322563444BE1A973D0DE32,Advanced Charcoal Kiln,เตาเผาถ่านขั้นสูง
+/Game/Vein/Appliances/BP_AdvancedCharcoalKiln.BP_AdvancedCharcoalKiln_C:Heat Converter_GEN_VARIABLE.UsableName,,3B5D456642D8F8922853F0AE15E82F3B,Advanced Charcoal Kiln,เตาเผาถ่านขั้นสูง
+/Game/Vein/Appliances/BP_AdvancedCharcoalKiln.BP_AdvancedCharcoalKiln_C:Inventory_GEN_VARIABLE.Name,,0D5FD13F4104DF218C1E7C88DE893861,Advanced Charcoal Kiln,เตาเผาถ่านขั้นสูง
+/Game/Vein/Appliances/BP_AnimatedBodyBag.BP_AnimatedBodyBag_C:Furniture_GEN_VARIABLE.UsableName,,46A028A84EEC309AA50CAF9FC4191CA2,Body Bag,ถูงใส่ศพ
+/Game/Vein/Appliances/BP_AnimatedBodyBag.Default__BP_AnimatedBodyBag_C.UsableName,,EF3177E147486FA6D850108E6B2AD24E,Body Bag,ถูงใส่ศพ
+/Game/Vein/Appliances/BP_ArcadeCabinet01.BP_ArcadeCabinet01_C:Furniture_GEN_VARIABLE.UsableName,,001A7A4346F56EFEB8D8E9A0303165A8,Arcade Cabinet (Work in Progress),ตู้เกมอาเขต (ยังไม่แล้วเสร็จ)
+/Game/Vein/Appliances/BP_ArcadeCabinet01.BP_ArcadeCabinet01_C:Wireable_GEN_VARIABLE.UsableName,,98E82D094BACDFD907CEFE86314F3A05,Arcade Cabinet,ตู้เกมอาเขต
+/Game/Vein/Appliances/BP_ATM.BP_ATM_C:Furniture_GEN_VARIABLE.UsableName,,8186F359498C9041502FC1A5FD1D7E08,ATM,เอทีเอ็ม
+/Game/Vein/Appliances/BP_ATM.BP_ATM_C:Wireable_GEN_VARIABLE.UsableName,,CE1C394B40E6E2076704768884EEDD71,ATM,เอทีเอ็ม
+/Game/Vein/Appliances/BP_BarCounter02_Taps.BP_BarCounter02_Taps_C:Furniture_GEN_VARIABLE.UsableName,,DA998CED4EC0436072148A99C8BE06C3,Short Bar Counter w/ Taps,เคาน์เตอร์บาร์สั้นพร้อมก๊อก
+/Game/Vein/Appliances/BP_BarCounter02_Taps.BP_BarCounter02_Taps_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,4A046EE84C7CE621BEAE4F9D01181519,Empty Keg,ถังเปล่า
+/Game/Vein/Appliances/BP_BarCounter02_Taps.BP_BarCounter02_Taps_C:WaterSource_GEN_VARIABLE.DrinkStoredNotification,,F9011A4B44950929BD0B17A37579E5B6,You drink from the nozzle.,คุณดื่มจากหัวฉีด
+/Game/Vein/Appliances/BP_BarCounter02_Taps.BP_BarCounter02_Taps_C:WaterSource_GEN_VARIABLE.Label,,AA57023A450339BD67EBEA80FAE88521,Beer Taps,ก๊อกเบียร์
+/Game/Vein/Appliances/BP_BathroomCounterSink.BP_BathroomCounterSink_C:Furniture_GEN_VARIABLE.UsableName,,E89C81D846161BDCAC2BD5AEBC0443B1,Bathroom Sink,อ่างล้างหน้า
+/Game/Vein/Appliances/BP_BathroomCounterSink.BP_BathroomCounterSink_C:WaterSource_GEN_VARIABLE.DrainNotificationText,,59FB1718468A97CFB3FECDA017EBD841,You drain the sink.,คุณสูบน้ำออกจากอ่าง
+/Game/Vein/Appliances/BP_BathroomCounterSink.BP_BathroomCounterSink_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,0C0C89F449AA04DE668093AC524B4AF1,Drain Sink,สูบน้ำจากอ่าง
+/Game/Vein/Appliances/BP_BathroomCounterSink.BP_BathroomCounterSink_C:WaterSource_GEN_VARIABLE.DrinkStoredNotification,,4FECB2F44D0FB9022C52A1B56841A35E,You drink some of the water in the sink.,คุณดื่มน้ำในอ่างล้างจาน
+/Game/Vein/Appliances/BP_BathroomCounterSink.BP_BathroomCounterSink_C:WaterSource_GEN_VARIABLE.Label,,E13B53504F19C5BF7E5246941DC9DFC0,Bathroom Sink,อ้างล่างหน้า
+/Game/Vein/Appliances/BP_BathroomCounterSink.BP_BathroomCounterSink_C:WaterSource_GEN_VARIABLE.StoreNotificationText,,F91E5EEF4B7BE844076C088D2F69209B,You fill the sink full of water.,คุณเติมน้ำจนเต็มอ่าง
+/Game/Vein/Appliances/BP_BathroomCounterSink.BP_BathroomCounterSink_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,A86F8DB7489384E797701D9A05DF2A94,Fill Sink,เติมน้ำใส่อ่าง
+/Game/Vein/Appliances/BP_BathroomSink01.BP_BathroomSink01_C:Furniture_GEN_VARIABLE.UsableName,,5802E85646ABDC59272F22AA9A8F9E83,Sink,อ่าง
+/Game/Vein/Appliances/BP_BathroomSink01.BP_BathroomSink01_C:WaterSource_GEN_VARIABLE.DrainNotificationText,,6861A9CF4A991F65873B5C8B5E8257C0,You drain the sink.,คุณสูบน้ำออกจากอ่าง
+/Game/Vein/Appliances/BP_BathroomSink01.BP_BathroomSink01_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,9159E850450959E690D39B92E44D25E8,Drain Sink,สูบน้ำจากอ่าง
+/Game/Vein/Appliances/BP_BathroomSink01.BP_BathroomSink01_C:WaterSource_GEN_VARIABLE.DrinkStoredNotification,,29B543894B38405C0660BB825AC673BA,You drink some of the water sitting in the sink.,คุณดื่มน้ำในอ่าง
+/Game/Vein/Appliances/BP_BathroomSink01.BP_BathroomSink01_C:WaterSource_GEN_VARIABLE.Label,,2189581448A19A24A6B9598288A6DF26,Sink,อ่าง
+/Game/Vein/Appliances/BP_BathroomSink01.BP_BathroomSink01_C:WaterSource_GEN_VARIABLE.StoreNotificationText,,74F15E5C428C5CCC49D2C48763F67788,You fill the sink full of water.,คุณเติมน้ำจนเต็มอ่าง
+/Game/Vein/Appliances/BP_BathroomSink01.BP_BathroomSink01_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,C81ED1FD4F3184579FBBACADB217AC19,Fill Sink,เติมน้ำใส่อ่าง
+/Game/Vein/Appliances/BP_BathroomSink02.BP_BathroomSink02_C:Furniture_GEN_VARIABLE.UsableName,,572E98B04C0C86B8EA12F997CA0740D1,Bathroom Sink,อ่างล้างหน้า
+/Game/Vein/Appliances/BP_BathroomSink02.BP_BathroomSink02_C:WaterSource_GEN_VARIABLE.DrainNotificationText,,F1C3CAEF46E18B1B9103C6BCB2C341EE,You drain the sink.,คุณสูบน้ำออกจากอ่าง
+/Game/Vein/Appliances/BP_BathroomSink02.BP_BathroomSink02_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,2CCFD6194BEE88D2C15D7CB43DA79E2C,Drain Sink,สูบน้ำจากอ่าง
+/Game/Vein/Appliances/BP_BathroomSink02.BP_BathroomSink02_C:WaterSource_GEN_VARIABLE.DrinkStoredNotification,,B0EECD0F423B013B1B31488A8AC09E30,You drink some of the water sitting in the sink.,คุณดื่มน้ำในอ่าง
+/Game/Vein/Appliances/BP_BathroomSink02.BP_BathroomSink02_C:WaterSource_GEN_VARIABLE.Label,,25E0994245FDA87FADFE3EB6F1BD560A,Sink,อ่าง
+/Game/Vein/Appliances/BP_BathroomSink02.BP_BathroomSink02_C:WaterSource_GEN_VARIABLE.StoreNotificationText,,FD55895C4F852077F07192B52FF5569A,You fill the sink full of water.,คุณเติมน้ำจนเต็มอ่าง
+/Game/Vein/Appliances/BP_BathroomSink02.BP_BathroomSink02_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,1BBF5443420A62DA053A5CAD31D0B073,Fill Sink,เติมน้ำใส่อ่าง
+/Game/Vein/Appliances/BP_Blinds.Default__BP_Blinds_C:Mesh Swap.Settings(0).Settings.UseSetting,,CC8B4C6243BF3C8A77A3268D16E3D6D9,Up,บน
+/Game/Vein/Appliances/BP_Blinds.Default__BP_Blinds_C:Mesh Swap.Settings(3).Settings.UseSetting,,FC9874BA44CD82962FBCAB9468505432,Down,ล่าง
+/Game/Vein/Appliances/BP_Blinds.Default__BP_Blinds_C:Mesh Swap.UsableName,,46F84A654DF15FC5AEFAF2B67B8DBA8D,Blinds,มู่ลี่
+/Game/Vein/Appliances/BP_Blinds_Double.Default__BP_Blinds_Double_C:Mesh Swap.Settings(0).Settings.UseSetting,,23E34E19456129651DFB11B0805F8194,Open,เปิด
+/Game/Vein/Appliances/BP_Blinds_Double.Default__BP_Blinds_Double_C:Mesh Swap.Settings(1).Settings.UseSetting,,412B696C42A40E8B60DA8E8363DCD913,Closed,ปิด
+/Game/Vein/Appliances/BP_Blinds_Double.Default__BP_Blinds_Double_C:Mesh Swap.Settings(2).Settings.UseSetting,,A079F5D74836494436E1649734590A10,Parted,แยกออก
+/Game/Vein/Appliances/BP_BlindsComponent.Default__BP_BlindsComponent_C.Settings(0).Settings.UseSetting,,2305BB224A5B3A916111789EB7F47749,Up,บน
+/Game/Vein/Appliances/BP_BlindsComponent.Default__BP_BlindsComponent_C.Settings(3).Settings.UseSetting,,0C0458F84F7952959BCDA7BA9682AC3C,Down,ล่าง
+/Game/Vein/Appliances/BP_BlindsComponent.Default__BP_BlindsComponent_C.UsableName,,1484253A408642C5857622A32A7E873A,Blinds,มู่ลี่
+/Game/Vein/Appliances/BP_Campfire.BP_Campfire_C:Furniture_GEN_VARIABLE.UsableName,,6421973948E0C9FE3D472D9EA08E6880,Campfire,กองไฟ
+/Game/Vein/Appliances/BP_Campfire.Default__BP_Campfire_C.UsableName,,E50A3FAE463E381E4185D69B488D9C1C,Campfire,กองไฟ
+/Game/Vein/Appliances/BP_Campfire.Default__BP_Campfire_C.UsableOptionName,,DC4020A14E93E7EC47B9F1ADD4271E8B,Use,ใช้งาน
+/Game/Vein/Appliances/BP_Campfire.Default__BP_Campfire_C:Workbench.UsableName,,23C42EAA480D0130068783A52E4063F8,Campfire,กองไฟ
+/Game/Vein/Appliances/BP_CandyMachine01.BP_CandyMachine01_C:Furniture_GEN_VARIABLE.UsableName,,127CC7F24D15A7DB77097CAF5538372E,Candy Machine,เครื่องทำลูกอม
+/Game/Vein/Appliances/BP_CandyMachine01.BP_CandyMachine01_C:VendingMachineButton1_GEN_VARIABLE.Subtitle,,D7744C244F85E22549BE088F22DE0B11,Candy,ลูกอม
+/Game/Vein/Appliances/BP_CandyMachine01.BP_CandyMachine01_C:VendingMachineButton2_GEN_VARIABLE.Subtitle,,B14B37D44D9EFBA8F1FED786DA76243E,Candy,ลูกอม
+/Game/Vein/Appliances/BP_CandyMachine01.BP_CandyMachine01_C:VendingMachineButton3_GEN_VARIABLE.Subtitle,,249A80E4456A83BAD710E1A22E07C750,Capsule,แคปซูล
+/Game/Vein/Appliances/BP_CandyMachine01.BP_CandyMachine01_C:VendingMachineButton_GEN_VARIABLE.Subtitle,,1DAF4DB441BAD8C83CB640933064FD7B,Candy,ลูกอม
+/Game/Vein/Appliances/BP_CharcoalKiln.BP_CharcoalKiln_C:Furniture_GEN_VARIABLE.UsableName,,60CBFD7D4F3ABB79EC65C69CE96BAF7D,Makeshift Charcoal Kiln,เตาเผาถ่านแบบง่าย
+/Game/Vein/Appliances/BP_CharcoalKiln.BP_CharcoalKiln_C:Heat Converter_GEN_VARIABLE.UsableName,,937854854D47561DE5AB2F851052BE0B,Makeshift Charcoal Kiln,เตาเผาถ่านแบบง่าย
+/Game/Vein/Appliances/BP_CharcoalKiln.BP_CharcoalKiln_C:Inventory_GEN_VARIABLE.Name,,73C453334125997701107689FBA4C802,Makeshift Charcoal Kiln,เตาเผาถ่านแบบง่าย
+/Game/Vein/Appliances/BP_Chemistry_Counter01_Sink.BP_Chemistry_Counter01_Sink_C:Furniture_GEN_VARIABLE.UsableName,,67DADC0A4F2B27D707C437B17975672B,L-Shaped Chemistry Counter w/ Sink,เคาน์เตอร์เคมีรูปตัวแอลพร้อมก๊อก
+/Game/Vein/Appliances/BP_Chemistry_Counter01_Sink.BP_Chemistry_Counter01_Sink_C:WaterSource_GEN_VARIABLE.DrainNotificationText,,9D61560448485BF098C715915EED5C53,You drain the sink.,คุณสูบน้ำออกจากอ่าง
+/Game/Vein/Appliances/BP_Chemistry_Counter01_Sink.BP_Chemistry_Counter01_Sink_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,53954C1C43D1F5F5BF33BD903C21A3F4,Drain Sink,สูบน้ำจากอ่าง
+/Game/Vein/Appliances/BP_Chemistry_Counter01_Sink.BP_Chemistry_Counter01_Sink_C:WaterSource_GEN_VARIABLE.Label,,5CE5FECC434776E7220DEA9BBDFB1918,Sink,อ่าง
+/Game/Vein/Appliances/BP_Chemistry_Counter01_Sink.BP_Chemistry_Counter01_Sink_C:WaterSource_GEN_VARIABLE.StoreNotificationText,,BD44273C46463081FBC57C9197B9310E,You fill the sink.,คุณเติมน้ำใส่อ่าง
+/Game/Vein/Appliances/BP_Chemistry_Counter01_Sink.BP_Chemistry_Counter01_Sink_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,48A819784A98C1E71417A79B939F73DB,Fill Sink,เติมน้ำใส่อ่าง
+/Game/Vein/Appliances/BP_CoffeeMachine01.BP_CoffeeMachine01_C:Furniture_GEN_VARIABLE.UsableName,,65F1BA474B673C3AAF7675A979562222,Coffee Machine,เครื่องทำกาแฟ
+/Game/Vein/Appliances/BP_CoffeeMachine01.BP_CoffeeMachine01_C:WaterSource_GEN_VARIABLE.Label,,C9F4A75A4EB42C626655BB95D52AEDAC,Coffee Machine,เครื่องทำกาแฟ
+/Game/Vein/Appliances/BP_CoffeeMachine01.BP_CoffeeMachine01_C:Wireable_GEN_VARIABLE.UsableName,,7567E3584DA6F64954D600856C0C6B96,Coffee Machine,เครื่องทำกาแฟ
+/Game/Vein/Appliances/BP_CoffeeMachine02.BP_CoffeeMachine02_C:Furniture_GEN_VARIABLE.UsableName,,1DEF5B1F43BE875E33422E906A8CDC2C,Drip Coffee Machine,เครื่องทำกาแฟแบบหยด
+/Game/Vein/Appliances/BP_CoffeeMachine02.BP_CoffeeMachine02_C:Wireable_GEN_VARIABLE.UsableName,,AE9D513D4C592F2BF5ABCAA3E0DEC362,Coffee Machine,เครื่องทำกาแฟ
+/Game/Vein/Appliances/BP_CoffeeMachine02.BP_CoffeeMachine02_C:Workbench_GEN_VARIABLE.UsableName,,BBE9C7874937C40EB7C73C816B14CF3B,Drip Coffee Machine,เครื่องทำกาแฟแบบหยด
+/Game/Vein/Appliances/BP_CoinMachine01.BP_CoinMachine01_C:Furniture_GEN_VARIABLE.UsableName,,505A876142D0DAF60B39B2AEAA407AED,Coin Machine (Work in Progress),เครื่องหยอดเหรียญ (ยังไม่แล้วเสร็จ)
+/Game/Vein/Appliances/BP_CoinMachine01.BP_CoinMachine01_C:Wireable_GEN_VARIABLE.UsableName,,5443B5CF48E4D43F019E728B801F9D16,Coin Machine,เครื่องหยอดเหรียญ
 /Game/Vein/Appliances/BP_Counter_02_Sink.BP_Counter_02_Sink_C:Furniture_GEN_VARIABLE.UsableName,,78AEADDC4B87AFCDA1187BBD2812B846,Kitchen Counter & Sink,เคาน์เตอร์ครัวและอ่างล้างจาน
-/Game/Vein/Appliances/BP_Counter_02_Sink.BP_Counter_02_Sink_C:WaterSource_GEN_VARIABLE.DrainNotificationText,,12AD1D3B442D34739BBA13A1D9A64497,You drain the sink.,
-/Game/Vein/Appliances/BP_Counter_02_Sink.BP_Counter_02_Sink_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,375CAE7E4F9ACCE7B4E96E826897F4C6,Drain Sink,
-/Game/Vein/Appliances/BP_Counter_02_Sink.BP_Counter_02_Sink_C:WaterSource_GEN_VARIABLE.Label,,AA6492364104722E6661F99F2971ACEF,Sink,
-/Game/Vein/Appliances/BP_Counter_02_Sink.BP_Counter_02_Sink_C:WaterSource_GEN_VARIABLE.StoreNotificationText,,D86D1B7448B5F11FFB6DF2BD423B11F9,You fill the sink.,
-/Game/Vein/Appliances/BP_Counter_02_Sink.BP_Counter_02_Sink_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,6F0543C3491E08EFF3D9168C35FBFAC8,Fill Sink,
-/Game/Vein/Appliances/BP_Counter_05_Dishwasher.BP_Counter_05_Dishwasher_C:Furniture_GEN_VARIABLE.UsableName,,B1A99B1642026ED4041620B0E0CC5DD5,Dishwasher,
-/Game/Vein/Appliances/BP_Counter_05_Dishwasher.Default__BP_Counter_05_Dishwasher_C:Inventory.Name,,C51BC88F493E3975579F34BAC44C5935,Dishwasher,
-/Game/Vein/Appliances/BP_DeskMicrophone.BP_DeskMicrophone_C:Furniture_GEN_VARIABLE.UsableName,,866FA3DA42BDAF5F24124084E23DB8DC,Microphone,
-/Game/Vein/Appliances/BP_DeskMicrophone.BP_DeskMicrophone_C:Microphone_GEN_VARIABLE.UsableName,,D180151A4B4B37D73DE4E9B5E302070B,Microphone,
-/Game/Vein/Appliances/BP_Dryer.BP_Dryer_C:Furniture_GEN_VARIABLE.UsableName,,15B93CB64171B76288A18BA99D35A899,Dryer,
-/Game/Vein/Appliances/BP_Dryer.BP_Dryer_C:InlineSwitch_GEN_VARIABLE.SubtitleText,,231C6B8E4EBB70A8366CC59775DC2D4E,Put clothes inside and turn on to reduce their wetness.,
-/Game/Vein/Appliances/BP_Dryer.BP_Dryer_C:InlineSwitch_GEN_VARIABLE.UsableName,,AD566E754A4A66EDF86479968CCDC1AC,Dryer,
-/Game/Vein/Appliances/BP_Dryer.BP_Dryer_C:Wireable_GEN_VARIABLE.UsableName,,86A88A3C41C2604D5D82D8BC7E8AAA94,Dryer,
-/Game/Vein/Appliances/BP_Dryer.Default__BP_Dryer_C:Inventory.Name,,D2A7EE8140EDD23BAEE3EC8CC0229AF2,Dryer,
-/Game/Vein/Appliances/BP_ElectricChargingStation.BP_ElectricChargingStation_C:Inventory_GEN_VARIABLE.HelpBodyText,,B685517A43FA55241A2EAA9FD973D020,Place batteries in this to charge them. The charger needs to be wired up to power to function.,
-/Game/Vein/Appliances/BP_ElectricChargingStation.BP_ElectricChargingStation_C:Inventory_GEN_VARIABLE.HelpTitleText,,D47BDBA04ED735AFFA8C84A1A84D4401,Battery Charger,
-/Game/Vein/Appliances/BP_ElectricChargingStation.BP_ElectricChargingStation_C:Inventory_GEN_VARIABLE.Name,,D30E9E12461686B29B6FFAA3618C195A,Battery Charger,
-/Game/Vein/Appliances/BP_EyeWashStation.BP_EyeWashStation_C:Furniture_GEN_VARIABLE.UsableName,,DDF62E2A43C5AC159B9EAA9AAD627130,Eye Wash Station,
-/Game/Vein/Appliances/BP_EyeWashStation.BP_EyeWashStation_C:WaterSource_GEN_VARIABLE.Label,,8330F57A4CBD6495FC0304855C355978,Eye Wash Station,
-/Game/Vein/Appliances/BP_Fan_1.BP_Fan_1_C:Furniture_GEN_VARIABLE.UsableName,,D37970A845107FA7AC17A2A0517EDA96,Fan,
-/Game/Vein/Appliances/BP_Fan_1.BP_Fan_1_C:Wireable_GEN_VARIABLE.UsableName,,07273FE3490D735BA79F66B65EEE1770,Fan,
-/Game/Vein/Appliances/BP_Fan_1.Default__BP_Fan_1_C:Mesh.UsableName,,D346185C44124110BA3AB4AABDB2DAB6,Fan,
-/Game/Vein/Appliances/BP_Fan_2.BP_Fan_2_C:Furniture_GEN_VARIABLE.UsableName,,F80233C947267C5A48D2D1BF02E8CA09,Fan,
-/Game/Vein/Appliances/BP_Fan_2.BP_Fan_2_C:Wireable_GEN_VARIABLE.UsableName,,4C8AC9434E6F750698B84BACA5AFF052,Fan,
-/Game/Vein/Appliances/BP_Fan_2.Default__BP_Fan_2_C:Mesh.UsableName,,06C71EE749AF06375D7A128F3673098E,Fan,
-/Game/Vein/Appliances/BP_Fireplace1.Default__BP_Fireplace1_C.UsableName,,27E2467C4CCB314618690F859814B3CA,Fireplace,
-/Game/Vein/Appliances/BP_Fireplace1.Default__BP_Fireplace1_C.UsableOptionName,,1B6AF0D6431F459BF3DA7F80362720CB,Open,
-/Game/Vein/Appliances/BP_Fireplace1.Default__BP_Fireplace1_C:Inventory.Name,,0362F8B34BC76A3C774F4EABC0ABB2B9,Fireplace,
-/Game/Vein/Appliances/BP_Fireplace1.Default__BP_Fireplace1_C:Workbench.UsableName,,5AF82CBB4D841C6DC8BA8EBA9EC79460,Fireplace,
-/Game/Vein/Appliances/BP_Fireplace2.Default__BP_Fireplace2_C.UsableName,,217B067B4615407361149DAAB17F8D57,Fireplace,
-/Game/Vein/Appliances/BP_Fireplace2.Default__BP_Fireplace2_C.UsableOptionName,,B7D92EE2430E09CE8942B4A4F3ED676A,Open,
-/Game/Vein/Appliances/BP_Fireplace2.Default__BP_Fireplace2_C:Inventory.Name,,064D10A84F97C5C3893F61B600B8325D,Fireplace,
-/Game/Vein/Appliances/BP_Fireplace2.Default__BP_Fireplace2_C:Workbench.UsableName,,8A032D5A42AF743A650DA89F61FBDFF9,Fireplace,
-/Game/Vein/Appliances/BP_Fireplace3.Default__BP_Fireplace3_C.UsableName,,6228E2344E91AD7615AFEAB4E2DF248D,Fireplace,
-/Game/Vein/Appliances/BP_Fireplace3.Default__BP_Fireplace3_C.UsableOptionName,,176D904C41E88C004997C89C83454D3F,Open,
-/Game/Vein/Appliances/BP_Fireplace3.Default__BP_Fireplace3_C:Inventory.Name,,FAE01E51472EEE27CA45569B669A29D8,Fireplace,
-/Game/Vein/Appliances/BP_Fireplace3.Default__BP_Fireplace3_C:Workbench.UsableName,,FB7407BF4D04DF00688D47ACFB677327,Fireplace,
-/Game/Vein/Appliances/BP_FoodWarmer01.BP_FoodWarmer01_C:Furniture_GEN_VARIABLE.UsableName,,56369A014DAB000DAB2E7C8A5587A778,Food Warmer,
-/Game/Vein/Appliances/BP_FoodWarmer01.BP_FoodWarmer01_C:Wireable_GEN_VARIABLE.UsableName,,2BF8F3DE4283CCE54ABF3DB635F5F278,Food Warmer,
-/Game/Vein/Appliances/BP_Fountain01.BP_Fountain01_C:Furniture_GEN_VARIABLE.UsableName,,C7E4EFB043EA7F9BD6BD048A3C408B0A,Drinking Fountain,
-/Game/Vein/Appliances/BP_Fountain01.BP_Fountain01_C:WaterSource_GEN_VARIABLE.Label,,C06B11B444A99ADA9FD55B9E6E2E5B74,Drinking Fountain,
-/Game/Vein/Appliances/BP_Fountain02.BP_Fountain02_C:Furniture_GEN_VARIABLE.UsableName,,7A9586264DC60D6B9BDD69830539B96F,Drinking Fountain,
-/Game/Vein/Appliances/BP_Fountain02.BP_Fountain02_C:WaterSource_GEN_VARIABLE.Label,,08A73E2242B912BC72DE4689DA7B3405,Drinking Fountain,
-/Game/Vein/Appliances/BP_Freezer_IceCream.BP_Freezer_IceCream_C:Furniture_GEN_VARIABLE.UsableName,,0DB5B23F4A2731D5CF3C1895FC330D3C,Fridge,
-/Game/Vein/Appliances/BP_Freezer_IceCream.BP_Freezer_IceCream_C:Wireable_GEN_VARIABLE.UsableName,,3471CCA8491E208F1CCB2D9D4EB2B1C3,Ice Cream Freezer,
-/Game/Vein/Appliances/BP_Fridge_Bar01.BP_Fridge_Bar01_C:Furniture_GEN_VARIABLE.UsableName,,7F4E8CA94F8AA400F755A4BCD1E7C666,Cooler,
-/Game/Vein/Appliances/BP_Fridge_Bar01.BP_Fridge_Bar01_C:Wireable_GEN_VARIABLE.UsableName,,B24936B94F5D3F6F8AE485BC736E00A4,Cooler,
-/Game/Vein/Appliances/BP_Fridge_Bar02.BP_Fridge_Bar02_C:Furniture_GEN_VARIABLE.UsableName,,8A58CB534F66CE725CBA428923BA677C,Cooler,
-/Game/Vein/Appliances/BP_Fridge_Bar02.BP_Fridge_Bar02_C:Wireable_GEN_VARIABLE.UsableName,,4D5B8169480AA49FF0772D9134525CB9,Cooler,
-/Game/Vein/Appliances/BP_Fridge_Commericial.BP_Fridge_Commericial_C:Furniture_GEN_VARIABLE.UsableName,,A6EE018148F0CCDD7867DDB710B68B2F,Steel Fridge,
-/Game/Vein/Appliances/BP_Fridge_Commericial.BP_Fridge_Commericial_C:Wireable_GEN_VARIABLE.UsableName,,1340F718419F07CC3A23C29872D65E49,Steel Fridge,
-/Game/Vein/Appliances/BP_Fridge_Commericial.Default__BP_Fridge_Commericial_C:Inventory.Name,,11165AC34F554BDEC1B726A4EB7CAB2F,Steel Fridge,
-/Game/Vein/Appliances/BP_Fridge_Convenience.BP_Fridge_Convenience_C:Furniture_GEN_VARIABLE.UsableName,,42F0113E4229F351B9825CBF7DA3FEF4,Cooler,
-/Game/Vein/Appliances/BP_Fridge_Convenience.BP_Fridge_Convenience_C:Wireable_GEN_VARIABLE.UsableName,,2012AB114908D4E6E07B4783F3CABB21,Cooler,
-/Game/Vein/Appliances/BP_Fridge_Convenience.Default__BP_Fridge_Convenience_C:Inventory.Name,,36B2B58B4E04DBE341DF72871DE886E7,Cooler,
-/Game/Vein/Appliances/BP_Fridge_Residential.BP_Fridge_Residential_C:Furniture_GEN_VARIABLE.UsableName,,AFE0CB1D472F548448CAB4B5AB078B24,Fridge,
-/Game/Vein/Appliances/BP_Fridge_Residential.BP_Fridge_Residential_C:Wireable_GEN_VARIABLE.UsableName,,D05F2D064E451A746BA5399EF79358E4,Fridge,
-/Game/Vein/Appliances/BP_Fridge_Residential.Default__BP_Fridge_Residential_C:Inventory.Name,,3ACE44B24821F8F4262CB6B547837735,Fridge,
-/Game/Vein/Appliances/BP_Fridge_Rich.BP_Fridge_Rich_C:Furniture_GEN_VARIABLE.UsableName,,03C0A7D842C5A205330D95A16A849176,French Door Fridge,
-/Game/Vein/Appliances/BP_Fridge_Rich.BP_Fridge_Rich_C:Wireable_GEN_VARIABLE.UsableName,,9649273B4170A5D72678248AF52E8F1D,French Door Fridge,
-/Game/Vein/Appliances/BP_Fridge_Rich.Default__BP_Fridge_Rich_C:Inventory.Name,,A4003AE54E55E8E5772377A01CA3F6C0,Fridge,
-/Game/Vein/Appliances/BP_Fryer.BP_Fryer_C:Furniture_GEN_VARIABLE.UsableName,,D6082D8844D180680F2116B9F439909F,Deep Fryer (WIP),
-/Game/Vein/Appliances/BP_GasPump01.BP_GasPump01_C:WaterSource_GEN_VARIABLE.Label,,A52BC51942DB9B68B561488ED9767EA5,Gas Pump,
-/Game/Vein/Appliances/BP_GasPump01Diesel.BP_GasPump01Diesel_C:WaterSource_GEN_VARIABLE.Label,,18370F9E46E71675893276AFCEE5AE8D,Diesel Pump,
-/Game/Vein/Appliances/BP_HandDryer.BP_HandDryer_C:Wireable_GEN_VARIABLE.UsableName,,DE00A8134605FE403334A7A46693E0B5,Hand Dryer,
-/Game/Vein/Appliances/BP_IceCreamMaker.BP_IceCreamMaker_C:Furniture_GEN_VARIABLE.UsableName,,753717AE4254CD66F5A19BABB346BC53,Ice Cream Machine,
-/Game/Vein/Appliances/BP_IceCreamMaker.BP_IceCreamMaker_C:Wireable_GEN_VARIABLE.UsableName,,B044772747A9DFAB5F15F2AABF73FF20,Ice Cream Maker,
-/Game/Vein/Appliances/BP_IceCreamMaker.Default__BP_IceCreamMaker_C.DispenseLabel,,B959AD5B4AF27E2DD656BFB419508178,Dispense,
-/Game/Vein/Appliances/BP_IceCreamMaker.Default__BP_IceCreamMaker_C.UsableName,,C2E8046B485512A0B696DEBCB497505C,Ice Cream Maker,
-/Game/Vein/Appliances/BP_IndustrialForge.BP_IndustrialForge_C:Furniture_GEN_VARIABLE.UsableName,,7FDAE48442BF2FC9C53DD3892B396668,Industrial Forge,
-/Game/Vein/Appliances/BP_IndustrialForge.BP_IndustrialForge_C:Heat Converter_GEN_VARIABLE.UsableName,,27CF723A47C25961357731BDA7D1B200,Industrial Forge,
-/Game/Vein/Appliances/BP_IndustrialForge.BP_IndustrialForge_C:Inventory_GEN_VARIABLE.Name,,8C3656114520E5E8EB5A8190E3DB7D7D,Industrial Forge,
-/Game/Vein/Appliances/BP_JuiceMachine01.BP_JuiceMachine01_C:Furniture_GEN_VARIABLE.UsableName,,3AE7E3D74FB73CC69E0FBE900AF33866,Juice Machine,
-/Game/Vein/Appliances/BP_JuiceMachine01.BP_JuiceMachine01_C:WaterSource_GEN_VARIABLE.Label,,AC20D2244CB52501AE1B10986AB04351,Juice Machine,
-/Game/Vein/Appliances/BP_JuiceMachine01.BP_JuiceMachine01_C:Wireable_GEN_VARIABLE.UsableName,,7D4262B848B22E26415D0F8E3714F8BE,Juice Machine,
-/Game/Vein/Appliances/BP_JuiceMachine02.BP_JuiceMachine02_C:Furniture_GEN_VARIABLE.UsableName,,74A84FE448646F5A08096997DA1711FD,Juice Machine,
-/Game/Vein/Appliances/BP_JuiceMachine02.BP_JuiceMachine02_C:WaterSource_GEN_VARIABLE.Label,,9FECC9664AA67137845DEDB4F55D696F,Juice Machine,
-/Game/Vein/Appliances/BP_JuiceMachine02.BP_JuiceMachine02_C:Wireable_GEN_VARIABLE.UsableName,,74BE2784443F63AE5F5A00BD7101E252,Juice Machine,
-/Game/Vein/Appliances/BP_Jukebox01.BP_Jukebox01_C:Furniture_GEN_VARIABLE.UsableName,,807728F840B273AD38C227B6E5E99EE9,Jukebox (Work in Progress),
-/Game/Vein/Appliances/BP_Jukebox01.BP_Jukebox01_C:Wireable_GEN_VARIABLE.UsableName,,47DB25974096DD5D3E99A49A7440CB90,Jukebox,
-/Game/Vein/Appliances/BP_KitchenDishwasher.BP_KitchenDishwasher_C:Furniture_GEN_VARIABLE.UsableName,,A5EAEEC3457989519F36BD9EBB03080A,Industrial Dishwasher,
-/Game/Vein/Appliances/BP_KitchenSink01.BP_KitchenSink01_C:Furniture_GEN_VARIABLE.UsableName,,4F948E614F5E966EFF5E108E8B123072,Kitchen Sink,
-/Game/Vein/Appliances/BP_KitchenSink01.BP_KitchenSink01_C:WaterSource_GEN_VARIABLE.DrainNotificationText,,57FF1B7A418189DDA218A385721BF5E5,You drain the sink.,
-/Game/Vein/Appliances/BP_KitchenSink01.BP_KitchenSink01_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,06EAD8D6423DFDC46E8605B1215BD2CF,Drain Sink,
-/Game/Vein/Appliances/BP_KitchenSink01.BP_KitchenSink01_C:WaterSource_GEN_VARIABLE.DrinkStoredNotification,,5EF97EC2461233C0FD0E2FAA2CEF8D83,You drink some of the water sitting in the sink.,
-/Game/Vein/Appliances/BP_KitchenSink01.BP_KitchenSink01_C:WaterSource_GEN_VARIABLE.Label,,37B7C6EE49A6752511A6D8B1D6F0751F,Sink,
-/Game/Vein/Appliances/BP_KitchenSink01.BP_KitchenSink01_C:WaterSource_GEN_VARIABLE.StoreNotificationText,,2B4BE610433C8B20CEA947B776D0DE6C,You fill the sink full of water.,
-/Game/Vein/Appliances/BP_KitchenSink01.BP_KitchenSink01_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,3996354A4943897F61F543BFED7843BC,Fill Sink,
-/Game/Vein/Appliances/BP_MakeshiftForge.BP_MakeshiftForge_C:Heat Converter_GEN_VARIABLE.UsableName,,13A797B24C0B7258F3E201A5208D80FB,Makeshift Forge,
-/Game/Vein/Appliances/BP_MakeshiftForge.BP_MakeshiftForge_C:Inventory_GEN_VARIABLE.Name,,A7FEE6D84C330AD8CDAE0D9E9C6A99C4,Makeshift Forge,
-/Game/Vein/Appliances/BP_Microwave01.BP_Microwave01_C:Furniture_GEN_VARIABLE.UsableName,,3293DF07410E8D7089364B82C9939D04,Microwave,
-/Game/Vein/Appliances/BP_Microwave01.BP_Microwave01_C:Microwave_GEN_VARIABLE.SwitchOffText,,171E150D4A004DAA17B0FBB250CFA16C,Turn Off,
-/Game/Vein/Appliances/BP_Microwave01.BP_Microwave01_C:Microwave_GEN_VARIABLE.SwitchOnText,,38C3758B44B6B3574E0351B3272ED93A,Turn On,
-/Game/Vein/Appliances/BP_Microwave01.BP_Microwave01_C:Microwave_GEN_VARIABLE.UsableName,,0957527F448E492D8CD2B09111F30A5F,Microwave,
-/Game/Vein/Appliances/BP_Microwave01.BP_Microwave01_C:Wireable_GEN_VARIABLE.UsableName,,0261C5A943797142ECF255A5123E28D8,Microwave,
-/Game/Vein/Appliances/BP_Microwave01.Default__BP_Microwave01_C:Inventory.Name,,C35ADB994EE79A181EF8968E2D56777A,Microwave,
+/Game/Vein/Appliances/BP_Counter_02_Sink.BP_Counter_02_Sink_C:WaterSource_GEN_VARIABLE.DrainNotificationText,,12AD1D3B442D34739BBA13A1D9A64497,You drain the sink.,คุณสูบน้ำออกจากอ่าง
+/Game/Vein/Appliances/BP_Counter_02_Sink.BP_Counter_02_Sink_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,375CAE7E4F9ACCE7B4E96E826897F4C6,Drain Sink,สูบน้ำจากอ่าง
+/Game/Vein/Appliances/BP_Counter_02_Sink.BP_Counter_02_Sink_C:WaterSource_GEN_VARIABLE.Label,,AA6492364104722E6661F99F2971ACEF,Sink,อ่าง
+/Game/Vein/Appliances/BP_Counter_02_Sink.BP_Counter_02_Sink_C:WaterSource_GEN_VARIABLE.StoreNotificationText,,D86D1B7448B5F11FFB6DF2BD423B11F9,You fill the sink.,คุณเติมน้ำใส่อ่าง
+/Game/Vein/Appliances/BP_Counter_02_Sink.BP_Counter_02_Sink_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,6F0543C3491E08EFF3D9168C35FBFAC8,Fill Sink,เติมน้ำใส่อ่าง
+/Game/Vein/Appliances/BP_Counter_05_Dishwasher.BP_Counter_05_Dishwasher_C:Furniture_GEN_VARIABLE.UsableName,,B1A99B1642026ED4041620B0E0CC5DD5,Dishwasher,เครื่องล้างจาน
+/Game/Vein/Appliances/BP_Counter_05_Dishwasher.Default__BP_Counter_05_Dishwasher_C:Inventory.Name,,C51BC88F493E3975579F34BAC44C5935,Dishwasher,เครื่องล้างจาน
+/Game/Vein/Appliances/BP_DeskMicrophone.BP_DeskMicrophone_C:Furniture_GEN_VARIABLE.UsableName,,866FA3DA42BDAF5F24124084E23DB8DC,Microphone,ไมโครโฟน
+/Game/Vein/Appliances/BP_DeskMicrophone.BP_DeskMicrophone_C:Microphone_GEN_VARIABLE.UsableName,,D180151A4B4B37D73DE4E9B5E302070B,Microphone,ไมโครโฟน
+/Game/Vein/Appliances/BP_Dryer.BP_Dryer_C:Furniture_GEN_VARIABLE.UsableName,,15B93CB64171B76288A18BA99D35A899,Dryer,เครื่องอบผ้า
+/Game/Vein/Appliances/BP_Dryer.BP_Dryer_C:InlineSwitch_GEN_VARIABLE.SubtitleText,,231C6B8E4EBB70A8366CC59775DC2D4E,Put clothes inside and turn on to reduce their wetness.,ใส่เสื้อเข้าไปแล้วเปิดเครื่องเพื่อลดความชื่้น
+/Game/Vein/Appliances/BP_Dryer.BP_Dryer_C:InlineSwitch_GEN_VARIABLE.UsableName,,AD566E754A4A66EDF86479968CCDC1AC,Dryer,เครื่องอบผ้า
+/Game/Vein/Appliances/BP_Dryer.BP_Dryer_C:Wireable_GEN_VARIABLE.UsableName,,86A88A3C41C2604D5D82D8BC7E8AAA94,Dryer,เครื่องอบผ้า
+/Game/Vein/Appliances/BP_Dryer.Default__BP_Dryer_C:Inventory.Name,,D2A7EE8140EDD23BAEE3EC8CC0229AF2,Dryer,เครื่องอบผ้า
+/Game/Vein/Appliances/BP_ElectricChargingStation.BP_ElectricChargingStation_C:Inventory_GEN_VARIABLE.HelpBodyText,,B685517A43FA55241A2EAA9FD973D020,Place batteries in this to charge them. The charger needs to be wired up to power to function.,ใส่แบตเตอรี่เพื่อชาร์จ เครื่องชาร์จต้องต่อเข้ากับสายไฟเพื่อทำงาน
+/Game/Vein/Appliances/BP_ElectricChargingStation.BP_ElectricChargingStation_C:Inventory_GEN_VARIABLE.HelpTitleText,,D47BDBA04ED735AFFA8C84A1A84D4401,Battery Charger,เครื่องชาร์จแบตเตอรี่
+/Game/Vein/Appliances/BP_ElectricChargingStation.BP_ElectricChargingStation_C:Inventory_GEN_VARIABLE.Name,,D30E9E12461686B29B6FFAA3618C195A,Battery Charger,เครื่องชาร์จแบตเตอรี่
+/Game/Vein/Appliances/BP_EyeWashStation.BP_EyeWashStation_C:Furniture_GEN_VARIABLE.UsableName,,DDF62E2A43C5AC159B9EAA9AAD627130,Eye Wash Station,สถานีล้างตา
+/Game/Vein/Appliances/BP_EyeWashStation.BP_EyeWashStation_C:WaterSource_GEN_VARIABLE.Label,,8330F57A4CBD6495FC0304855C355978,Eye Wash Station,สถานีล้างตา
+/Game/Vein/Appliances/BP_Fan_1.BP_Fan_1_C:Furniture_GEN_VARIABLE.UsableName,,D37970A845107FA7AC17A2A0517EDA96,Fan,พัดลม
+/Game/Vein/Appliances/BP_Fan_1.BP_Fan_1_C:Wireable_GEN_VARIABLE.UsableName,,07273FE3490D735BA79F66B65EEE1770,Fan,พัดลม
+/Game/Vein/Appliances/BP_Fan_1.Default__BP_Fan_1_C:Mesh.UsableName,,D346185C44124110BA3AB4AABDB2DAB6,Fan,พัดลม
+/Game/Vein/Appliances/BP_Fan_2.BP_Fan_2_C:Furniture_GEN_VARIABLE.UsableName,,F80233C947267C5A48D2D1BF02E8CA09,Fan,พัดลม
+/Game/Vein/Appliances/BP_Fan_2.BP_Fan_2_C:Wireable_GEN_VARIABLE.UsableName,,4C8AC9434E6F750698B84BACA5AFF052,Fan,พัดลม
+/Game/Vein/Appliances/BP_Fan_2.Default__BP_Fan_2_C:Mesh.UsableName,,06C71EE749AF06375D7A128F3673098E,Fan,พัดลม
+/Game/Vein/Appliances/BP_Fireplace1.Default__BP_Fireplace1_C.UsableName,,27E2467C4CCB314618690F859814B3CA,Fireplace,เตาผิง
+/Game/Vein/Appliances/BP_Fireplace1.Default__BP_Fireplace1_C.UsableOptionName,,1B6AF0D6431F459BF3DA7F80362720CB,Open,เปิด
+/Game/Vein/Appliances/BP_Fireplace1.Default__BP_Fireplace1_C:Inventory.Name,,0362F8B34BC76A3C774F4EABC0ABB2B9,Fireplace,เตาผิง
+/Game/Vein/Appliances/BP_Fireplace1.Default__BP_Fireplace1_C:Workbench.UsableName,,5AF82CBB4D841C6DC8BA8EBA9EC79460,Fireplace,เตาผิง
+/Game/Vein/Appliances/BP_Fireplace2.Default__BP_Fireplace2_C.UsableName,,217B067B4615407361149DAAB17F8D57,Fireplace,เตาผิง
+/Game/Vein/Appliances/BP_Fireplace2.Default__BP_Fireplace2_C.UsableOptionName,,B7D92EE2430E09CE8942B4A4F3ED676A,Open,เปิด
+/Game/Vein/Appliances/BP_Fireplace2.Default__BP_Fireplace2_C:Inventory.Name,,064D10A84F97C5C3893F61B600B8325D,Fireplace,เตาผิง
+/Game/Vein/Appliances/BP_Fireplace2.Default__BP_Fireplace2_C:Workbench.UsableName,,8A032D5A42AF743A650DA89F61FBDFF9,Fireplace,เตาผิง
+/Game/Vein/Appliances/BP_Fireplace3.Default__BP_Fireplace3_C.UsableName,,6228E2344E91AD7615AFEAB4E2DF248D,Fireplace,เตาผิง
+/Game/Vein/Appliances/BP_Fireplace3.Default__BP_Fireplace3_C.UsableOptionName,,176D904C41E88C004997C89C83454D3F,Open,เปิด
+/Game/Vein/Appliances/BP_Fireplace3.Default__BP_Fireplace3_C:Inventory.Name,,FAE01E51472EEE27CA45569B669A29D8,Fireplace,เตาผิง
+/Game/Vein/Appliances/BP_Fireplace3.Default__BP_Fireplace3_C:Workbench.UsableName,,FB7407BF4D04DF00688D47ACFB677327,Fireplace,เตาผิง
+/Game/Vein/Appliances/BP_FoodWarmer01.BP_FoodWarmer01_C:Furniture_GEN_VARIABLE.UsableName,,56369A014DAB000DAB2E7C8A5587A778,Food Warmer,เครื่องอุ่นกับข้าว
+/Game/Vein/Appliances/BP_FoodWarmer01.BP_FoodWarmer01_C:Wireable_GEN_VARIABLE.UsableName,,2BF8F3DE4283CCE54ABF3DB635F5F278,Food Warmer,เครื่องอุ่นกับข้าว
+/Game/Vein/Appliances/BP_Fountain01.BP_Fountain01_C:Furniture_GEN_VARIABLE.UsableName,,C7E4EFB043EA7F9BD6BD048A3C408B0A,Drinking Fountain,น้ำพุสำหนับดื่ม
+/Game/Vein/Appliances/BP_Fountain01.BP_Fountain01_C:WaterSource_GEN_VARIABLE.Label,,C06B11B444A99ADA9FD55B9E6E2E5B74,Drinking Fountain,น้ำพุสำหนับดื่ม
+/Game/Vein/Appliances/BP_Fountain02.BP_Fountain02_C:Furniture_GEN_VARIABLE.UsableName,,7A9586264DC60D6B9BDD69830539B96F,Drinking Fountain,น้ำพุสำหนับดื่ม
+/Game/Vein/Appliances/BP_Fountain02.BP_Fountain02_C:WaterSource_GEN_VARIABLE.Label,,08A73E2242B912BC72DE4689DA7B3405,Drinking Fountain,น้ำพุสำหนับดื่ม
+/Game/Vein/Appliances/BP_Freezer_IceCream.BP_Freezer_IceCream_C:Furniture_GEN_VARIABLE.UsableName,,0DB5B23F4A2731D5CF3C1895FC330D3C,Fridge,ตู้เย็น
+/Game/Vein/Appliances/BP_Freezer_IceCream.BP_Freezer_IceCream_C:Wireable_GEN_VARIABLE.UsableName,,3471CCA8491E208F1CCB2D9D4EB2B1C3,Ice Cream Freezer,ตู้แช่ไอติม
+/Game/Vein/Appliances/BP_Fridge_Bar01.BP_Fridge_Bar01_C:Furniture_GEN_VARIABLE.UsableName,,7F4E8CA94F8AA400F755A4BCD1E7C666,Cooler,ตู้แช่
+/Game/Vein/Appliances/BP_Fridge_Bar01.BP_Fridge_Bar01_C:Wireable_GEN_VARIABLE.UsableName,,B24936B94F5D3F6F8AE485BC736E00A4,Cooler,ตู้แช่
+/Game/Vein/Appliances/BP_Fridge_Bar02.BP_Fridge_Bar02_C:Furniture_GEN_VARIABLE.UsableName,,8A58CB534F66CE725CBA428923BA677C,Cooler,ตู้แช่
+/Game/Vein/Appliances/BP_Fridge_Bar02.BP_Fridge_Bar02_C:Wireable_GEN_VARIABLE.UsableName,,4D5B8169480AA49FF0772D9134525CB9,Cooler,ตู้แช่
+/Game/Vein/Appliances/BP_Fridge_Commericial.BP_Fridge_Commericial_C:Furniture_GEN_VARIABLE.UsableName,,A6EE018148F0CCDD7867DDB710B68B2F,Steel Fridge,ตู้เย็นเหล็ก
+/Game/Vein/Appliances/BP_Fridge_Commericial.BP_Fridge_Commericial_C:Wireable_GEN_VARIABLE.UsableName,,1340F718419F07CC3A23C29872D65E49,Steel Fridge,ตู้เย็นเหล็ก
+/Game/Vein/Appliances/BP_Fridge_Commericial.Default__BP_Fridge_Commericial_C:Inventory.Name,,11165AC34F554BDEC1B726A4EB7CAB2F,Steel Fridge,ตู้เย็นเหล็ก
+/Game/Vein/Appliances/BP_Fridge_Convenience.BP_Fridge_Convenience_C:Furniture_GEN_VARIABLE.UsableName,,42F0113E4229F351B9825CBF7DA3FEF4,Cooler,ตู้แช่
+/Game/Vein/Appliances/BP_Fridge_Convenience.BP_Fridge_Convenience_C:Wireable_GEN_VARIABLE.UsableName,,2012AB114908D4E6E07B4783F3CABB21,Cooler,ตู้แช่
+/Game/Vein/Appliances/BP_Fridge_Convenience.Default__BP_Fridge_Convenience_C:Inventory.Name,,36B2B58B4E04DBE341DF72871DE886E7,Cooler,ตู้แช่
+/Game/Vein/Appliances/BP_Fridge_Residential.BP_Fridge_Residential_C:Furniture_GEN_VARIABLE.UsableName,,AFE0CB1D472F548448CAB4B5AB078B24,Fridge,ตู้เย็น
+/Game/Vein/Appliances/BP_Fridge_Residential.BP_Fridge_Residential_C:Wireable_GEN_VARIABLE.UsableName,,D05F2D064E451A746BA5399EF79358E4,Fridge,ตู้เย็น
+/Game/Vein/Appliances/BP_Fridge_Residential.Default__BP_Fridge_Residential_C:Inventory.Name,,3ACE44B24821F8F4262CB6B547837735,Fridge,ตู้เย็น
+/Game/Vein/Appliances/BP_Fridge_Rich.BP_Fridge_Rich_C:Furniture_GEN_VARIABLE.UsableName,,03C0A7D842C5A205330D95A16A849176,French Door Fridge,ตู้เย็น French Door
+/Game/Vein/Appliances/BP_Fridge_Rich.BP_Fridge_Rich_C:Wireable_GEN_VARIABLE.UsableName,,9649273B4170A5D72678248AF52E8F1D,French Door Fridge,ตู้เย็น French Door
+/Game/Vein/Appliances/BP_Fridge_Rich.Default__BP_Fridge_Rich_C:Inventory.Name,,A4003AE54E55E8E5772377A01CA3F6C0,Fridge,ตู้เย็น
+/Game/Vein/Appliances/BP_Fryer.BP_Fryer_C:Furniture_GEN_VARIABLE.UsableName,,D6082D8844D180680F2116B9F439909F,Deep Fryer (WIP),หท้อทอด (ยังไม่แล้วเสร็จ)
+/Game/Vein/Appliances/BP_GasPump01.BP_GasPump01_C:WaterSource_GEN_VARIABLE.Label,,A52BC51942DB9B68B561488ED9767EA5,Gas Pump,ปั้มแก๊ส
+/Game/Vein/Appliances/BP_GasPump01Diesel.BP_GasPump01Diesel_C:WaterSource_GEN_VARIABLE.Label,,18370F9E46E71675893276AFCEE5AE8D,Diesel Pump,ปั้มน้ำมัน
+/Game/Vein/Appliances/BP_HandDryer.BP_HandDryer_C:Wireable_GEN_VARIABLE.UsableName,,DE00A8134605FE403334A7A46693E0B5,Hand Dryer,เครื่องเป่ามือ
+/Game/Vein/Appliances/BP_IceCreamMaker.BP_IceCreamMaker_C:Furniture_GEN_VARIABLE.UsableName,,753717AE4254CD66F5A19BABB346BC53,Ice Cream Machine,เครื่องทำไอติม
+/Game/Vein/Appliances/BP_IceCreamMaker.BP_IceCreamMaker_C:Wireable_GEN_VARIABLE.UsableName,,B044772747A9DFAB5F15F2AABF73FF20,Ice Cream Maker,เครื่องทำไอติม
+/Game/Vein/Appliances/BP_IceCreamMaker.Default__BP_IceCreamMaker_C.DispenseLabel,,B959AD5B4AF27E2DD656BFB419508178,Dispense,แจก
+/Game/Vein/Appliances/BP_IceCreamMaker.Default__BP_IceCreamMaker_C.UsableName,,C2E8046B485512A0B696DEBCB497505C,Ice Cream Maker,เครื่องทำไอติม
+/Game/Vein/Appliances/BP_IndustrialForge.BP_IndustrialForge_C:Furniture_GEN_VARIABLE.UsableName,,7FDAE48442BF2FC9C53DD3892B396668,Industrial Forge,โรงตีเหล็กแบบอุตสาหกรรม
+/Game/Vein/Appliances/BP_IndustrialForge.BP_IndustrialForge_C:Heat Converter_GEN_VARIABLE.UsableName,,27CF723A47C25961357731BDA7D1B200,Industrial Forge,โรงตีเหล็กแบบอุตสาหกรรม
+/Game/Vein/Appliances/BP_IndustrialForge.BP_IndustrialForge_C:Inventory_GEN_VARIABLE.Name,,8C3656114520E5E8EB5A8190E3DB7D7D,Industrial Forge,โรงตีเหล็กอุตสาหกรรมโรงตีเหล็กแบบอุตสาหกรรม
+/Game/Vein/Appliances/BP_JuiceMachine01.BP_JuiceMachine01_C:Furniture_GEN_VARIABLE.UsableName,,3AE7E3D74FB73CC69E0FBE900AF33866,Juice Machine,เครื่องคั้นน้ำผลไม้
+/Game/Vein/Appliances/BP_JuiceMachine01.BP_JuiceMachine01_C:WaterSource_GEN_VARIABLE.Label,,AC20D2244CB52501AE1B10986AB04351,Juice Machine,เครื่องคั้นน้ำผลไม้
+/Game/Vein/Appliances/BP_JuiceMachine01.BP_JuiceMachine01_C:Wireable_GEN_VARIABLE.UsableName,,7D4262B848B22E26415D0F8E3714F8BE,Juice Machine,เครื่องคั้นน้ำผลไม้
+/Game/Vein/Appliances/BP_JuiceMachine02.BP_JuiceMachine02_C:Furniture_GEN_VARIABLE.UsableName,,74A84FE448646F5A08096997DA1711FD,Juice Machine,เครื่องคั้นน้ำผลไม้
+/Game/Vein/Appliances/BP_JuiceMachine02.BP_JuiceMachine02_C:WaterSource_GEN_VARIABLE.Label,,9FECC9664AA67137845DEDB4F55D696F,Juice Machine,เครื่องคั้นน้ำผลไม้
+/Game/Vein/Appliances/BP_JuiceMachine02.BP_JuiceMachine02_C:Wireable_GEN_VARIABLE.UsableName,,74BE2784443F63AE5F5A00BD7101E252,Juice Machine,เครื่องคั้นน้ำผลไม้
+/Game/Vein/Appliances/BP_Jukebox01.BP_Jukebox01_C:Furniture_GEN_VARIABLE.UsableName,,807728F840B273AD38C227B6E5E99EE9,Jukebox (Work in Progress),เครื่องเล่นเพลง (ยังไม่แล้วเสร็จ)
+/Game/Vein/Appliances/BP_Jukebox01.BP_Jukebox01_C:Wireable_GEN_VARIABLE.UsableName,,47DB25974096DD5D3E99A49A7440CB90,Jukebox,เครื่องเล่นเพลง
+/Game/Vein/Appliances/BP_KitchenDishwasher.BP_KitchenDishwasher_C:Furniture_GEN_VARIABLE.UsableName,,A5EAEEC3457989519F36BD9EBB03080A,Industrial Dishwasher,เครื่องล้างจานแบบอุตสาหกรรม
+/Game/Vein/Appliances/BP_KitchenSink01.BP_KitchenSink01_C:Furniture_GEN_VARIABLE.UsableName,,4F948E614F5E966EFF5E108E8B123072,Kitchen Sink,อ่างล้างจาน
+/Game/Vein/Appliances/BP_KitchenSink01.BP_KitchenSink01_C:WaterSource_GEN_VARIABLE.DrainNotificationText,,57FF1B7A418189DDA218A385721BF5E5,You drain the sink.,คุณสูบน้ำออกจากอ่าง
+/Game/Vein/Appliances/BP_KitchenSink01.BP_KitchenSink01_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,06EAD8D6423DFDC46E8605B1215BD2CF,Drain Sink,สูบน้ำจากอ่าง
+/Game/Vein/Appliances/BP_KitchenSink01.BP_KitchenSink01_C:WaterSource_GEN_VARIABLE.DrinkStoredNotification,,5EF97EC2461233C0FD0E2FAA2CEF8D83,You drink some of the water sitting in the sink.,คุณดื่มน้ำในอ่าง
+/Game/Vein/Appliances/BP_KitchenSink01.BP_KitchenSink01_C:WaterSource_GEN_VARIABLE.Label,,37B7C6EE49A6752511A6D8B1D6F0751F,Sink,อ่าง
+/Game/Vein/Appliances/BP_KitchenSink01.BP_KitchenSink01_C:WaterSource_GEN_VARIABLE.StoreNotificationText,,2B4BE610433C8B20CEA947B776D0DE6C,You fill the sink full of water.,คุณเติมน้ำจนเต็มอ่าง
+/Game/Vein/Appliances/BP_KitchenSink01.BP_KitchenSink01_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,3996354A4943897F61F543BFED7843BC,Fill Sink,เติมน้ำใส่อ่าง
+/Game/Vein/Appliances/BP_MakeshiftForge.BP_MakeshiftForge_C:Heat Converter_GEN_VARIABLE.UsableName,,13A797B24C0B7258F3E201A5208D80FB,Makeshift Forge,โรงตีเหล็กแบบง่าย
+/Game/Vein/Appliances/BP_MakeshiftForge.BP_MakeshiftForge_C:Inventory_GEN_VARIABLE.Name,,A7FEE6D84C330AD8CDAE0D9E9C6A99C4,Makeshift Forge,โรงตีเหล็กแบบง่าย
+/Game/Vein/Appliances/BP_Microwave01.BP_Microwave01_C:Furniture_GEN_VARIABLE.UsableName,,3293DF07410E8D7089364B82C9939D04,Microwave,ไมโครเวฟ
+/Game/Vein/Appliances/BP_Microwave01.BP_Microwave01_C:Microwave_GEN_VARIABLE.SwitchOffText,,171E150D4A004DAA17B0FBB250CFA16C,Turn Off,ปิด
+/Game/Vein/Appliances/BP_Microwave01.BP_Microwave01_C:Microwave_GEN_VARIABLE.SwitchOnText,,38C3758B44B6B3574E0351B3272ED93A,Turn On,เปิด
+/Game/Vein/Appliances/BP_Microwave01.BP_Microwave01_C:Microwave_GEN_VARIABLE.UsableName,,0957527F448E492D8CD2B09111F30A5F,Microwave,ไมโครเวฟ
+/Game/Vein/Appliances/BP_Microwave01.BP_Microwave01_C:Wireable_GEN_VARIABLE.UsableName,,0261C5A943797142ECF255A5123E28D8,Microwave,ไมโครเวฟ
+/Game/Vein/Appliances/BP_Microwave01.Default__BP_Microwave01_C:Inventory.Name,,C35ADB994EE79A181EF8968E2D56777A,Microwave,ไมโครเวฟ
 /Game/Vein/Appliances/BP_MiniFridge01.BP_MiniFridge01_C:Furniture_GEN_VARIABLE.UsableName,,2A9D2C0946F023C1DDE7C2BE120F0361,Mini Fridge,ตู้เย็นขนาดเล็ก
-/Game/Vein/Appliances/BP_MiniFridge01.BP_MiniFridge01_C:Wireable_GEN_VARIABLE.UsableName,,2E1DA96D40C9E2BA4C6C979147D45E23,Mini Fridge,
+/Game/Vein/Appliances/BP_MiniFridge01.BP_MiniFridge01_C:Wireable_GEN_VARIABLE.UsableName,,2E1DA96D40C9E2BA4C6C979147D45E23,Mini Fridge,ตู้เย็นขนาดเล็ก
 /Game/Vein/Appliances/BP_MiniFridge02.BP_MiniFridge02_C:Furniture_GEN_VARIABLE.UsableName,,97FEB9B64E3B9ADE85F1B88AB244A20B,Mini Fridge,ตู้เย็นขนาดเล็ก
-/Game/Vein/Appliances/BP_MiniFridge02.BP_MiniFridge02_C:Wireable_GEN_VARIABLE.UsableName,,9C52BE7841DFD81581D6179C7A817B20,Mini Fridge,
-/Game/Vein/Appliances/BP_MiniFridge03_Convenience.BP_MiniFridge03_Convenience_C:Furniture_GEN_VARIABLE.UsableName,,D0A0AD6D463B74F72C2C51B9E1752CB3,Mini Cooler,
-/Game/Vein/Appliances/BP_MiniFridge03_Convenience.BP_MiniFridge03_Convenience_C:Wireable_GEN_VARIABLE.UsableName,,05611F7547833DA7A49806A274FE52FB,Mini Fridge,
-/Game/Vein/Appliances/BP_PublicPhone01.BP_PublicPhone01_C:Furniture_GEN_VARIABLE.UsableName,,7A24A37F400CD78CEF73A3B83D1612EA,Public Phone (Work in Progress),
-/Game/Vein/Appliances/BP_PublicPhone01.BP_PublicPhone01_C:Wireable_GEN_VARIABLE.UsableName,,4ED1DBD74778F90A2A71288F9CAA6874,Public Phone,
-/Game/Vein/Appliances/BP_Shower.BP_Shower_C:Furniture_GEN_VARIABLE.UsableName,,2D81011E437CA2D5C5B7399AD6361815,Shower,
-/Game/Vein/Appliances/BP_Shower.BP_Shower_C:TransformTransitionUse_GEN_VARIABLE.UsableName,,DF6A88E04F9BC8A15E8F4CB9B9DD409A,Shower Door,
-/Game/Vein/Appliances/BP_Shower.BP_Shower_C:TransformTransitionUse_GEN_VARIABLE.UsableOption,,34D3661B40A647D1E44568B55BD877A9,Open/Close,
-/Game/Vein/Appliances/BP_Shower.BP_Shower_C:WaterSource_GEN_VARIABLE.DrainNotificationText,,CED0D6E04E1D2FB2810E22A0E58DB717,You drain the tub.,
-/Game/Vein/Appliances/BP_Shower.BP_Shower_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,5D35489648E2BD43119F24A952E4EB25,Drain Shower,
-/Game/Vein/Appliances/BP_Shower.BP_Shower_C:WaterSource_GEN_VARIABLE.DrinkStoredNotification,,346E002B471B0EFFBF99AD8B7D663BA2,You drink some of the water sitting in the shower.,
-/Game/Vein/Appliances/BP_Shower.BP_Shower_C:WaterSource_GEN_VARIABLE.Label,,C790A3B548E41C81BB2E3FBFE6A5AF36,Shower,
-/Game/Vein/Appliances/BP_Shower.BP_Shower_C:WaterSource_GEN_VARIABLE.StoreNotificationText,,56147BBB4D96585531F0CEBD3C55CB88,You fill the tub full of water.,
-/Game/Vein/Appliances/BP_Shower.BP_Shower_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,A3EE0F4E461B38684AE1DDA59A2924E0,Fill Tub,
-/Game/Vein/Appliances/BP_Stove.BP_Stove_C:Furniture_GEN_VARIABLE.UsableName,,5EE92CBA45309C378C85A79689902EC6,Electric Stove,
-/Game/Vein/Appliances/BP_Stove.Default__BP_Stove_C.AlwaysNeedsToolText,,0B09B7C2473B65D0E3A12580A2D56878,"A pot, pan, or oven dish is required to cook on this stove. Make sure to check the recipe and add one to the tool slot!",
-/Game/Vein/Appliances/BP_Stove.Default__BP_Stove_C.UsableName,,A0BD124C48CAF7A8C700019B6ECEAA42,Electric Stove,
-/Game/Vein/Appliances/BP_Stove.Default__BP_Stove_C:Inventory.Name,,C844438944E0270C1D9B548475C74D7C,Stove,
-/Game/Vein/Appliances/BP_Stove.Default__BP_Stove_C:Workbench.UsableName,,C0C334E14ACAB6F68992CD85D0C6F2D9,Stove,
-/Game/Vein/Appliances/BP_Stove02.BP_Stove02_C:Furniture_GEN_VARIABLE.UsableName,,6F633E0D4155EC0DC0DC72881880F2C4,Industrial Gas Range,
-/Game/Vein/Appliances/BP_Stove02.BP_Stove02_C:Wireable_GEN_VARIABLE.UsableName,,2B0C4C874866D4BF58472887BEAA9106,Industrial Gas Range,
-/Game/Vein/Appliances/BP_Stove02.Default__BP_Stove02_C.AlwaysNeedsToolText,,532B2ACC4B41B3026EE649A53F45D294,"A pot, pan, or oven dish is required to cook on this stove. Make sure to check the recipe and add one to the tool slot!",
-/Game/Vein/Appliances/BP_Stove02.Default__BP_Stove02_C.UsableName,,E75289C14369DBB701623781DF600C81,Industrial Gas Range,
-/Game/Vein/Appliances/BP_Stove02.Default__BP_Stove02_C:Workbench.UsableName,,011F12AD4A4E332EAD8E9290F24A830B,Stove,
-/Game/Vein/Appliances/BP_Stove03.BP_Stove03_C:Furniture_GEN_VARIABLE.UsableName,,FC7B9F9A413E9D2A846E6492379149EA,Industrial Gas Range w/ Griddle,
-/Game/Vein/Appliances/BP_Stove03.BP_Stove03_C:Wireable_GEN_VARIABLE.UsableName,,5FEF3522475AF0469EF17E99F373AEA9,Industrial Gas Range w/ Griddle,
-/Game/Vein/Appliances/BP_Stove03.Default__BP_Stove03_C.AlwaysNeedsToolText,,0AF1EEF4477DA3FFD661E4B08C420537,"A pot, pan, or oven dish is required to cook. Make sure to check the recipe and add one to the tool slot!",
-/Game/Vein/Appliances/BP_Stove03.Default__BP_Stove03_C.UsableName,,1EFBF1C0476934CEA23A91AD3CE5D3C4,Industrial Gas Range w/ Griddle,
-/Game/Vein/Appliances/BP_Stove03.Default__BP_Stove03_C:Workbench.UsableName,,3CBBCF73485F4DC4FAB9EAB6CF36884F,Stove,
-/Game/Vein/Appliances/BP_Stove04.BP_Stove04_C:Furniture_GEN_VARIABLE.UsableName,,D6BFAAC84EBA1C61BBEADAAED8930803,Industrial Gas Range w/ Grill,
-/Game/Vein/Appliances/BP_Stove04.BP_Stove04_C:Wireable_GEN_VARIABLE.UsableName,,1983046B4A8C05B5CACA39A845FC3842,Industrial Gas Range w/ Grill,
-/Game/Vein/Appliances/BP_Stove04.Default__BP_Stove04_C.AlwaysNeedsToolText,,C90709A34E6135562D03AEBB65A8DF65,"A pot, pan, or oven dish is required to cook. Make sure to check the recipe and add one to the tool slot!",
-/Game/Vein/Appliances/BP_Stove04.Default__BP_Stove04_C.UsableName,,F2F67F3A442FC6497CC1EB97DD6AF4D8,Industrial Gas Range w/ Grill,
-/Game/Vein/Appliances/BP_Stove04.Default__BP_Stove04_C:Workbench.UsableName,,08348C764BC610E2E4202590138E91B5,Stove,
-/Game/Vein/Appliances/BP_TobaccoShelf01.BP_TobaccoShelf01_C:Furniture_GEN_VARIABLE.UsableName,,DE2F24DE42ACA3CAD8572B9F56397F23,Tobacco Shelf,
-/Game/Vein/Appliances/BP_TobaccoShelf01.BP_TobaccoShelf01_C:Wireable_GEN_VARIABLE.UsableName,,5F4C2A774D7ECA4490D3BD841B80A194,Tobacco Shelf,
-/Game/Vein/Appliances/BP_TobaccoShelf02.BP_TobaccoShelf02_C:Furniture_GEN_VARIABLE.UsableName,,0950E86F4843B73B3533E195A414B2EA,Tobacco Shelf,
-/Game/Vein/Appliances/BP_TobaccoShelf02.BP_TobaccoShelf02_C:Wireable_GEN_VARIABLE.UsableName,,AD48353845F7DF1033E610B84029A4C9,Tobacco Shelf,
-/Game/Vein/Appliances/BP_Toilet1.BP_Toilet1_C:Furniture_GEN_VARIABLE.UsableName,,C09CBD644CB22681591655B2042ECE39,Toilet,
-/Game/Vein/Appliances/BP_Toilet1.BP_Toilet1_C:GetUsableName [Script Bytecode],,76A461E9468DFE82AC0894BBC6949C23,Toilet,
-/Game/Vein/Appliances/BP_Toilet1.BP_Toilet1_C:GetUseOptions [Script Bytecode],,24AC851A4A83287DB38006B5F640AB62,Close,
-/Game/Vein/Appliances/BP_Toilet1.BP_Toilet1_C:GetUseOptions [Script Bytecode],,94C2DA654C376B974DC374A4B66A0BA7,Seat Down,
-/Game/Vein/Appliances/BP_Toilet1.BP_Toilet1_C:GetUseOptions [Script Bytecode],,A049C92441BF33EBE4F4BB8FB5B74DD5,Seat Up,
-/Game/Vein/Appliances/BP_Toilet1.BP_Toilet1_C:WaterSource_GEN_VARIABLE.DrainNotificationText,,B016F0774D82702E096CBB95688137B3,You drain the toilet.,
-/Game/Vein/Appliances/BP_Toilet1.BP_Toilet1_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,0C5CEA594AFAAAFF94CE61B4EA6A8AF8,Drain Toilet,
-/Game/Vein/Appliances/BP_Toilet1.BP_Toilet1_C:WaterSource_GEN_VARIABLE.DrinkStoredNotification,,547A02734C468FED3A57F4BAA6273ACC,You drink some of the toilet water.,คุณดื่มน้ำจากห้องสุขาบ้าง
-/Game/Vein/Appliances/BP_Toilet1.BP_Toilet1_C:WaterSource_GEN_VARIABLE.Label,,9D470B564BE072FD86A1F6B77A697C40,Toilet,
-/Game/Vein/Appliances/BP_Toilet1.BP_Toilet1_C:WaterSource_GEN_VARIABLE.NoWaterText,,011A5D8C4EC62826B321E68383893197,The toilet bowl is empty.,
-/Game/Vein/Appliances/BP_Toilet1.BP_Toilet1_C:WaterSource_GEN_VARIABLE.StoreNotificationText,,2462E481474745066AB3BF9F07795F8D,You fill the toilet bowl full of water.,
-/Game/Vein/Appliances/BP_Toilet1.BP_Toilet1_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,92DF65A94C4CF4FBE2D4978E992C7A5B,Fill Toilet,
-/Game/Vein/Appliances/BP_Toilet2.BP_Toilet2_C:Furniture_GEN_VARIABLE.UsableName,,4309DEF94438224CDFECE6A7D1F5B24F,Toilet,
-/Game/Vein/Appliances/BP_Toilet2.BP_Toilet2_C:GetUsableName [Script Bytecode],,7957DF61430EBBDB598A518D3023A340,Toilet,
-/Game/Vein/Appliances/BP_Toilet2.BP_Toilet2_C:GetUseOptions [Script Bytecode],,BE2B54BD4427E60716401898B90293D0,Close,
-/Game/Vein/Appliances/BP_Toilet2.BP_Toilet2_C:GetUseOptions [Script Bytecode],,D52741A74218556EC4E2B2A5FD9D9FF7,Seat Down,
-/Game/Vein/Appliances/BP_Toilet2.BP_Toilet2_C:GetUseOptions [Script Bytecode],,D53899234D6BE2D8BA49DAAD8F06586B,Seat Up,
-/Game/Vein/Appliances/BP_Toilet2.BP_Toilet2_C:WaterSource_GEN_VARIABLE.DrainNotificationText,,F5C5EB5E48E78F390D0C2D8C53BE7A5E,You drain the toilet.,
-/Game/Vein/Appliances/BP_Toilet2.BP_Toilet2_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,82E0C0044FC51E3C2C1046A71DA9AAE2,Drain Toilet,
-/Game/Vein/Appliances/BP_Toilet2.BP_Toilet2_C:WaterSource_GEN_VARIABLE.DrinkStoredNotification,,762DEB9E4751EC9B35B1299DB343FF88,You drink some of the toilet water.,
-/Game/Vein/Appliances/BP_Toilet2.BP_Toilet2_C:WaterSource_GEN_VARIABLE.Label,,58E0A6894FF49807205171A395496B0C,Toilet,
-/Game/Vein/Appliances/BP_Toilet2.BP_Toilet2_C:WaterSource_GEN_VARIABLE.NoWaterText,,0FC5583444D56E5E66BD409C1658E793,The toilet bowl is empty.,
-/Game/Vein/Appliances/BP_Toilet2.BP_Toilet2_C:WaterSource_GEN_VARIABLE.StoreNotificationText,,3EAE314A448DAEA846AF8CA9058AD636,You fill the toilet bowl full of water.,
-/Game/Vein/Appliances/BP_Toilet2.BP_Toilet2_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,D1E34A8C4F87A1F3EF4483BCB8B69CF1,Fill Toilet,
+/Game/Vein/Appliances/BP_MiniFridge02.BP_MiniFridge02_C:Wireable_GEN_VARIABLE.UsableName,,9C52BE7841DFD81581D6179C7A817B20,Mini Fridge,ตู้เย็นขนาดเล็ก
+/Game/Vein/Appliances/BP_MiniFridge03_Convenience.BP_MiniFridge03_Convenience_C:Furniture_GEN_VARIABLE.UsableName,,D0A0AD6D463B74F72C2C51B9E1752CB3,Mini Cooler,ตู้แช่ขนาดเล็ก
+/Game/Vein/Appliances/BP_MiniFridge03_Convenience.BP_MiniFridge03_Convenience_C:Wireable_GEN_VARIABLE.UsableName,,05611F7547833DA7A49806A274FE52FB,Mini Fridge,ตู้เย็นขนาดเล็ก
+/Game/Vein/Appliances/BP_PublicPhone01.BP_PublicPhone01_C:Furniture_GEN_VARIABLE.UsableName,,7A24A37F400CD78CEF73A3B83D1612EA,Public Phone (Work in Progress),โทรศัพท์สาธารณะ (ยังไม่แล้วเสร็จ)
+/Game/Vein/Appliances/BP_PublicPhone01.BP_PublicPhone01_C:Wireable_GEN_VARIABLE.UsableName,,4ED1DBD74778F90A2A71288F9CAA6874,Public Phone,โทรศัพท์สาธารณะ
+/Game/Vein/Appliances/BP_Shower.BP_Shower_C:Furniture_GEN_VARIABLE.UsableName,,2D81011E437CA2D5C5B7399AD6361815,Shower,ฝักบัว
+/Game/Vein/Appliances/BP_Shower.BP_Shower_C:TransformTransitionUse_GEN_VARIABLE.UsableName,,DF6A88E04F9BC8A15E8F4CB9B9DD409A,Shower Door,ประตูห่องอาบน้ำ
+/Game/Vein/Appliances/BP_Shower.BP_Shower_C:TransformTransitionUse_GEN_VARIABLE.UsableOption,,34D3661B40A647D1E44568B55BD877A9,Open/Close,เปิด/ปิด
+/Game/Vein/Appliances/BP_Shower.BP_Shower_C:WaterSource_GEN_VARIABLE.DrainNotificationText,,CED0D6E04E1D2FB2810E22A0E58DB717,You drain the tub.,คุณสูบน้ำในอ่าง
+/Game/Vein/Appliances/BP_Shower.BP_Shower_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,5D35489648E2BD43119F24A952E4EB25,Drain Shower,สูบน้ำในฝักบัว
+/Game/Vein/Appliances/BP_Shower.BP_Shower_C:WaterSource_GEN_VARIABLE.DrinkStoredNotification,,346E002B471B0EFFBF99AD8B7D663BA2,You drink some of the water sitting in the shower.,คุณดื่มน้ำในฝีกบัว
+/Game/Vein/Appliances/BP_Shower.BP_Shower_C:WaterSource_GEN_VARIABLE.Label,,C790A3B548E41C81BB2E3FBFE6A5AF36,Shower,ฝักบัว
+/Game/Vein/Appliances/BP_Shower.BP_Shower_C:WaterSource_GEN_VARIABLE.StoreNotificationText,,56147BBB4D96585531F0CEBD3C55CB88,You fill the tub full of water.,คุณเติมน้ำจนเต็มอ่าง
+/Game/Vein/Appliances/BP_Shower.BP_Shower_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,A3EE0F4E461B38684AE1DDA59A2924E0,Fill Tub,เติมน้ำใส่อ่าง
+/Game/Vein/Appliances/BP_Stove.BP_Stove_C:Furniture_GEN_VARIABLE.UsableName,,5EE92CBA45309C378C85A79689902EC6,Electric Stove,เตาไฟฟ้า
+/Game/Vein/Appliances/BP_Stove.Default__BP_Stove_C.AlwaysNeedsToolText,,0B09B7C2473B65D0E3A12580A2D56878,"A pot, pan, or oven dish is required to cook on this stove. Make sure to check the recipe and add one to the tool slot!",ต้องมีหม้อ กระทะ หรือจานอบในการจะทำอาหารบนเตานี้ อย่าลืมที่จะดูสูตรอาหารแล้วนำไปใส่ในช่องเครื่องมือ
+/Game/Vein/Appliances/BP_Stove.Default__BP_Stove_C.UsableName,,A0BD124C48CAF7A8C700019B6ECEAA42,Electric Stove,เตาไฟฟ้า
+/Game/Vein/Appliances/BP_Stove.Default__BP_Stove_C:Inventory.Name,,C844438944E0270C1D9B548475C74D7C,Stove,เตาแก๊ส
+/Game/Vein/Appliances/BP_Stove.Default__BP_Stove_C:Workbench.UsableName,,C0C334E14ACAB6F68992CD85D0C6F2D9,Stove,เตาไฟฟ้า
+/Game/Vein/Appliances/BP_Stove02.BP_Stove02_C:Furniture_GEN_VARIABLE.UsableName,,6F633E0D4155EC0DC0DC72881880F2C4,Industrial Gas Range,เตาแก๊สแบบอุตสาหกรรม
+/Game/Vein/Appliances/BP_Stove02.BP_Stove02_C:Wireable_GEN_VARIABLE.UsableName,,2B0C4C874866D4BF58472887BEAA9106,Industrial Gas Range,เตาแก๊สแบบอุตสาหกรรม
+/Game/Vein/Appliances/BP_Stove02.Default__BP_Stove02_C.AlwaysNeedsToolText,,532B2ACC4B41B3026EE649A53F45D294,"A pot, pan, or oven dish is required to cook on this stove. Make sure to check the recipe and add one to the tool slot!",ต้องมีหม้อ กระทะ หรือจานอบในการจะทำอาหารบนเตานี้ อย่าลืมที่จะดูสูตรอาหารแล้วนำไปใส่ในช่องเครื่องมือ
+/Game/Vein/Appliances/BP_Stove02.Default__BP_Stove02_C.UsableName,,E75289C14369DBB701623781DF600C81,Industrial Gas Range,เตาแก๊สแบบอุตสาหกรรม
+/Game/Vein/Appliances/BP_Stove02.Default__BP_Stove02_C:Workbench.UsableName,,011F12AD4A4E332EAD8E9290F24A830B,Stove,เตาแก๊ส
+/Game/Vein/Appliances/BP_Stove03.BP_Stove03_C:Furniture_GEN_VARIABLE.UsableName,,FC7B9F9A413E9D2A846E6492379149EA,Industrial Gas Range w/ Griddle,เตาแก๊สแบบอุตสาหกรรมพร้อมกระทะย่าง
+/Game/Vein/Appliances/BP_Stove03.BP_Stove03_C:Wireable_GEN_VARIABLE.UsableName,,5FEF3522475AF0469EF17E99F373AEA9,Industrial Gas Range w/ Griddle,เตาแก๊สแบบอุตสาหกรรมพร้อมกระทะย่าง
+/Game/Vein/Appliances/BP_Stove03.Default__BP_Stove03_C.AlwaysNeedsToolText,,0AF1EEF4477DA3FFD661E4B08C420537,"A pot, pan, or oven dish is required to cook. Make sure to check the recipe and add one to the tool slot!",ต้องมีหม้อ กระทะ หรือจานอบในการจะทำอาหาร อย่าลืมที่จะดูสูตรอาหารแล้วนำไปใส่ในช่องเครื่องมือ
+/Game/Vein/Appliances/BP_Stove03.Default__BP_Stove03_C.UsableName,,1EFBF1C0476934CEA23A91AD3CE5D3C4,Industrial Gas Range w/ Griddle,เตาแก๊สแบบอุตสาหกรรมพร้อมกระทะย่าง
+/Game/Vein/Appliances/BP_Stove03.Default__BP_Stove03_C:Workbench.UsableName,,3CBBCF73485F4DC4FAB9EAB6CF36884F,Stove,เตาแก๊ส
+/Game/Vein/Appliances/BP_Stove04.BP_Stove04_C:Furniture_GEN_VARIABLE.UsableName,,D6BFAAC84EBA1C61BBEADAAED8930803,Industrial Gas Range w/ Grill,เตาแก๊สแบบอุตสาหกรรมพร้อมตะแกรง
+/Game/Vein/Appliances/BP_Stove04.BP_Stove04_C:Wireable_GEN_VARIABLE.UsableName,,1983046B4A8C05B5CACA39A845FC3842,Industrial Gas Range w/ Grill,เตาแก๊สแบบอุตสาหกรรมพร้อมตะแกรง
+/Game/Vein/Appliances/BP_Stove04.Default__BP_Stove04_C.AlwaysNeedsToolText,,C90709A34E6135562D03AEBB65A8DF65,"A pot, pan, or oven dish is required to cook. Make sure to check the recipe and add one to the tool slot!",ต้องมีหม้อ กระทะ หรือจานอบในการจะทำอาหาร อย่าลืมที่จะดูสูตรอาหารแล้วนำไปใส่ในช่องเครื่องมือ
+/Game/Vein/Appliances/BP_Stove04.Default__BP_Stove04_C.UsableName,,F2F67F3A442FC6497CC1EB97DD6AF4D8,Industrial Gas Range w/ Grill,เตาแก๊สแบบอุตสาหกรรมพร้อมตะแกรง
+/Game/Vein/Appliances/BP_Stove04.Default__BP_Stove04_C:Workbench.UsableName,,08348C764BC610E2E4202590138E91B5,Stove,เตาแก๊ส
+/Game/Vein/Appliances/BP_TobaccoShelf01.BP_TobaccoShelf01_C:Furniture_GEN_VARIABLE.UsableName,,DE2F24DE42ACA3CAD8572B9F56397F23,Tobacco Shelf,ชั้นวางยาสูบ
+/Game/Vein/Appliances/BP_TobaccoShelf01.BP_TobaccoShelf01_C:Wireable_GEN_VARIABLE.UsableName,,5F4C2A774D7ECA4490D3BD841B80A194,Tobacco Shelf,ชั้นวางยาสูบ
+/Game/Vein/Appliances/BP_TobaccoShelf02.BP_TobaccoShelf02_C:Furniture_GEN_VARIABLE.UsableName,,0950E86F4843B73B3533E195A414B2EA,Tobacco Shelf,ชั้นวางยาสูบ
+/Game/Vein/Appliances/BP_TobaccoShelf02.BP_TobaccoShelf02_C:Wireable_GEN_VARIABLE.UsableName,,AD48353845F7DF1033E610B84029A4C9,Tobacco Shelf,ชั้นวางยาสูบ
+/Game/Vein/Appliances/BP_Toilet1.BP_Toilet1_C:Furniture_GEN_VARIABLE.UsableName,,C09CBD644CB22681591655B2042ECE39,Toilet,โถส้วม
+/Game/Vein/Appliances/BP_Toilet1.BP_Toilet1_C:GetUsableName [Script Bytecode],,76A461E9468DFE82AC0894BBC6949C23,Toilet,โถส้วม
+/Game/Vein/Appliances/BP_Toilet1.BP_Toilet1_C:GetUseOptions [Script Bytecode],,24AC851A4A83287DB38006B5F640AB62,Close,ปิด
+/Game/Vein/Appliances/BP_Toilet1.BP_Toilet1_C:GetUseOptions [Script Bytecode],,94C2DA654C376B974DC374A4B66A0BA7,Seat Down,นั่งลง
+/Game/Vein/Appliances/BP_Toilet1.BP_Toilet1_C:GetUseOptions [Script Bytecode],,A049C92441BF33EBE4F4BB8FB5B74DD5,Seat Up,ยืนขึ้น
+/Game/Vein/Appliances/BP_Toilet1.BP_Toilet1_C:WaterSource_GEN_VARIABLE.DrainNotificationText,,B016F0774D82702E096CBB95688137B3,You drain the toilet.,คุณสูบน้ำจากโถส้วม
+/Game/Vein/Appliances/BP_Toilet1.BP_Toilet1_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,0C5CEA594AFAAAFF94CE61B4EA6A8AF8,Drain Toilet,สูบน้ำจากโถส้วม
+/Game/Vein/Appliances/BP_Toilet1.BP_Toilet1_C:WaterSource_GEN_VARIABLE.DrinkStoredNotification,,547A02734C468FED3A57F4BAA6273ACC,You drink some of the toilet water.,คุณดื่มน้ำจากบางส่วนโถส้วม
+/Game/Vein/Appliances/BP_Toilet1.BP_Toilet1_C:WaterSource_GEN_VARIABLE.Label,,9D470B564BE072FD86A1F6B77A697C40,Toilet,โถส้วม
+/Game/Vein/Appliances/BP_Toilet1.BP_Toilet1_C:WaterSource_GEN_VARIABLE.NoWaterText,,011A5D8C4EC62826B321E68383893197,The toilet bowl is empty.,โถส้วมนี้ว่างเปล่า
+/Game/Vein/Appliances/BP_Toilet1.BP_Toilet1_C:WaterSource_GEN_VARIABLE.StoreNotificationText,,2462E481474745066AB3BF9F07795F8D,You fill the toilet bowl full of water.,คุณเติมน้ำในโถส้วมจนเต็ม
+/Game/Vein/Appliances/BP_Toilet1.BP_Toilet1_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,92DF65A94C4CF4FBE2D4978E992C7A5B,Fill Toilet,เติมน้ำ
+/Game/Vein/Appliances/BP_Toilet2.BP_Toilet2_C:Furniture_GEN_VARIABLE.UsableName,,4309DEF94438224CDFECE6A7D1F5B24F,Toilet,โถส้วม
+/Game/Vein/Appliances/BP_Toilet2.BP_Toilet2_C:GetUsableName [Script Bytecode],,7957DF61430EBBDB598A518D3023A340,Toilet,โถส้วม
+/Game/Vein/Appliances/BP_Toilet2.BP_Toilet2_C:GetUseOptions [Script Bytecode],,BE2B54BD4427E60716401898B90293D0,Close,ปิด
+/Game/Vein/Appliances/BP_Toilet2.BP_Toilet2_C:GetUseOptions [Script Bytecode],,D52741A74218556EC4E2B2A5FD9D9FF7,Seat Down,นั่งลง
+/Game/Vein/Appliances/BP_Toilet2.BP_Toilet2_C:GetUseOptions [Script Bytecode],,D53899234D6BE2D8BA49DAAD8F06586B,Seat Up,ยืนขึ้น
+/Game/Vein/Appliances/BP_Toilet2.BP_Toilet2_C:WaterSource_GEN_VARIABLE.DrainNotificationText,,F5C5EB5E48E78F390D0C2D8C53BE7A5E,You drain the toilet.,คุณสูบน้ำจากโถส้วม
+/Game/Vein/Appliances/BP_Toilet2.BP_Toilet2_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,82E0C0044FC51E3C2C1046A71DA9AAE2,Drain Toilet,สูบน้ำจากโถส้วม
+/Game/Vein/Appliances/BP_Toilet2.BP_Toilet2_C:WaterSource_GEN_VARIABLE.DrinkStoredNotification,,762DEB9E4751EC9B35B1299DB343FF88,You drink some of the toilet water.,คุณดื่มน้ำจากบางส่วนโถส้วม
+/Game/Vein/Appliances/BP_Toilet2.BP_Toilet2_C:WaterSource_GEN_VARIABLE.Label,,58E0A6894FF49807205171A395496B0C,Toilet,โถส้วม
+/Game/Vein/Appliances/BP_Toilet2.BP_Toilet2_C:WaterSource_GEN_VARIABLE.NoWaterText,,0FC5583444D56E5E66BD409C1658E793,The toilet bowl is empty.,โถส้วมนี้ว่างเปล่า
+/Game/Vein/Appliances/BP_Toilet2.BP_Toilet2_C:WaterSource_GEN_VARIABLE.StoreNotificationText,,3EAE314A448DAEA846AF8CA9058AD636,You fill the toilet bowl full of water.,คุณเติมน้ำในโถส้วมจนเต็ม
+/Game/Vein/Appliances/BP_Toilet2.BP_Toilet2_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,D1E34A8C4F87A1F3EF4483BCB8B69CF1,Fill Toilet,เติมน้ำ
 /Game/Vein/Appliances/BP_Toilet2Urinal.BP_Toilet2Urinal_C:Furniture_GEN_VARIABLE.UsableName,,3B8DE34C455428CDF6F936B824514721,Urinal,
 /Game/Vein/Appliances/BP_Toilet2Urinal.BP_Toilet2Urinal_C:WaterSource_GEN_VARIABLE.DrainNotificationText,,189369C34D7BF4C5763B1B9798C37655,You drain the urinal.,
 /Game/Vein/Appliances/BP_Toilet2Urinal.BP_Toilet2Urinal_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,53BAFD3843694D44703932A87B5CBCE6,Drain Urinal,
@@ -1271,11 +1271,11 @@ Schematics require half the stat requirements when decoded with this workbench."
 /Game/Vein/Containers/Civic/Medical/BP_MedicalCounter01.BP_MedicalCounter01_C:Furniture_GEN_VARIABLE.UsableName,,3C0BD1944ACAB04555C5A19B5E862511,Medical Counter,
 /Game/Vein/Containers/Civic/Medical/BP_MedicalCounter01.Default__BP_MedicalCounter01_C:Inventory.Name,,E26682394924A35B8F24C88A39A56F13,Medical Counter,
 /Game/Vein/Containers/Civic/Medical/BP_MedicalCounter02_Sink.BP_MedicalCounter02_Sink_C:Furniture_GEN_VARIABLE.UsableName,,09233F7E49A91AC4AAD853B25A98E19E,Medical Sink,
-/Game/Vein/Containers/Civic/Medical/BP_MedicalCounter02_Sink.BP_MedicalCounter02_Sink_C:WaterSource_GEN_VARIABLE.DrainNotificationText,,8A41E7DB4C1DCE970E4808ADA036147A,You drain the sink.,
-/Game/Vein/Containers/Civic/Medical/BP_MedicalCounter02_Sink.BP_MedicalCounter02_Sink_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,9546C57B4805D82D64F884BF87BDA2AC,Drain Sink,
+/Game/Vein/Containers/Civic/Medical/BP_MedicalCounter02_Sink.BP_MedicalCounter02_Sink_C:WaterSource_GEN_VARIABLE.DrainNotificationText,,8A41E7DB4C1DCE970E4808ADA036147A,You drain the sink.,คุณสูบน้ำออกจากอ่าง
+/Game/Vein/Containers/Civic/Medical/BP_MedicalCounter02_Sink.BP_MedicalCounter02_Sink_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,9546C57B4805D82D64F884BF87BDA2AC,Drain Sink,สูบน้ำจากอ่าง
 /Game/Vein/Containers/Civic/Medical/BP_MedicalCounter02_Sink.BP_MedicalCounter02_Sink_C:WaterSource_GEN_VARIABLE.Label,,30C12DFD43B169C77431978476165BD4,Sink,
-/Game/Vein/Containers/Civic/Medical/BP_MedicalCounter02_Sink.BP_MedicalCounter02_Sink_C:WaterSource_GEN_VARIABLE.StoreNotificationText,,23B637DD47016BBBDD32F19939069DE1,You fill the sink.,
-/Game/Vein/Containers/Civic/Medical/BP_MedicalCounter02_Sink.BP_MedicalCounter02_Sink_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,314560BE410FA6C0A5D97EAB2DD063C0,Fill Sink,
+/Game/Vein/Containers/Civic/Medical/BP_MedicalCounter02_Sink.BP_MedicalCounter02_Sink_C:WaterSource_GEN_VARIABLE.StoreNotificationText,,23B637DD47016BBBDD32F19939069DE1,You fill the sink.,คุณเติมน้ำใส่อ่าง
+/Game/Vein/Containers/Civic/Medical/BP_MedicalCounter02_Sink.BP_MedicalCounter02_Sink_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,314560BE410FA6C0A5D97EAB2DD063C0,Fill Sink,เติมน้ำใส่อ่าง
 /Game/Vein/Containers/Civic/Medical/BP_MedicalCounter02_Sink.Default__BP_MedicalCounter02_Sink_C:Inventory.Name,,B38B5DE64ED44CB40F71FE9858F80832,Medical Sink,
 /Game/Vein/Containers/Civic/Medical/BP_MedicalCrate01.BP_MedicalCrate01_C:Furniture_GEN_VARIABLE.UsableName,,26F0B49A40B868C806D372B6F6A7C3DC,Medical Crate,
 /Game/Vein/Containers/Civic/Medical/BP_MedicalCrate01.Default__BP_MedicalCrate01_C:Inventory.Name,,CE46BDAE47AC44B1CF6A25871881ECF0,Medical Crate,
@@ -1314,11 +1314,11 @@ Schematics require half the stat requirements when decoded with this workbench."
 /Game/Vein/Containers/Civic/Medical/Vet/BP_VetMedicalCounter01.BP_VetMedicalCounter01_C:Furniture_GEN_VARIABLE.UsableName,,74E9D91D4FCA02805D842CA67B5C4929,Medical Counter,
 /Game/Vein/Containers/Civic/Medical/Vet/BP_VetMedicalCounter01.Default__BP_VetMedicalCounter01_C:Inventory.Name,,3D88B1DF4E8C6FA8B5BE648E632EC65A,Veterinary Counter,
 /Game/Vein/Containers/Civic/Medical/Vet/BP_VetMedicalCounter02_Sink.BP_VetMedicalCounter02_Sink_C:Furniture_GEN_VARIABLE.UsableName,,687D0AF442F020A82F0643A8CD8A4258,Medical Sink,
-/Game/Vein/Containers/Civic/Medical/Vet/BP_VetMedicalCounter02_Sink.BP_VetMedicalCounter02_Sink_C:WaterSource_GEN_VARIABLE.DrainNotificationText,,D6384B1B4BE790FA74EB8389F4E94FE9,You drain the sink.,
-/Game/Vein/Containers/Civic/Medical/Vet/BP_VetMedicalCounter02_Sink.BP_VetMedicalCounter02_Sink_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,61D83C9C4208C14857DB4BB0CE23FFF7,Drain Sink,
+/Game/Vein/Containers/Civic/Medical/Vet/BP_VetMedicalCounter02_Sink.BP_VetMedicalCounter02_Sink_C:WaterSource_GEN_VARIABLE.DrainNotificationText,,D6384B1B4BE790FA74EB8389F4E94FE9,You drain the sink.,คุณสูบน้ำออกจากอ่าง
+/Game/Vein/Containers/Civic/Medical/Vet/BP_VetMedicalCounter02_Sink.BP_VetMedicalCounter02_Sink_C:WaterSource_GEN_VARIABLE.DrainUseLabel,,61D83C9C4208C14857DB4BB0CE23FFF7,Drain Sink,สูบน้ำจากอ่าง
 /Game/Vein/Containers/Civic/Medical/Vet/BP_VetMedicalCounter02_Sink.BP_VetMedicalCounter02_Sink_C:WaterSource_GEN_VARIABLE.Label,,1F6751624AB50EBCE6BF5081AB22A2A8,Sink,
-/Game/Vein/Containers/Civic/Medical/Vet/BP_VetMedicalCounter02_Sink.BP_VetMedicalCounter02_Sink_C:WaterSource_GEN_VARIABLE.StoreNotificationText,,0946D43541720DABB648AF83DABC5574,You fill the sink.,
-/Game/Vein/Containers/Civic/Medical/Vet/BP_VetMedicalCounter02_Sink.BP_VetMedicalCounter02_Sink_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,03C8904F4EBC8DA6C60F27BFA69B47B7,Fill Sink,
+/Game/Vein/Containers/Civic/Medical/Vet/BP_VetMedicalCounter02_Sink.BP_VetMedicalCounter02_Sink_C:WaterSource_GEN_VARIABLE.StoreNotificationText,,0946D43541720DABB648AF83DABC5574,You fill the sink.,คุณเติมน้ำใส่อ่าง
+/Game/Vein/Containers/Civic/Medical/Vet/BP_VetMedicalCounter02_Sink.BP_VetMedicalCounter02_Sink_C:WaterSource_GEN_VARIABLE.StoreUseLabel,,03C8904F4EBC8DA6C60F27BFA69B47B7,Fill Sink,เติมน้ำใส่อ่าง
 /Game/Vein/Containers/Civic/Medical/Vet/BP_VetMedicalCounter02_Sink.Default__BP_VetMedicalCounter02_Sink_C:Inventory.Name,,5A9F150F41EEB7DF2A83A38DDE007DC0,Veterinary Sink,
 /Game/Vein/Containers/Civic/Medical/Vet/BP_VetMedicalNightstand01.BP_VetMedicalNightstand01_C:Furniture_GEN_VARIABLE.UsableName,,83BA3B1E43ADCA53910EEA93399A19C7,Medical Nightstand,
 /Game/Vein/Containers/Civic/Medical/Vet/BP_VetMedicalNightstand01.Default__BP_VetMedicalNightstand01_C:Inventory.Name,,B88EF93C474E7EBEF841CEAA0C398ABC,Veterinary Table,
